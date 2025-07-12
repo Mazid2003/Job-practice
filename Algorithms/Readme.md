@@ -36,24 +36,28 @@ while low <= high:
 
 **✅ Much faster than linear search on sorted data (O(log n)).**
 
-3️. Bubble Sort
-➡ Repeatedly swap adjacent elements if they are in the wrong order.
+## 3️. Bubble Sort
 
-📌 Example:
+**➡ Repeatedly swap adjacent elements if they are in the wrong order.**
 
+**📌 Example:**
+```
 arr = [5, 3, 8, 4]
 for i in range(len(arr)):
     for j in range(0, len(arr)-i-1):
         if arr[j] > arr[j+1]:
             arr[j], arr[j+1] = arr[j+1], arr[j]
 print(arr)  # [3, 4, 5, 8]
-✅ Simple but inefficient for large lists.
+```
 
-4️. Selection Sort
-➡ Select the minimum element and put it at the beginning.
+**✅ Simple but inefficient for large lists.**
 
-📌 Example:
+## 4️. Selection Sort
 
+**➡ Select the minimum element and put it at the beginning.**
+
+**📌 Example:**
+```
 arr = [64, 25, 12, 22, 11]
 for i in range(len(arr)):
     min_idx = i
@@ -62,13 +66,15 @@ for i in range(len(arr)):
             min_idx = j
     arr[i], arr[min_idx] = arr[min_idx], arr[i]
 print(arr)  # [11, 12, 22, 25, 64]
-✅ Easy to understand, but not efficient (O(n²)).
+```
+**✅ Easy to understand, but not efficient (O(n²)).**
 
-5️. Insertion Sort
-➡ Build the sorted array one item at a time.
+## 5️. Insertion Sort
 
-📌 Example:
+**➡ Build the sorted array one item at a time.**
 
+**📌 Example:**
+```
 arr = [12, 11, 13, 5, 6]
 for i in range(1, len(arr)):
     key = arr[i]
@@ -78,7 +84,8 @@ for i in range(1, len(arr)):
         j -= 1
     arr[j+1] = key
 print(arr)  # [5, 6, 11, 12, 13]
-✅ Works well for small or nearly sorted data.
+```
+**✅ Works well for small or nearly sorted data.**
 
 6️. Merge Sort
 ➡ Divide the array in halves, sort them recursively, and merge.
