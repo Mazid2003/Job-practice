@@ -14,6 +14,10 @@ for i in range(len(arr)):
 ```
 **✅ Best when the list is unsorted**.
 
+#### Time Complexity: **O(n)**
+
+#### Space Complexity: **O(1)**
+
 ## 2. Binary Search
 
 **➡ Search a sorted array by repeatedly dividing the search space in half.**
