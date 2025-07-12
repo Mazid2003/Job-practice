@@ -1,22 +1,25 @@
+# Important Algorithms
 
-1. Linear Search
+## 1. Linear Search
 
-➡ Search for an element by checking each item one by one.
+➡ **Search for an element by checking each item one by one**.
 
-📌 Example:
-
+**📌 Example:**
+```
 arr = [3, 5, 7, 9, 11]
 target = 7
 for i in range(len(arr)):
     if arr[i] == target:
         print(f"Found at index {i}")  # Found at index 2
-✅ Best when the list is unsorted.
+```
+**✅ Best when the list is unsorted**.
 
-2. Binary Search
-➡ Search a sorted array by repeatedly dividing the search space in half.
+## 2. Binary Search
 
-📌 Example:
+**➡ Search a sorted array by repeatedly dividing the search space in half.**
 
+**📌 Example:**
+```
 arr = [2, 4, 6, 8, 10]
 target = 6
 low, high = 0, len(arr)-1
@@ -29,7 +32,9 @@ while low <= high:
         low = mid + 1
     else:
         high = mid - 1
-✅ Much faster than linear search on sorted data (O(log n)).
+```
+
+**✅ Much faster than linear search on sorted data (O(log n)).**
 
 3️. Bubble Sort
 ➡ Repeatedly swap adjacent elements if they are in the wrong order.
