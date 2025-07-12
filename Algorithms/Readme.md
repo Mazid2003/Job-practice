@@ -87,11 +87,12 @@ print(arr)  # [5, 6, 11, 12, 13]
 ```
 **✅ Works well for small or nearly sorted data.**
 
-6️. Merge Sort
-➡ Divide the array in halves, sort them recursively, and merge.
+## 6️. Merge Sort
 
-📌 Example:
+**➡ Divide the array in halves, sort them recursively, and merge.**
 
+**📌 Example:**
+```
 def merge_sort(arr):
     if len(arr) > 1:
         mid = len(arr) // 2
@@ -119,13 +120,16 @@ def merge_sort(arr):
 arr = [12, 11, 13, 5, 6, 7]
 merge_sort(arr)
 print(arr)  # [5, 6, 7, 11, 12, 13]
-✅ Time: O(n log n), good for large datasets.
+```
 
-7️. Quick Sort
-➡ Pick a pivot, partition array so smaller elements go left and larger right, then sort partitions.
+**✅ Time: O(n log n), good for large datasets.**
 
-📌 Example:
+## 7️. Quick Sort
 
+**➡ Pick a pivot, partition array so smaller elements go left and larger right, then sort partitions.**
+
+**📌 Example:**
+```
 def quick_sort(arr):
     if len(arr) <= 1:
         return arr
@@ -136,13 +140,15 @@ def quick_sort(arr):
         return quick_sort(less) + [pivot] + quick_sort(greater)
 arr = [10, 7, 8, 9, 1, 5]
 print(quick_sort(arr))  # [1, 5, 7, 8, 9, 10]
-✅ Fast on average: O(n log n)
+```
+**✅ Fast on average: O(n log n)**
 
-8️. Two Pointers Technique
-➡ Use two pointers to iterate through data for optimized solutions.
+## 8️. Two Pointers Technique
 
-📌 Example: Find pair with target sum
+**➡ Use two pointers to iterate through data for optimized solutions.**
 
+**📌 Example: Find pair with target sum**
+```
 arr = [1, 2, 3, 4, 6]
 target = 6
 l, r = 0, len(arr)-1
@@ -155,13 +161,15 @@ while l < r:
         l += 1
     else:
         r -= 1
-✅ Works on sorted arrays.
+```
+**✅ Works on sorted arrays.**
 
-9️. Sliding Window Technique
-➡ Maintain a window (subset) and slide it across to solve problems efficiently.
+## 9️. Sliding Window Technique
 
-📌 Example: Max sum of subarray of size 3
+**➡ Maintain a window (subset) and slide it across to solve problems efficiently.**
 
+**📌 Example: Max sum of subarray of size 3**
+```
 arr = [1, 4, 2, 10, 23, 3, 1, 0, 20]
 k = 3
 window_sum = sum(arr[:k])
@@ -170,39 +178,47 @@ for i in range(len(arr)-k):
     window_sum = window_sum - arr[i] + arr[i+k]
     max_sum = max(max_sum, window_sum)
 print(max_sum)  # 39
-✅ Reduces time complexity for subarray problems.
+```
+**✅ Reduces time complexity for subarray problems.**
 
-🔟 Kadane’s Algorithm
-➡ Find maximum subarray sum (contiguous).
+## 🔟 Kadane’s Algorithm
 
-📌 Example:
+**➡ Find maximum subarray sum (contiguous).**
 
+**📌 Example:**
+```
 arr = [-2,1,-3,4,-1,2,1,-5,4]
 max_sum = curr_sum = arr[0]
 for num in arr[1:]:
     curr_sum = max(num, curr_sum + num)
     max_sum = max(max_sum, curr_sum)
 print(max_sum)  # 6
-✅ O(n) time, great for max subarray problems.
+```
 
-1️⃣1️⃣ Prefix Sum and Difference Arrays
-➡ Precompute cumulative sums for fast range queries.
+**✅ O(n) time, great for max subarray problems.**
 
-📌 Example:
+## 1️⃣1️⃣ Prefix Sum and Difference Arrays
 
+**➡ Precompute cumulative sums for fast range queries.**
+
+**📌 Example:**
+```
 arr = [1, 2, 3, 4, 5]
 prefix = [0] * (len(arr)+1)
 for i in range(len(arr)):
     prefix[i+1] = prefix[i] + arr[i]
 # Sum from index 1 to 3 (2 + 3 + 4)
 print(prefix[4] - prefix[1])  # 9
-✅ Efficient for range sum queries.
+```
 
-1️⃣2️⃣ Flood Fill Algorithm (DFS/BFS for grid problems)
-➡ Fill connected region in a matrix/grid (like paint bucket tool).
+**✅ Efficient for range sum queries.**
 
-📌 Example:
+## 1️⃣2️⃣ Flood Fill Algorithm (DFS/BFS for grid problems)
 
+**➡ Fill connected region in a matrix/grid (like paint bucket tool).**
+
+**📌 Example:**
+```
 def flood_fill(grid, r, c, new_color, orig_color):
     if (r < 0 or c < 0 or r >= len(grid) or c >= len(grid[0]) or grid[r][c] != orig_color):
         return
@@ -219,3 +235,4 @@ grid = [
 ]
 flood_fill(grid, 1, 1, 2, grid[1][1])
 print(grid)  # [[2,2,2],[2,2,0],[2,0,1]]
+```
