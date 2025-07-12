@@ -14,9 +14,9 @@ for i in range(len(arr)):
 ```
 **✅ Best when the list is unsorted**.
 
-#### Time Complexity: **O(n)**
+### Time Complexity: O(n)
 
-#### Space Complexity: **O(1)**
+### Space Complexity: O(1)
 
 ## 2. Binary Search
 
@@ -38,7 +38,11 @@ while low <= high:
         high = mid - 1
 ```
 
-**✅ Much faster than linear search on sorted data (O(log n)).**
+**✅ Much faster than linear search on sorted data**
+
+### Time Complexity: O(logn)
+
+### Space Complexity: O(1)
 
 ## 3️. Bubble Sort
 
@@ -55,6 +59,10 @@ print(arr)  # [3, 4, 5, 8]
 ```
 
 **✅ Simple but inefficient for large lists.**
+
+### Time Complexity: O(n^2)
+
+### Space Complexity: O(1)
 
 ## 4️. Selection Sort
 
@@ -73,6 +81,10 @@ print(arr)  # [11, 12, 22, 25, 64]
 ```
 **✅ Easy to understand, but not efficient (O(n²)).**
 
+### Time Complexity: O(n^2)
+
+### Space Complexity: O(1)
+
 ## 5️. Insertion Sort
 
 **➡ Build the sorted array one item at a time.**
@@ -90,6 +102,10 @@ for i in range(1, len(arr)):
 print(arr)  # [5, 6, 11, 12, 13]
 ```
 **✅ Works well for small or nearly sorted data.**
+
+### Time Complexity: O(n^2)
+
+### Space Complexity: O(1)
 
 ## 6️. Merge Sort
 
@@ -128,6 +144,10 @@ print(arr)  # [5, 6, 7, 11, 12, 13]
 
 **✅ Time: O(n log n), good for large datasets.**
 
+### Time Complexity: O(nlogn)
+
+### Space Complexity: O(n)
+
 ## 7️. Quick Sort
 
 **➡ Pick a pivot, partition array so smaller elements go left and larger right, then sort partitions.**
@@ -146,6 +166,10 @@ arr = [10, 7, 8, 9, 1, 5]
 print(quick_sort(arr))  # [1, 5, 7, 8, 9, 10]
 ```
 **✅ Fast on average: O(n log n)**
+
+### Time Complexity: O(nlogn) avg, O(n^2) Worst
+
+### Space Complexity: O(logn)
 
 ## 8️. Two Pointers Technique
 
@@ -168,6 +192,10 @@ while l < r:
 ```
 **✅ Works on sorted arrays.**
 
+### Time Complexity: O(n)
+
+### Space Complexity: O(1)
+
 ## 9️. Sliding Window Technique
 
 **➡ Maintain a window (subset) and slide it across to solve problems efficiently.**
@@ -185,6 +213,10 @@ print(max_sum)  # 39
 ```
 **✅ Reduces time complexity for subarray problems.**
 
+### Time Complexity: O(n)
+
+### Space Complexity: O(1)
+
 ## 🔟 Kadane’s Algorithm
 
 **➡ Find maximum subarray sum (contiguous).**
@@ -201,6 +233,10 @@ print(max_sum)  # 6
 
 **✅ O(n) time, great for max subarray problems.**
 
+### Time Complexity: O(n)
+
+### Space Complexity: O(1)
+
 ## 1️⃣1️⃣ Prefix Sum and Difference Arrays
 
 **➡ Precompute cumulative sums for fast range queries.**
@@ -216,6 +252,10 @@ print(prefix[4] - prefix[1])  # 9
 ```
 
 **✅ Efficient for range sum queries.**
+
+### Time Complexity: O(n) preprocessing, O(1) query
+
+### Space Complexity: O(n)
 
 ## 1️⃣2️⃣ Flood Fill Algorithm (DFS/BFS for grid problems)
 
@@ -240,3 +280,6 @@ grid = [
 flood_fill(grid, 1, 1, 2, grid[1][1])
 print(grid)  # [[2,2,2],[2,2,0],[2,0,1]]
 ```
+### Time Complexity: O(m x n)
+
+### Space Complexity: O(m x n)
