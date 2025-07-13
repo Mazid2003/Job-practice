@@ -1,285 +1,99 @@
-# Important Algorithms
+# 🚀 Essential Algorithms for Beginners and Interviews
 
-## 1. Linear Search
+This repository summarizes 12 must-know algorithms that form the foundation of problem-solving in data structures and algorithms. These are highly useful in coding interviews, competitive programming, and real-world applications.
 
-➡ **Search for an element by checking each item one by one**.
+## 1️⃣ Linear Search
+**Purpose:** Search for a target element in an unsorted array by checking each element one by one.
+**Use Case:** When the list is small or unsorted.
+**Time Complexity: O(n)
+Space Complexity: O(1)**
 
-**📌 Example:**
-```
-arr = [3, 5, 7, 9, 11]
-target = 7
-for i in range(len(arr)):
-    if arr[i] == target:
-        print(f"Found at index {i}")  # Found at index 2
-```
-**✅ Best when the list is unsorted**.
+## 2️⃣ Binary Search
+**Purpose:** Search a sorted array by repeatedly dividing the search interval in half.
+**Use Case**: Fast search in a sorted list.
+**Time Complexity: O(log n)
+Space Complexity: O(1)**
 
-### Time Complexity: O(n)
+## 3️⃣ Bubble Sort
+**Purpose:** Repeatedly swap adjacent elements if they are in the wrong order until the list is sorted.
+**Use Case:** Educational, not practical for large datasets.
+**Time Complexity: O(n²)
+Space Complexity: O(1)**
 
-### Space Complexity: O(1)
+## 4️⃣ Selection Sort
+**Purpose:** Select the minimum element from the unsorted portion and move it to the beginning.
+**Use Case:** Simple to understand, but inefficient for large datasets.
+**Time Complexity: O(n²)
+Space Complexity: O(1)**
 
-## 2. Binary Search
+## 5️⃣ Insertion Sort
+**Purpose:** Build the final sorted array one item at a time by shifting elements.
+**Use Case:** Efficient for small or nearly sorted data.
+**Time Complexity: O(n²)
+Space Complexity: O(1)**
 
-**➡ Search a sorted array by repeatedly dividing the search space in half.**
+## 6️⃣ Merge Sort
+**Purpose:** Divide the array, sort the halves recursively, and then merge them.
+**Use Case:** Stable and efficient for large datasets.
+**Time Complexity: O(n log n)
+Space Complexity: O(n)**
 
-**📌 Example:**
-```
-arr = [2, 4, 6, 8, 10]
-target = 6
-low, high = 0, len(arr)-1
-while low <= high:
-    mid = (low + high) // 2
-    if arr[mid] == target:
-        print(f"Found at index {mid}")  # Found at index 2
-        break
-    elif arr[mid] < target:
-        low = mid + 1
-    else:
-        high = mid - 1
-```
+## 7️⃣ Quick Sort
+**Purpose:** Select a pivot, partition the array around it, and recursively sort partitions.
+**Use Case:** Fast and widely used; may degrade to O(n²) in worst case.
+**Time Complexity: O(n log n) on average
+Space Complexity: O(log n) (due to recursion)**
 
-**✅ Much faster than linear search on sorted data**
+## 8️⃣ Two Pointers Technique
+**Purpose:** Use two pointers to solve problems in linear time, such as finding pairs or palindromes.
+**Use Case:** Searching in sorted arrays, string problems, etc.
+**Time Complexity: O(n)
+Space Complexity: O(1)**
 
-### Time Complexity: O(logn)
-
-### Space Complexity: O(1)
-
-## 3️. Bubble Sort
-
-**➡ Repeatedly swap adjacent elements if they are in the wrong order.**
-
-**📌 Example:**
-```
-arr = [5, 3, 8, 4]
-for i in range(len(arr)):
-    for j in range(0, len(arr)-i-1):
-        if arr[j] > arr[j+1]:
-            arr[j], arr[j+1] = arr[j+1], arr[j]
-print(arr)  # [3, 4, 5, 8]
-```
-
-**✅ Simple but inefficient for large lists.**
-
-### Time Complexity: O(n^2)
-
-### Space Complexity: O(1)
-
-## 4️. Selection Sort
-
-**➡ Select the minimum element and put it at the beginning.**
-
-**📌 Example:**
-```
-arr = [64, 25, 12, 22, 11]
-for i in range(len(arr)):
-    min_idx = i
-    for j in range(i+1, len(arr)):
-        if arr[j] < arr[min_idx]:
-            min_idx = j
-    arr[i], arr[min_idx] = arr[min_idx], arr[i]
-print(arr)  # [11, 12, 22, 25, 64]
-```
-**✅ Easy to understand, but not efficient (O(n²)).**
-
-### Time Complexity: O(n^2)
-
-### Space Complexity: O(1)
-
-## 5️. Insertion Sort
-
-**➡ Build the sorted array one item at a time.**
-
-**📌 Example:**
-```
-arr = [12, 11, 13, 5, 6]
-for i in range(1, len(arr)):
-    key = arr[i]
-    j = i-1
-    while j >= 0 and key < arr[j]:
-        arr[j+1] = arr[j]
-        j -= 1
-    arr[j+1] = key
-print(arr)  # [5, 6, 11, 12, 13]
-```
-**✅ Works well for small or nearly sorted data.**
-
-### Time Complexity: O(n^2)
-
-### Space Complexity: O(1)
-
-## 6️. Merge Sort
-
-**➡ Divide the array in halves, sort them recursively, and merge.**
-
-**📌 Example:**
-```
-def merge_sort(arr):
-    if len(arr) > 1:
-        mid = len(arr) // 2
-        L = arr[:mid]
-        R = arr[mid:]
-        merge_sort(L)
-        merge_sort(R)
-        i = j = k = 0
-        while i < len(L) and j < len(R):
-            if L[i] < R[j]:
-                arr[k] = L[i]
-                i += 1
-            else:
-                arr[k] = R[j]
-                j += 1
-            k += 1
-        while i < len(L):
-            arr[k] = L[i]
-            i += 1
-            k += 1
-        while j < len(R):
-            arr[k] = R[j]
-            j += 1
-            k += 1
-arr = [12, 11, 13, 5, 6, 7]
-merge_sort(arr)
-print(arr)  # [5, 6, 7, 11, 12, 13]
-```
-
-**✅ Time: O(n log n), good for large datasets.**
-
-### Time Complexity: O(nlogn)
-
-### Space Complexity: O(n)
-
-## 7️. Quick Sort
-
-**➡ Pick a pivot, partition array so smaller elements go left and larger right, then sort partitions.**
-
-**📌 Example:**
-```
-def quick_sort(arr):
-    if len(arr) <= 1:
-        return arr
-    else:
-        pivot = arr[0]
-        less = [x for x in arr[1:] if x <= pivot]
-        greater = [x for x in arr[1:] if x > pivot]
-        return quick_sort(less) + [pivot] + quick_sort(greater)
-arr = [10, 7, 8, 9, 1, 5]
-print(quick_sort(arr))  # [1, 5, 7, 8, 9, 10]
-```
-**✅ Fast on average: O(n log n)**
-
-### Time Complexity: O(nlogn) avg, O(n^2) Worst
-
-### Space Complexity: O(logn)
-
-## 8️. Two Pointers Technique
-
-**➡ Use two pointers to iterate through data for optimized solutions.**
-
-**📌 Example: Find pair with target sum**
-```
-arr = [1, 2, 3, 4, 6]
-target = 6
-l, r = 0, len(arr)-1
-while l < r:
-    s = arr[l] + arr[r]
-    if s == target:
-        print(arr[l], arr[r])  # 2 4
-        break
-    elif s < target:
-        l += 1
-    else:
-        r -= 1
-```
-**✅ Works on sorted arrays.**
-
-### Time Complexity: O(n)
-
-### Space Complexity: O(1)
-
-## 9️. Sliding Window Technique
-
-**➡ Maintain a window (subset) and slide it across to solve problems efficiently.**
-
-**📌 Example: Max sum of subarray of size 3**
-```
-arr = [1, 4, 2, 10, 23, 3, 1, 0, 20]
-k = 3
-window_sum = sum(arr[:k])
-max_sum = window_sum
-for i in range(len(arr)-k):
-    window_sum = window_sum - arr[i] + arr[i+k]
-    max_sum = max(max_sum, window_sum)
-print(max_sum)  # 39
-```
-**✅ Reduces time complexity for subarray problems.**
-
-### Time Complexity: O(n)
-
-### Space Complexity: O(1)
+## 9️⃣ Sliding Window Technique
+**Purpose:** Maintain a window of elements and slide it to efficiently compute values like max sum.
+**Use Case:** Subarray problems, average/max/min in window.
+**Time Complexity: O(n)
+Space Complexity: O(1)**
 
 ## 🔟 Kadane’s Algorithm
+**Purpose:** Find the maximum sum of a contiguous subarray.
+**Use Case:** Dynamic programming problem for subarray sums.
+**Time Complexity: O(n)
+Space Complexity: O(1)**
 
-**➡ Find maximum subarray sum (contiguous).**
+## 1️⃣1️⃣ Prefix Sum & Difference Arrays
+**Purpose:** Precompute cumulative values for fast range queries.
+**Use Case:** Fast subarray sum, range updates.
+**Time Complexity: O(n) preprocessing, O(1) query
+Space Complexity: O(n)**
 
-**📌 Example:**
-```
-arr = [-2,1,-3,4,-1,2,1,-5,4]
-max_sum = curr_sum = arr[0]
-for num in arr[1:]:
-    curr_sum = max(num, curr_sum + num)
-    max_sum = max(max_sum, curr_sum)
-print(max_sum)  # 6
-```
+## 1️⃣2️⃣ Flood Fill Algorithm (DFS/BFS)
+**Purpose:** Fill all connected cells of the same color/region in a grid.
+**Use Case:** Grid-based problems, image editing tools (like paint bucket).
+**Time Complexity: O(m × n)
+Space Complexity: O(m × n) (due to recursion or queue)**
 
-**✅ O(n) time, great for max subarray problems.**
+## ✅ Summary Table
 
-### Time Complexity: O(n)
+| Algorithm            | Best For                       | Time Complexity | Space Complexity |
+| -------------------- | ------------------------------ | --------------- | ---------------- |
+| Linear Search        | Unsorted search                | O(n)            | O(1)             |
+| Binary Search        | Sorted search                  | O(log n)        | O(1)             |
+| Bubble Sort          | Learning sorting basics        | O(n²)           | O(1)             |
+| Selection Sort       | Simple sorting                 | O(n²)           | O(1)             |
+| Insertion Sort       | Small/almost sorted arrays     | O(n²)           | O(1)             |
+| Merge Sort           | Large/stable sorting           | O(n log n)      | O(n)             |
+| Quick Sort           | Efficient general-purpose sort | O(n log n) avg  | O(log n)         |
+| Two Pointers         | Optimized linear scans         | O(n)            | O(1)             |
+| Sliding Window       | Subarray/window problems       | O(n)            | O(1)             |
+| Kadane’s Algorithm   | Max subarray sum               | O(n)            | O(1)             |
+| Prefix Sum           | Fast range queries             | O(n)            | O(n)             |
+| Flood Fill (DFS/BFS) | Grid/region filling            | O(m × n)        | O(m × n)         |
 
-### Space Complexity: O(1)
+### 📌 Note
+**This repository is designed to help students, developers, and job seekers quickly revise essential algorithms with clear explanations and practical use cases.**
 
-## 1️⃣1️⃣ Prefix Sum and Difference Arrays
+Feel free to ⭐ the repo if you found it useful and also give me suggestion to add anything and feel free to connect with me on Linkedin if you find any difficulty..!
 
-**➡ Precompute cumulative sums for fast range queries.**
 
-**📌 Example:**
-```
-arr = [1, 2, 3, 4, 5]
-prefix = [0] * (len(arr)+1)
-for i in range(len(arr)):
-    prefix[i+1] = prefix[i] + arr[i]
-# Sum from index 1 to 3 (2 + 3 + 4)
-print(prefix[4] - prefix[1])  # 9
-```
-
-**✅ Efficient for range sum queries.**
-
-### Time Complexity: O(n) preprocessing, O(1) query
-
-### Space Complexity: O(n)
-
-## 1️⃣2️⃣ Flood Fill Algorithm (DFS/BFS for grid problems)
-
-**➡ Fill connected region in a matrix/grid (like paint bucket tool).**
-
-**📌 Example:**
-```
-def flood_fill(grid, r, c, new_color, orig_color):
-    if (r < 0 or c < 0 or r >= len(grid) or c >= len(grid[0]) or grid[r][c] != orig_color):
-        return
-    grid[r][c] = new_color
-    flood_fill(grid, r+1, c, new_color, orig_color)
-    flood_fill(grid, r-1, c, new_color, orig_color)
-    flood_fill(grid, r, c+1, new_color, orig_color)
-    flood_fill(grid, r, c-1, new_color, orig_color)
-
-grid = [
-    [1,1,1],
-    [1,1,0],
-    [1,0,1]
-]
-flood_fill(grid, 1, 1, 2, grid[1][1])
-print(grid)  # [[2,2,2],[2,2,0],[2,0,1]]
-```
-### Time Complexity: O(m x n)
-
-### Space Complexity: O(m x n)
