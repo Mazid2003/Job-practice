@@ -1,1 +1,14 @@
+## BEST YT PYTHON PLAYLISTS
 
+**TELUGU:** https://www.youtube.com/playlist?list=PLS8lzSv6JRJ2OC7KVp05jqtY4MgLsitdX
+
+
+**HINDI:** https://www.youtube.com/watch?si=Gogpd8IPE6XgSdVo&v=ERCMXc8x7mc&feature=youtu.be
+
+**ENGLISH(1 HR):** https://www.youtube.com/watch?si=jqj6aukRVPsMMymS&v=kqtD5dpn9C8&feature=youtu.be
+
+**CHATGPT PROMPT TO TEST & REVISION :**
+
+**🔺PROMPT:**
+
+“I AM CURRENTLY PURSUING { BTECH} TEACH ME {PYTHON} FUNDAMENTALS (80/20 RULE) STEP BY STEP AFTER FINISHING EACH STEP MOVE TO NEXT AFTER FINISHING EACH STEP TEST ME WITH SOME QUESTIONS AND EXAMPLES IN A ENGAGING, FUN MANNER.”
