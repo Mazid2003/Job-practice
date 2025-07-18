@@ -16,7 +16,7 @@ To showcase how raw data can be converted into meaningful insights through visua
 - Data modeling with DAX
 - Real-time visuals
 
-**Best Playlists:** 
+**Playlists:** 
 
 **Telugu:** https://www.youtube.com/watch?v=9sEJclxSxFQ
 
@@ -30,7 +30,7 @@ To showcase how raw data can be converted into meaningful insights through visua
 - Filters and parameters
 - Geo & trend analysis
 
-**Best Playlists:** 
+**Playlists:** 
 
 **Telugu:** https://www.youtube.com/watch?v=_bQeP0poxpk
 
@@ -44,7 +44,7 @@ To showcase how raw data can be converted into meaningful insights through visua
 - Data cleaning & formatting
 
 
-**Best Playlists:**
+**Playlists:**
 
 **Telugu:** https://www.youtube.com/watch?v=rcL7C5YzHR8
 
