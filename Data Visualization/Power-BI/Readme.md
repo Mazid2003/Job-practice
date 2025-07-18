@@ -25,3 +25,11 @@ Customer behavior tracking
 
 Real-time monitoring of KPIs
 
+## Playlists: 
+
+**Telugu:** https://www.youtube.com/watch?v=9sEJclxSxFQ
+
+**Hindi:**  https://www.youtube.com/watch?v=C8TgduBEg2E&t=11609s
+
+**English:** https://www.youtube.com/watch?v=C8TgduBEg2E&t=11609s
+  
