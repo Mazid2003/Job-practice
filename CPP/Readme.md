@@ -25,6 +25,14 @@ Developed as an extension of the C language, C++ includes advanced features like
 
 - Helps strengthen core programming logic and understanding
 
+### Playlists:
+
+**Telugu:** https://www.youtube.com/watch?v=4D9x-ZvSVnw&list=PLNgoFk5SYUglsFq6H2WkQODuzsQyyRrPl
+
+**Hindi:** https://www.youtube.com/watch?v=AGHoxi3O_xw&list=PL724pdDXl9Q0yZUx9bkqarHO584JOsKfE
+
+**English:** https://www.youtube.com/watch?v=oOmbSpOzvYg&list=PLdo5W4Nhv31YU5Wx1dopka58teWP9aCee
+
 **🤝 Contributions Welcome**
 
 Whether you're a beginner learning C++ or a developer brushing up on concepts, feel free to fork this repo, explore, or contribute with your own examples and enhancements.
