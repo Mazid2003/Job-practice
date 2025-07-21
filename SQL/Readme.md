@@ -35,4 +35,10 @@ Report **generation and dashboards**
 
 🔄 Works seamlessly with **modern tools like Python, Power BI, Tableau**
 
+### Playlists:
 
+**Telugu:** https://www.youtube.com/watch?v=4yEIZ9KZ_aQ
+
+**Hindi:** https://www.youtube.com/watch?v=yE6tIle64tU
+
+**English:** https://www.youtube.com/watch?v=BPHAr4QGGVE
