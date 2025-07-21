@@ -45,13 +45,13 @@ An Algorithm is a step-by-step procedure to solve a specific problem in a finite
 
 Understanding Big O Notation is key to evaluating algorithm efficiency:
 
-O(1) → Constant Time
+- O(1) → Constant Time
 
-O(n) → Linear Time
+- O(n) → Linear Time
 
-O(log n) → Logarithmic Time
+- O(log n) → Logarithmic Time
 
-O(n^2) → Quadratic Time
+- O(n^2) → Quadratic Time
 
 ## ✅ DSA Practice Platforms
 
