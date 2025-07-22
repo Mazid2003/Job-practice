@@ -68,10 +68,17 @@ Understanding Big O Notation is key to evaluating algorithm efficiency:
 ## Playlists:
 
 ### 1. Python:
+
 - **Telugu:** https://www.youtube.com/playlist?list=PLjzLBp9HHZWiJrhfJzTAEbwdpQIfUXtwP
   
 - **Hindi:** https://www.youtube.com/playlist?list=PLhR2IpV1b2FwWwviBHRrR118YAaSlyhTU
 
 - **English:** https://www.youtube.com/playlist?list=PLKYEe2WisBTFEr6laH5bR2J19j7sl5O8R
 
+### 2. Java
 
+- **Telugu:** https://www.youtube.com/playlist?list=PLjzLBp9HHZWhVXBSPS1VqxXXDoVk07gd9
+
+- **Hindi:** https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop
+
+- **English:** https://youtu.be/xWLxhF3b5P8?si=74pW-oryi-KwgT33
