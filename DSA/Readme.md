@@ -65,3 +65,11 @@ Understanding Big O Notation is key to evaluating algorithm efficiency:
 
 - InterviewBit
 
+## Playlists:
+
+### 1. Python:
+**Telugu:** https://www.youtube.com/playlist?list=PLjzLBp9HHZWiJrhfJzTAEbwdpQIfUXtwP
+**Hindi:** https://www.youtube.com/playlist?list=PLhR2IpV1b2FwWwviBHRrR118YAaSlyhTU
+**English:** https://www.youtube.com/playlist?list=PLKYEe2WisBTFEr6laH5bR2J19j7sl5O8R
+
+
