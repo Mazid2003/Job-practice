@@ -82,3 +82,11 @@ Understanding Big O Notation is key to evaluating algorithm efficiency:
 - **Hindi:** https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop
 
 - **English:** https://youtu.be/xWLxhF3b5P8?si=74pW-oryi-KwgT33
+
+### 3. C 
+
+**Hindi:** https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi
+
+### 4. C++
+
+**Hindi:** https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt
