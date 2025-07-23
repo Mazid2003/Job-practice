@@ -54,7 +54,8 @@ Feel free to fork the repository, raise issues, or suggest improvements. Your co
 
 ## 📬 Contact
 
-For any queries or feedback, feel free to reach out via [GitHub Issues]([(https://github.com/Mazid2003/Job-practice/tree/main/Full%20Stack)/issues]).
+For any queries or feedback, feel free to reach out via [GitHub Issues](https://github.com/Mazid2003/Job-practice/issues).
+
 
 
 
