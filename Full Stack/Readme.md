@@ -33,7 +33,7 @@ Welcome to the **Full Stack Development** repository! This repository is dedicat
 
 ## 🚧 Upcoming Additions
 
-We are actively working on adding the following resources:
+I am actively working on adding the following resources:
 
 - React.js
 - Node.js
