@@ -15,7 +15,7 @@
 
 **Playlists**
 
-**Telugu:** 
+**Telugu:** https://youtu.be/LGLuHYHbCFA?si=wjz6BwJEJSdVqSSN
 
 **English:** 
 
