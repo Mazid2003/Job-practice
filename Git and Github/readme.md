@@ -12,3 +12,6 @@
 | Hosting        | No built-in hosting            | Yes, provides free/private repos |
 | Collaboration  | Manual (via Git)               | Easier with pull requests, forks |
 | CI/CD          | Not included                   | Built-in via GitHub Actions      |
+
+**Playlists**
+
