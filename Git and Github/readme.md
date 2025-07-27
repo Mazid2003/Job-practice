@@ -17,6 +17,6 @@
 
 **Telugu:** https://youtu.be/LGLuHYHbCFA?si=wjz6BwJEJSdVqSSN
 
-**English:** 
+**English:** https://youtu.be/apGV9Kg7ics?si=Pg9GvmnNRYYyg2vM
 
 **Hindi:** https://youtu.be/Ez8F0nW6S-w?si=51NPQR_s-2MoO1fv
