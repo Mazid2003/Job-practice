@@ -46,16 +46,15 @@ Stay tuned for more updates! 🔔
 
 ---
 
+### Playlist:
+
+**Telugu:** https://www.youtube.com/playlist?list=PLL2LIzssz5G_BAsTsgv9IUBsPODX_Fit0
+
 ## 🙌 Contributions
 
 Feel free to fork the repository, raise issues, or suggest improvements. Your contributions are always welcome!
 
 ---
-
-### Playlist:
-
- 
-
 
 ## 📬 Contact
 
