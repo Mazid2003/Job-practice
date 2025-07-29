@@ -90,7 +90,7 @@ Explainable AI, Edge AI, Federated Learning, General AI, AI for Social Good.
 
 🎬 Watch the complete AI series here:
 
-- [📺 AI Fundamentals – Full Playlist](https://your-link-here)
+- [📺 AI Fundamentals – Full Playlist in Telugu](https://www.youtube.com/playlist?list=PLv_sM9ZH4RUX3cTixZiSBlCVhG_L9rDzV)
 
 ---
 ---
