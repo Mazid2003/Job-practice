@@ -16,7 +16,7 @@ Machine Learning is categorized into:
 Here are some useful video playlists to enhance your understanding of Machine Learning:
 
 - [Machine Learning Playlist in Telugu ](https://www.youtube.com/watch?v=UehuI1w10lg)
-- [Machine Learning Playlist in Telugu ](https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
+- [Machine Learning Playlist in Telugu ](https://www.youtube.com/watch?v=RAniuQEl10s)
 - [Machine Learning Playlist in Telugu ](https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
 
 ---
