@@ -16,8 +16,8 @@ Machine Learning is categorized into:
 Here are some useful video playlists to enhance your understanding of Machine Learning:
 
 - [Machine Learning Playlist in Telugu ](https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
-- [🔍 ML Algorithms from Scratch – Codebasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuyZ7gFgbzJGMxnnk4-Tn1V)
-- [🧠 Deep Learning Specialization by Andrew Ng](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
+- [Machine Learning Playlist in Telugu ](https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
+- [Machine Learning Playlist in Telugu ](https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
 
 ---
 
