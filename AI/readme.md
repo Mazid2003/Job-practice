@@ -1,4 +1,4 @@
-# 🤖 Artificial Intelligence (AI) – Complete Guide
+# 🤖 Artificial Intelligence (AI)
 
 Welcome to the **Artificial Intelligence** folder! This repository contains a complete, beginner-to-advanced overview of AI—covering theory, history, key domains, real-world use cases, challenges, and the future of AI.
 
