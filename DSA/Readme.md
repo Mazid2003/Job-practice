@@ -83,13 +83,11 @@ Understanding Big O Notation is key to evaluating algorithm efficiency:
 
 ### 3. C 
 
-**Hindi:** https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi
-
 - [C language DSA in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi) 
 
 ### 4. C++
 
-**Hindi:** https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt
+- [C++ DSA in Hindi](https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt) 
 
 **🤝 Contributions Welcome**
 
