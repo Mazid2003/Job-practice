@@ -7,7 +7,7 @@
 For any queries or feedback, feel free to reach out via [GitHub Issues](https://github.com/Mazid2003/Job-practice/issues).
 
 
-Connet me on:
+Connect me on:
 
 - [Linkedin](https://www.linkedin.com/in/mohammadmazid)
-- https://leetcode.com/u/mazidmd
+- [Leetcode](https://leetcode.com/u/mazidmd)
