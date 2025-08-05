@@ -9,5 +9,5 @@ For any queries or feedback, feel free to reach out via [GitHub Issues](https://
 
 Connet me on:
 
-- https://www.linkedin.com/in/mohammadmazid
+- [Linkedin](https://www.linkedin.com/in/mohammadmazid)
 - https://leetcode.com/u/mazidmd
