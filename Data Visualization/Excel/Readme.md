@@ -28,7 +28,7 @@ Great for prototyping small data solutions or sharing data files directly.
 
 [Excel Playlist in Telugu](https://www.youtube.com/watch?v=8kDUlvsEA0M)
 
-[Excel Playlist in Hindi](https://www.youtube.com/watch?v=5zEt1_Nkiio&list=PLOWRNl6YgsT79ezWdEhOjvK4D-cQfr7ys)
+[Excel Playlist in Hindi](https://www.youtube.com/playlist?list=PLHq_wPEVVWy0WMtrqkOENk-XeuKgu5A2q)
 
 [Excel Playlist in English](https://www.youtube.com/watch?v=7QNgqq154gE)
 
