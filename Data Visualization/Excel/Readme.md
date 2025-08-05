@@ -26,10 +26,10 @@ Great for prototyping small data solutions or sharing data files directly.
 
 ## Playlists:
 
-**Telugu:** https://www.youtube.com/watch?v=rcL7C5YzHR8
+[Excel Playlist in Telugu](https://www.youtube.com/watch?v=rcL7C5YzHR8)
 
-**Hindi:** https://www.youtube.com/watch?v=5zEt1_Nkiio&list=PLOWRNl6YgsT79ezWdEhOjvK4D-cQfr7ys
+[Excel Playlist in Hindi](https://www.youtube.com/watch?v=5zEt1_Nkiio&list=PLOWRNl6YgsT79ezWdEhOjvK4D-cQfr7ys)
 
-**English:** https://www.youtube.com/watch?v=7QNgqq154gE
+[Excel Playlist in English](https://www.youtube.com/watch?v=7QNgqq154gE)
 
 
