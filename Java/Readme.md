@@ -27,7 +27,11 @@ Java is a high-level, class-based, object-oriented programming language designed
 
 **Playlists:**
 
-[Java Playlist in Telugu](https://www.youtube.com/watch?v=AfBCK1PaXgU&list=PLh6Yk2rpZu2Lyt9-2hhRj37otchec1OJL)
+[JAVA Playlist in Telugu](https://www.youtube.com/watch?v=AfBCK1PaXgU&list=PLh6Yk2rpZu2Lyt9-2hhRj37otchec1OJL)
+
+[JAVA Playlist in Telugu]
+
+[JAVA Playlist in Telugu]
 
 **Telugu:** https://www.youtube.com/watch?v=AfBCK1PaXgU&list=PLh6Yk2rpZu2Lyt9-2hhRj37otchec1OJL
 
