@@ -27,6 +27,10 @@ Real-time monitoring of KPIs
 
 ## Playlists: 
 
+[PowerBI Playlist in Telugu](https://www.youtube.com/watch?v=9sEJclxSxFQ)
+
+
+
 **Telugu:** https://www.youtube.com/watch?v=9sEJclxSxFQ
 
 **Hindi:**  https://www.youtube.com/watch?v=C8TgduBEg2E&t=11609s
