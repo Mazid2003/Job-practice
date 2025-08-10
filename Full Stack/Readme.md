@@ -48,7 +48,7 @@ Stay tuned for more updates! 🔔
 
 ### Playlist:
 
-**Telugu:** https://www.youtube.com/playlist?list=PLL2LIzssz5G_BAsTsgv9IUBsPODX_Fit0
+[Full Stack Playlist in Telugu](https://www.youtube.com/playlist?list=PLL2LIzssz5G_BAsTsgv9IUBsPODX_Fit0)
 
 ## 🙌 Contributions
 
