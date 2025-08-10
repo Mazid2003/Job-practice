@@ -15,8 +15,9 @@
 
 **Playlists**
 
-**Telugu:** https://youtu.be/LGLuHYHbCFA?si=wjz6BwJEJSdVqSSN
+[GIT and GITHUB Playlist in Telugu](https://youtu.be/LGLuHYHbCFA?si=wjz6BwJEJSdVqSSN)
 
-**Hindi:** https://youtu.be/Ez8F0nW6S-w?si=51NPQR_s-2MoO1fv
+[GIT and GITHUB Playlist in Hindi](https://youtu.be/Ez8F0nW6S-w?si=51NPQR_s-2MoO1fv)
 
-**English:** https://youtu.be/apGV9Kg7ics?si=Pg9GvmnNRYYyg2vM
+[GIT and GITHUB Playlist in English](https://youtu.be/apGV9Kg7ics?si=Pg9GvmnNRYYyg2vM)
+
