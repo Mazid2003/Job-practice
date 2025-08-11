@@ -26,6 +26,5 @@ Natural Language Processing bridges **human language** and **computer understand
 - **GDPR Compliance** – Handling and storing personal text/speech data responsibly.
 
 ---
-
-📂 *This repo will grow with implementations, experiments, and tutorials for various NLP tasks.*
+### Playlists:
 
