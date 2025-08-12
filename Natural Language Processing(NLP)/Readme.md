@@ -28,8 +28,7 @@ Natural Language Processing bridges **human language** and **computer understand
 ---
 ### Playlists:
 
-telugu:
-https://www.youtube.com/playlist?list=PLVG0Zju2HPJfW2rqtu330DD-MaPk-bvMZ
+[NLP Playlist in Telugu](https://www.youtube.com/playlist?list=PLVG0Zju2HPJfW2rqtu330DD-MaPk-bvMZ)
 Hindi
 https://www.youtube.com/playlist?list=PLtCBuHKmdxOefxJhd6u8KY9vTN8G5D5yG
 english:
