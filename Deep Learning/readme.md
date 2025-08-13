@@ -20,7 +20,7 @@ This folder contains structured resources related to Deep Learning.
 
 ---
 
-## ▶️ Full Course Playlists
+## ▶️ Playlists
 
 - [Deep Learning Playlist in Telugu](https://www.youtube.com/playlist?list=PLyF1CC0ulLGDqDtGNRlfGJagG4fUC4qVt) 
 - [Deep Learning Playlist in Hindi](https://www.youtube.com/playlist?list=PLtCBuHKmdxOdO88sgcFyDdL5ATg1WY-_U) 
