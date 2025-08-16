@@ -41,7 +41,7 @@ Together, let’s make this the **best open DevOps learning resource** 💡
 ---
 
 ## 📬 Connect with Me
-💻 [GitHub](https://github.com/Mazid2003)  
+💻 [Leetcode](https://leetcode.com/u/mazidmd)  
 🔗 [LinkedIn](https://linkedin.com/in/mohammadmazid)  
 
 ---
