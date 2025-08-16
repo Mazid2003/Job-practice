@@ -42,7 +42,7 @@ Together, let’s make this the **best open DevOps learning resource** 💡
 
 ## 📬 Connect with Me
 💻 GitHub: [YourUsername](https://github.com/Mazid2003)  
-🔗 LinkedIn: [YourLinkedInProfile](https://linkedin.com/in/YourLinkedIn)  
+🔗 LinkedIn: [YourLinkedInProfile](https://linkedin.com/in/mohammadmazid)  
 
 ---
 
