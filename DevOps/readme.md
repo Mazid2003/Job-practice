@@ -36,8 +36,8 @@ It focuses on **automation, collaboration, continuous integration, and continuou
 
 ### Playlists
 
-- [Devops]()
-- 
+- [DevOps Playlist in Hindi]()
+- [DevOps Playlist in English]()
 
 ---
 
