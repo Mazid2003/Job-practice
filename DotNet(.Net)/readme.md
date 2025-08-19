@@ -23,5 +23,7 @@ A beginner-to-advanced guide covering the essentials of **.NET & C# development*
 
 ---
 
+### Playlists:
+
 ✨ This guide is a **complete roadmap** for mastering .NET and C#, from basics to modern features.
 
