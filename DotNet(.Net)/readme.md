@@ -25,7 +25,7 @@ A beginner-to-advanced guide covering the essentials of **.NET & C# development*
 
 ### Playlists:
 
-**telugu** https://www.youtube.com/playlist?list=PL2UfVCyiPs-0_tJYs_0jG3WgNoF5LoxG_
+[.Net Playlist in Telugu](https://www.youtube.com/playlist?list=PL2UfVCyiPs-0_tJYs_0jG3WgNoF5LoxG_)
 **hindi** https://www.youtube.com/playlist?list=PLDSXZnDE8NYWFIZWIZ1H_qZLoSfDiNRxE
 **english** https://www.youtube.com/playlist?list=PLVlQHNRLflP-jc5Fbhfdhzv52AWYq836j
 
