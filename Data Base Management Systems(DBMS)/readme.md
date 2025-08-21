@@ -21,7 +21,6 @@ Useful for students, developers, and interview preparation.
    - NoSQL Databases (Redis, MongoDB, Cassandra, HBase)  
    - Big Data & Cloud Databases  
    - NewSQL Databases  
-
 ---
 
 ## ✅ Features of this Guide
