@@ -39,5 +39,5 @@ Useful for students, developers, and interview preparation.
 
 ---
 
-⭐ If you find this useful, consider giving the repo a **star**!
+
 
