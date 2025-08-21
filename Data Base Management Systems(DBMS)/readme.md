@@ -34,7 +34,8 @@ Useful for students, developers, and interview preparation.
 ## 📌 Who Can Use This?
 - 🎓 Students preparing for exams  
 - 💻 Developers brushing up DBMS concepts  
-- 📝 Interview preparation candidates  
+- 📝 Interview preparation candidates
+- 💻 Job Seekers. 
 
 ---
 
