@@ -41,7 +41,8 @@ Useful for students, developers, and interview preparation.
 
 ### Playlists
 
-[telugu](https://www.youtube.com/playlist?list=PL06g_pc9cPAhDo85xZxHDbMWBZSBc6qya)
-[hindi](https://www.youtube.com/playlist?list=PLrL_PSQ6q062cD0vPMGYW_AIpNg6T0_Fq)
-[english](https://www.youtube.com/playlist?list=PLdo5W4Nhv31b33kF46f9aFjoJPOkdlsRc)
+- [telugu](https://www.youtube.com/playlist?list=PL06g_pc9cPAhDo85xZxHDbMWBZSBc6qya)
+- [hindi](https://www.youtube.com/playlist?list=PLrL_PSQ6q062cD0vPMGYW_AIpNg6T0_Fq)
+- [english](https://www.youtube.com/playlist?list=PLdo5W4Nhv31b33kF46f9aFjoJPOkdlsRc)
+
 ---
