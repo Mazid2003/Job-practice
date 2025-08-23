@@ -1,4 +1,4 @@
-## YOUTUBE PYTHON PLAYLISTS
+## Python Playlists 
 
 [Python Playlist in Telugu](https://www.youtube.com/playlist?list=PLS8lzSv6JRJ2OC7KVp05jqtY4MgLsitdX)
 
