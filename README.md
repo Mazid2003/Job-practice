@@ -4,9 +4,9 @@
 
 *Feel free to ⭐ the repo if you found it useful and also give me suggestion to add anything and feel free to connect with me on Linkedin if you find any difficulty..!*
 
-Just by one click you can navigate:
+**Just by one click you can navigate:**
 
-[Patterns in Python](https://github.com/Mazid2003/Job-practice/Python/Patterns)
+[Patterns in Python](https://github.com/Mazid2003/Job-practice/tree/main/Python/Patterns)
 
 For any queries or feedback, feel free to reach out via [GitHub Issues](https://github.com/Mazid2003/Job-practice/issues).
 
