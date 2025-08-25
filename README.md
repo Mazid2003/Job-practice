@@ -6,10 +6,17 @@
 
 **Just by one click you can navigate:**
 
+Wnat to know about Software Engineering and also want to do practice quizzes all you can referre this repo
+
+https://github.com/Amey-Thakur/SOFTWARE-ENGINEERING-AND-SOFTWARE-ENGINEERING-LAB
+
 [Patterns in Python](https://github.com/Mazid2003/Job-practice/tree/main/Python/Patterns)
 
-For any queries or feedback, feel free to reach out via [GitHub Issues](https://github.com/Mazid2003/Job-practice/issues).
 
+
+
+
+For any queries or feedback, feel free to reach out via [GitHub Issues](https://github.com/Mazid2003/Job-practice/issues).
 
 Connect me on:
 
