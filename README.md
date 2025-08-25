@@ -14,6 +14,8 @@ Want to learn more about Data Engineering and Projects refer this repo
 
 [Data Engineering repo](https://github.com/san089/Udacity-Data-Engineering-Projects)
 
+Want to learn Python 
+
 [Python](https://github.com/Mazid2003/Job-practice/tree/main/Python/)
 
 For any queries or feedback, feel free to reach out via [GitHub Issues](https://github.com/Mazid2003/Job-practice/issues).
