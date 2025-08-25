@@ -12,13 +12,9 @@ Want to learn more about Software Engineering and also practice quizzes. You can
 
 Want to learn more about Data Engineering and Projects refer this repo
 
-https://github.com/san089/Udacity-Data-Engineering-Projects
+[Data Engineering repo](https://github.com/san089/Udacity-Data-Engineering-Projects)
 
-[Patterns in Python](https://github.com/Mazid2003/Job-practice/tree/main/Python/Patterns)
-
-
-
-
+[Python](https://github.com/Mazid2003/Job-practice/tree/main/Python/)
 
 For any queries or feedback, feel free to reach out via [GitHub Issues](https://github.com/Mazid2003/Job-practice/issues).
 
