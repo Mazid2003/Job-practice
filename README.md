@@ -6,9 +6,9 @@
 
 **Just by one click you can navigate:**
 
-Wnat to know about Software Engineering and also want to do practice quizzes all you can referre this repo
+Want to learn more about Software Engineering and also practice quizzes. You can refer to this repo.
 
-https://github.com/Amey-Thakur/SOFTWARE-ENGINEERING-AND-SOFTWARE-ENGINEERING-LAB
+[Software Engineering repo]https://github.com/Amey-Thakur/SOFTWARE-ENGINEERING-AND-SOFTWARE-ENGINEERING-LAB
 
 [Patterns in Python](https://github.com/Mazid2003/Job-practice/tree/main/Python/Patterns)
 
