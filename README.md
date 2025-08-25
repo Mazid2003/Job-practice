@@ -8,7 +8,7 @@
 
 Want to learn more about Software Engineering and also practice quizzes. You can refer to this repo.
 
-[Software Engineering repo]https://github.com/Amey-Thakur/SOFTWARE-ENGINEERING-AND-SOFTWARE-ENGINEERING-LAB
+[Software Engineering repo](https://github.com/Amey-Thakur/SOFTWARE-ENGINEERING-AND-SOFTWARE-ENGINEERING-LAB)
 
 [Patterns in Python](https://github.com/Mazid2003/Job-practice/tree/main/Python/Patterns)
 
