@@ -14,6 +14,10 @@ Want to learn more about Data Engineering and Projects refer this repo
 
 [Data Engineering repo](https://github.com/san089/Udacity-Data-Engineering-Projects)
 
+Want to learn how to build a application use this repo
+
+(Build your own x)[https://github.com/codecrafters-io/build-your-own-x]
+
 Want to learn Python 
 
 [Python](https://github.com/Mazid2003/Job-practice/tree/main/Python/)
