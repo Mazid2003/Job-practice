@@ -14,9 +14,13 @@ Want to learn more about Data Engineering and Projects refer this repo
 
 [Data Engineering repo](https://github.com/san089/Udacity-Data-Engineering-Projects)
 
-Want to learn how to build a application(X) use this repo
+Want to learn how to build a application(X), use this repo for your reference
 
 [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
+
+Learn any technology through Practical Knowledge and also gain hands-on-experience by using this repo
+
+https://github.com/practical-tutorials/project-based-learning
 
 Want to learn Python 
 
