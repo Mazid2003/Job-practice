@@ -46,3 +46,6 @@ Useful for students, developers, and interview preparation.
 - [DBMS Playlist in English](https://www.youtube.com/playlist?list=PLdo5W4Nhv31b33kF46f9aFjoJPOkdlsRc)
 
 ---
+
+🙌 Contributions
+Feel free to fork the repository, raise issues, or suggest improvements. Your contributions are always welcome!
