@@ -26,6 +26,8 @@ Learn any technology through Practical Knowledge and also gain hands-on-experien
 
 [Learn things by doing](https://github.com/practical-tutorials/project-based-learning)
 
+Want to learn Java 
+
 Want to learn Python 
 
 [Python](https://github.com/Mazid2003/Job-practice/tree/main/Python/)
