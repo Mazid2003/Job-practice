@@ -69,15 +69,17 @@ Understanding Big O Notation is key to evaluating algorithm efficiency:
 
 - Hackerearth 
 
-### MCQ Practice for coding
+### MCQ's Practice for coding
 
 - Geeksforgeeks
 
-- examveda
+- Examveda
 
 - Indiabix
 
 - Prepinsta
+
+- sanfoundry
 
 ### Best DSA Practice Sheet
 
