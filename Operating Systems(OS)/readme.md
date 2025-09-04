@@ -5,7 +5,7 @@ If you know these, you’re already ahead of 80% of developers! 🚀
 
 ---
 
-## 📌 Core OS Concepts
+## 📌 Core OS Concepts and definitions that everyone must & should know before going to the interview 
 
 | Concept            | What It Is                                                                 | Why It Matters                                                                 |
 |--------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------|
