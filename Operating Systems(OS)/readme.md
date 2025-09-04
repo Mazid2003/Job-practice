@@ -53,6 +53,7 @@ If you know these, you’re already ahead of 80% of developers! 🚀
 
 ---
 
+### 🙌 Contribute
 
 Spotted something missing or outdated? Contributions are welcome!
 Feel free to submit a pull request or open an issue.
