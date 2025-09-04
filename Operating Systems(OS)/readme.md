@@ -45,4 +45,11 @@ If you know these, you’re already ahead of 80% of developers! 🚀
 
 ---
 
+## 🎥 Video Playlist
+
+- [📺 Operating Systems – Playlist in Telugu]()
+- [📺 Operating Systems – Playlist in Hindi]()
+- [📺 Operating Systems – Playlist in Telugu]()
+
+---
 
