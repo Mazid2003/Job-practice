@@ -38,14 +38,14 @@ If you know these, you’re already ahead of 80% of developers! 🚀
 
 ---
 
-## 🎯 Purpose
+### 🎯 Purpose
 - 📖 **Quick reference** for OS concepts  
 - 💼 **Interview preparation** for job seekers  
 - 🧑‍💻 **Beginner-friendly explanations**  
 
 ---
 
-## 🎥 Video Playlist
+### 🎥 Video Playlist
 
 - [📺 Operating Systems – Playlist in Telugu]()
 - [📺 Operating Systems – Playlist in Hindi]()
@@ -53,3 +53,12 @@ If you know these, you’re already ahead of 80% of developers! 🚀
 
 ---
 
+
+Spotted something missing or outdated? Contributions are welcome!
+Feel free to submit a pull request or open an issue.
+---
+
+### 📄 License
+This project is licensed under the MIT License.
+
+---
