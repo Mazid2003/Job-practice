@@ -47,6 +47,10 @@ Useful for students, developers, and interview preparation.
 
 ---
 
-**🙌 Contributions**
+### 🙌 Contributions
 
 Feel free to fork the repository, raise issues, or suggest improvements. Your contributions are always welcome!
+
+### 📄 License
+
+This project is licensed under the MIT License.
