@@ -47,7 +47,7 @@ If you know these, you’re already ahead of 80% of developers! 🚀
 
 ### 🎥 Video Playlist
 
-- [📺 Operating Systems – Playlist in Telugu]()
+- [📺 Operating Systems – Playlist in Telugu](https://www.youtube.com/playlist?list=PL06g_pc9cPAi4oJUlEW0DrIPv09amn-bW)
 - [📺 Operating Systems – Playlist in Hindi]()
 - [📺 Operating Systems – Playlist in Telugu]()
 
