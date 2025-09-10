@@ -1,4 +1,4 @@
-# 🐍 Python Frameworks Guide
+#  Python Frameworks Guide
 
 A beginner-friendly guide to popular **Python frameworks** across web development, AI, data visualization, testing, GUI, game development, and automation/web scraping.  
 
@@ -12,7 +12,7 @@ A beginner-friendly guide to popular **Python frameworks** across web developmen
 - **TurboGears** – Combines SQLAlchemy and templating for scalable apps.  
 - **Web2Py** – Full-stack framework with a built-in web-based IDE.  
 
-**Micro-frameworks:**  
+### Micro-frameworks:
 - **Flask** – Lightweight, simple, and highly extensible.  
 - **FastAPI** – Modern framework for APIs with async support.  
 - **Bottle** – Minimalistic framework, single-file apps.  
