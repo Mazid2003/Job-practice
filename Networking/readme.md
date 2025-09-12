@@ -20,6 +20,8 @@ This repository is built as a **one-stop reference** for:
 - Working professionals revising concepts  
 - Anyone curious about how networking really works  
 
+## Playlists
+
 ## 📌 Note
 This is **not just theory** — it’s written to be simple, clear, and useful for real-world application.  
 
