@@ -8,7 +8,7 @@ This repository is built as a **one-stop reference** for:
 - Hands-on practice with commands & tools  
 - Exploring advanced networking concepts  
 
-## Networking Essentials
+## Networking Essentials or Keywords everyone should know...
 
 # 📘 Networking Concepts – Quick Reference
 
