@@ -67,8 +67,8 @@ This repository is built as a **one-stop reference** for:
 ## Playlists
 
 [Networking Playlist in Telugu]()
-[Networking Playlist in Telugu]()
-[Networking Playlist in Telugu]()
+[Networking Playlist in Hindi]()
+[Networking Playlist in English]()
 
 ## 📌 Note
 This is **not just theory** — it’s written to be simple, clear, and useful for real-world application.  
