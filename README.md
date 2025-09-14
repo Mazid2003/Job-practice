@@ -38,6 +38,9 @@ Want to learn Python
 
 [Python](https://github.com/Mazid2003/Job-practice/tree/main/Python/)
 
+Want to learn c++
+
+
 For any queries or feedback, feel free to reach out via [GitHub Issues](https://github.com/Mazid2003/Job-practice/issues).
 
 Connect me on:
