@@ -40,7 +40,7 @@ Want to learn Python
 
 Want to learn c++
 
-https://github.com/Mazid2003/Job-practice/tree/main/CPP
+(https://github.com/Mazid2003/Job-practice/tree/main/CPP)
 
 For any queries or feedback, feel free to reach out via [GitHub Issues](https://github.com/Mazid2003/Job-practice/issues).
 
