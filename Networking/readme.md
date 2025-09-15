@@ -66,7 +66,7 @@ This repository is built as a **one-stop reference** for:
 
 ## Playlists
 
-- [Networking Playlist in Telugu]()
+- [Networking Playlist in Telugu](https://www.youtube.com/watch?v=F6Eig7moXME&t=45s)
 - [Networking Playlist in Hindi]()
 - [Networking Playlist in English]()
 
