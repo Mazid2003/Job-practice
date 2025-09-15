@@ -68,7 +68,7 @@ This repository is built as a **one-stop reference** for:
 
 - [Networking Playlist in Telugu](https://www.youtube.com/watch?v=F6Eig7moXME&t=45s)
 - [Networking Playlist in Hindi](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV)
-- [Networking Playlist in English]()
+- [Networking Playlist in English](https://www.youtube.com/watch?v=IPvYjXCsTg8)
 
 ## 📌 Note
 This is **not just theory** — it’s written to be simple, clear, and useful for real-world application.  
