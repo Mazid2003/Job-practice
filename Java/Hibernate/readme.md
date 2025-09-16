@@ -14,7 +14,7 @@ Perfect for learning, projects, and interview prep.
 ---
 
 ### 🎥 Playlists & Tutorials
-- [Hibernate Beginner Playlist](https://www.youtube.com/playlist?list=PL...)  
+- [Hibernate Playlist in Telugu]()  
 - [Hibernate Advanced Tutorials](https://www.youtube.com/playlist?list=PL...)  
 - [Spring + Hibernate Integration](https://www.youtube.com/playlist?list=PL...)  
 
