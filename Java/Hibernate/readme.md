@@ -19,7 +19,6 @@ Perfect for learning, projects, and interview prep.
 - [Hibernate Playlist in English](https://www.youtube.com/playlist?list=PL...)  
 
 ### 📚 References & Resources
-- [Official Hibernate Documentation](https://hibernate.org/documentation/)  
 - [Spring Data JPA Reference](https://spring.io/projects/spring-data-jpa)  
 - [Baeldung Hibernate Tutorials]([https://www.baeldung.com/hibernate](https://www.baeldung.com/courses/learn-hibernate-jpa-course))  
 
