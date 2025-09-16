@@ -21,7 +21,7 @@ Perfect for learning, projects, and interview prep.
 ### 📚 References & Resources
 - [Official Hibernate Documentation](https://hibernate.org/documentation/)  
 - [Spring Data JPA Reference](https://spring.io/projects/spring-data-jpa)  
-- [Baeldung Hibernate Tutorials](https://www.baeldung.com/hibernate)  
+- [Baeldung Hibernate Tutorials]([https://www.baeldung.com/hibernate](https://www.baeldung.com/courses/learn-hibernate-jpa-course))  
 
 ### 🛠 Tools & Setup
 - Java JDK 8+  
