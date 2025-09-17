@@ -20,7 +20,7 @@ Perfect for learning, projects, and interview prep.
 
 ### 📚 References & Resources
 - [Spring Data JPA Reference](https://spring.io/projects/spring-data-jpa)  
-- [Baeldung Hibernate Tutorials]([https://www.baeldung.com/hibernate](https://www.baeldung.com/courses/learn-hibernate-jpa-course))  
+- [Baeldung Hibernate Tutorials]([https://www.baeldung.com/hibernate](https://www.baeldung.com/courses/learn-hibernate-jpa-course) 
 
 ### 🛠 Tools & Setup
 - Java JDK 8+  
