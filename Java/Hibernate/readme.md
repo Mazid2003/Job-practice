@@ -15,7 +15,7 @@ Perfect for learning, projects, and interview prep.
 
 ### 🎥 Playlists & Tutorials
 - [Hibernate Playlist in Telugu](https://www.youtube.com/playlist?list=PLO7Oa5iXf4QgYn3uPTXy0t7l6ZtkCseUf)  
-- [Hibernate Playlist in Hindi](https://www.youtube.com/playlist?list=PL...)  
+- [Hibernate Playlist in Hindi](https://www.youtube.com/playlist?list=PL0zysOflRCekX8OO7V7pGQ9kxZ28JyJlk)  
 - [Hibernate Playlist in English](https://www.youtube.com/playlist?list=PL...)  
 
 ### 📚 References & Resources
