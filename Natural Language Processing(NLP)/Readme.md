@@ -114,7 +114,7 @@ Natural Language Processing bridges **human language** and **computer understand
         
         Goal: Build a multi-turn conversational chatbot.
 
-- Abstractive Text Summarization
+- **Abstractive Text Summarization**
 
         Use: Seq2Seq, Attention, Transformer models (BART, T5)
         
@@ -122,7 +122,7 @@ Natural Language Processing bridges **human language** and **computer understand
         
         Goal: Generate human-like summaries instead of extractive ones.
 
-- Machine Translation
+- **Machine Translation**
 
         Use: Seq2Seq with Attention or Transformer
         
@@ -130,7 +130,7 @@ Natural Language Processing bridges **human language** and **computer understand
         
         Goal: Translate text between languages.
 
-- Speech-to-Text + Text Analysis Pipeline
+- **Speech-to-Text + Text Analysis Pipeline**
 
         Use: Speech Recognition + NLP models
         
@@ -138,7 +138,7 @@ Natural Language Processing bridges **human language** and **computer understand
         
         Goal: Convert audio to text, then apply sentiment/NER/QA.
 
-- Multi-modal NLP (Vision + Language)
+- **Multi-modal NLP (Vision + Language)**
 
         Use: CLIP, BLIP-2, LLaVA models
         
