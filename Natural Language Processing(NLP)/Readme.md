@@ -38,7 +38,7 @@ Natural Language Processing bridges **human language** and **computer understand
 
 ### 🟢 Beginner NLP Projects
 
-- Spam Email Classifier
+- **Spam Email Classifier**
 
         Use: Naive Bayes, Logistic Regression
         
@@ -46,7 +46,7 @@ Natural Language Processing bridges **human language** and **computer understand
         
         Goal: Classify emails or SMS as Spam or Not Spam.
 
-- Sentiment Analysis on Movie Reviews
+- **Sentiment Analysis on Movie Reviews**
 
         Use: Bag-of-Words, TF-IDF, Logistic Regression
         
@@ -54,7 +54,7 @@ Natural Language Processing bridges **human language** and **computer understand
         
         Goal: Predict whether a review is Positive or Negative.
 
-- Word Cloud Generator
+- **Word Cloud Generator**
 
         Use: Text preprocessing, visualization libraries
         
@@ -62,7 +62,7 @@ Natural Language Processing bridges **human language** and **computer understand
         
         Goal: Generate a word cloud showing most frequent words.
 
-- Resume Keyword Extractor
+- **Resume Keyword Extractor**
 
         Use: Regex, spaCy NER
         
@@ -72,7 +72,7 @@ Natural Language Processing bridges **human language** and **computer understand
 
 ### 🟡 Intermediate NLP Projects
 
-- News Categorization
+- **News Categorization**
 
         Use: TF-IDF + Naive Bayes / SVM
         
@@ -80,7 +80,7 @@ Natural Language Processing bridges **human language** and **computer understand
         
         Goal: Classify news into categories (Sports, Tech, Business, Politics, etc.).
 
-- Question Answering Bot (Closed Domain)
+- **Question Answering Bot (Closed Domain)**
 
         Use: BERT / DistilBERT
         
@@ -88,15 +88,15 @@ Natural Language Processing bridges **human language** and **computer understand
         
         Goal: Answer questions from a given paragraph/document.
 
-- Named Entity Recognition (NER)
-
+- **Named Entity Recognition (NER)**
+  
         Use: spaCy / BiLSTM-CRF
         
         Dataset: CoNLL-2003 Dataset
         
         Goal: Extract names, places, organizations from text.
 
-- Fake News Detection
+- **Fake News Detection**
 
         Use: TF-IDF, LSTMs, or Transformers
         
@@ -106,7 +106,7 @@ Natural Language Processing bridges **human language** and **computer understand
 
 ### 🔴 Advanced NLP Projects
 
-- Chatbot with NLU + NLG
+- **Chatbot with NLU + NLG**
 
         Use: Rasa, Dialogflow, or Transformers (BERT + GPT)
         
