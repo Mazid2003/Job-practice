@@ -40,35 +40,35 @@ Natural Language Processing bridges **human language** and **computer understand
 
 - Spam Email Classifier
 
-    Use: Naive Bayes, Logistic Regression
-    
-    Dataset: Enron Spam Dataset / SMS Spam Dataset
-    
-    Goal: Classify emails or SMS as Spam or Not Spam.
+        Use: Naive Bayes, Logistic Regression
+        
+        Dataset: Enron Spam Dataset / SMS Spam Dataset
+        
+        Goal: Classify emails or SMS as Spam or Not Spam.
 
 - Sentiment Analysis on Movie Reviews
 
-    Use: Bag-of-Words, TF-IDF, Logistic Regression
-    
-    Dataset: IMDB Movie Reviews
-    
-    Goal: Predict whether a review is Positive or Negative.
+        Use: Bag-of-Words, TF-IDF, Logistic Regression
+        
+        Dataset: IMDB Movie Reviews
+        
+        Goal: Predict whether a review is Positive or Negative.
 
 - Word Cloud Generator
 
-    Use: Text preprocessing, visualization libraries
-    
-    Dataset: Any text (news articles, tweets, reviews)
-    
-    Goal: Generate a word cloud showing most frequent words.
+        Use: Text preprocessing, visualization libraries
+        
+        Dataset: Any text (news articles, tweets, reviews)
+        
+        Goal: Generate a word cloud showing most frequent words.
 
 - Resume Keyword Extractor
 
-    Use: Regex, spaCy NER
-    
-    Dataset: Collection of resumes (PDFs / text)
-    
-    Goal: Extract names, emails, skills, and experience.
+        Use: Regex, spaCy NER
+        
+        Dataset: Collection of resumes (PDFs / text)
+        
+        Goal: Extract names, emails, skills, and experience.
 
 ### 🟡 Intermediate NLP Projects
 
@@ -106,45 +106,45 @@ Natural Language Processing bridges **human language** and **computer understand
 
 ### 🔴 Advanced NLP Projects
 
-Chatbot with NLU + NLG
+- Chatbot with NLU + NLG
 
-Use: Rasa, Dialogflow, or Transformers (BERT + GPT)
+        Use: Rasa, Dialogflow, or Transformers (BERT + GPT)
+        
+        Dataset: Custom intents dataset or open-source chat datasets
+        
+        Goal: Build a multi-turn conversational chatbot.
 
-Dataset: Custom intents dataset or open-source chat datasets
+- Abstractive Text Summarization
 
-Goal: Build a multi-turn conversational chatbot.
+        Use: Seq2Seq, Attention, Transformer models (BART, T5)
+        
+        Dataset: CNN/DailyMail or XSum
+        
+        Goal: Generate human-like summaries instead of extractive ones.
 
-Abstractive Text Summarization
+- Machine Translation
 
-Use: Seq2Seq, Attention, Transformer models (BART, T5)
+        Use: Seq2Seq with Attention or Transformer
+        
+        Dataset: WMT’14 (English–French / English–German)
+        
+        Goal: Translate text between languages.
 
-Dataset: CNN/DailyMail or XSum
+- Speech-to-Text + Text Analysis Pipeline
 
-Goal: Generate human-like summaries instead of extractive ones.
+        Use: Speech Recognition + NLP models
+        
+        Dataset: LibriSpeech (for audio) + any text dataset
+        
+        Goal: Convert audio to text, then apply sentiment/NER/QA.
 
-Machine Translation
+- Multi-modal NLP (Vision + Language)
 
-Use: Seq2Seq with Attention or Transformer
-
-Dataset: WMT’14 (English–French / English–German)
-
-Goal: Translate text between languages.
-
-Speech-to-Text + Text Analysis Pipeline
-
-Use: Speech Recognition + NLP models
-
-Dataset: LibriSpeech (for audio) + any text dataset
-
-Goal: Convert audio to text, then apply sentiment/NER/QA.
-
-Multi-modal NLP (Vision + Language)
-
-Use: CLIP, BLIP-2, LLaVA models
-
-Dataset: MSCOCO captions
-
-Goal: Build an app that describes images in natural language or answers questions about them.
+        Use: CLIP, BLIP-2, LLaVA models
+        
+        Dataset: MSCOCO captions
+        
+        Goal: Build an app that describes images in natural language or answers questions about them.
 
 ⚡ Pro tip: Start with text preprocessing + ML models, then move to deep learning (LSTMs, GRUs), and finally tackle transformer-based NLP (BERT, GPT, T5, etc.).
 
