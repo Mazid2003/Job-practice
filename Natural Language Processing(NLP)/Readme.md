@@ -54,7 +54,7 @@ Natural Language Processing bridges **human language** and **computer understand
     
     Goal: Predict whether a review is Positive or Negative.
 
-Word Cloud Generator
+- Word Cloud Generator
 
 Use: Text preprocessing, visualization libraries
 
@@ -62,7 +62,7 @@ Dataset: Any text (news articles, tweets, reviews)
 
 Goal: Generate a word cloud showing most frequent words.
 
-Resume Keyword Extractor
+- Resume Keyword Extractor
 
 Use: Regex, spaCy NER
 
