@@ -56,55 +56,55 @@ Natural Language Processing bridges **human language** and **computer understand
 
 - Word Cloud Generator
 
-Use: Text preprocessing, visualization libraries
-
-Dataset: Any text (news articles, tweets, reviews)
-
-Goal: Generate a word cloud showing most frequent words.
+    Use: Text preprocessing, visualization libraries
+    
+    Dataset: Any text (news articles, tweets, reviews)
+    
+    Goal: Generate a word cloud showing most frequent words.
 
 - Resume Keyword Extractor
 
-Use: Regex, spaCy NER
+    Use: Regex, spaCy NER
+    
+    Dataset: Collection of resumes (PDFs / text)
+    
+    Goal: Extract names, emails, skills, and experience.
 
-Dataset: Collection of resumes (PDFs / text)
+### 🟡 Intermediate NLP Projects
 
-Goal: Extract names, emails, skills, and experience.
+- News Categorization
 
-🟡 Intermediate NLP Projects
+        Use: TF-IDF + Naive Bayes / SVM
+        
+        Dataset: BBC News Dataset
+        
+        Goal: Classify news into categories (Sports, Tech, Business, Politics, etc.).
 
-News Categorization
+- Question Answering Bot (Closed Domain)
 
-Use: TF-IDF + Naive Bayes / SVM
+        Use: BERT / DistilBERT
+        
+        Dataset: SQuAD (Stanford Question Answering Dataset)
+        
+        Goal: Answer questions from a given paragraph/document.
 
-Dataset: BBC News Dataset
+- Named Entity Recognition (NER)
 
-Goal: Classify news into categories (Sports, Tech, Business, Politics, etc.).
+        Use: spaCy / BiLSTM-CRF
+        
+        Dataset: CoNLL-2003 Dataset
+        
+        Goal: Extract names, places, organizations from text.
 
-Question Answering Bot (Closed Domain)
+- Fake News Detection
 
-Use: BERT / DistilBERT
+        Use: TF-IDF, LSTMs, or Transformers
+        
+        Dataset: Kaggle Fake News Dataset
+        
+        Goal: Classify whether a news article is Real or Fake.
 
-Dataset: SQuAD (Stanford Question Answering Dataset)
-
-Goal: Answer questions from a given paragraph/document.
-
-Named Entity Recognition (NER)
-
-Use: spaCy / BiLSTM-CRF
-
-Dataset: CoNLL-2003 Dataset
-
-Goal: Extract names, places, organizations from text.
-
-Fake News Detection
-
-Use: TF-IDF, LSTMs, or Transformers
-
-Dataset: Kaggle Fake News Dataset
-
-Goal: Classify whether a news article is Real or Fake.
-
-🔴 Advanced NLP Projects
+### 🔴 Advanced NLP Projects
 
 Chatbot with NLU + NLG
 
