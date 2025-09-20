@@ -46,11 +46,6 @@ Want to learn c++
 
 For any queries or feedback, feel free to reach out via [GitHub Issues](https://github.com/Mazid2003/Job-practice/issues).
 
-Connect me on:
-
-- [Linkedin](https://www.linkedin.com/in/mohammadmazid)
-- [Leetcode](https://leetcode.com/u/mazidmd)
-
 ## 📬 Connect with Me
 
 💻 [Leetcode](https://leetcode.com/u/mazidmd)  
