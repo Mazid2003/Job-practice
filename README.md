@@ -50,3 +50,8 @@ Connect me on:
 
 - [Linkedin](https://www.linkedin.com/in/mohammadmazid)
 - [Leetcode](https://leetcode.com/u/mazidmd)
+
+## 📬 Connect with Me
+
+💻 [Leetcode](https://leetcode.com/u/mazidmd)  
+🔗 [LinkedIn](https://linkedin.com/in/mohammadmazid)  
