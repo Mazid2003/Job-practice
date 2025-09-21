@@ -44,7 +44,7 @@ Want to learn c++
 
 Want to learn Hibernate 
 
-Job-practice/Java/Hibernate at main · Mazid2003/Job-practice https://share.google/MuqL1Pw5zLoKiKdyb
+https://github.com/Mazid2003/Job-practice/tree/main/Java/Hibernate
 
 ### 🤝 Contributions Welcome
 
