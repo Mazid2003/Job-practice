@@ -6,10 +6,6 @@
 
 **Just by one click you can navigate:**
 
-Learn how to give promts to all the ai models
-
-[promts](https://github.com/Mazid2003/system-prompts-and-models-of-ai-tools)
-
 Get any role roadmap by one click
 
 [Roadmap](https://github.com/Mazid2003/-Study-material)
@@ -49,6 +45,10 @@ Want to learn c++
 Want to learn Hibernate 
 
 [Hibernate](https://github.com/Mazid2003/Job-practice/tree/main/Java/Hibernate)
+
+Learn how to give promts to all the ai models
+
+[promts](https://github.com/Mazid2003/system-prompts-and-models-of-ai-tools)
 
 ### 🤝 Contributions Welcome
 
