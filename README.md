@@ -46,7 +46,7 @@ Want to learn Hibernate
 
 [Hibernate](https://github.com/Mazid2003/Job-practice/tree/main/Java/Hibernate)
 
-Learn how to give promts to all the ai models
+Learn how to give promts to any ai models
 
 [promts](https://github.com/Mazid2003/system-prompts-and-models-of-ai-tools)
 
