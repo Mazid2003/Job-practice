@@ -8,7 +8,7 @@
 
 Learn how to give promts to all the ai models
 
-https://github.com/Mazid2003/system-prompts-and-models-of-ai-tools
+[promts](https://github.com/Mazid2003/system-prompts-and-models-of-ai-tools)
 
 Get any role roadmap by one click
 
