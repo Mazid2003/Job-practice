@@ -6,6 +6,10 @@
 
 **Just by one click you can navigate:**
 
+Learn how to give promts to all the ai models
+
+https://github.com/Mazid2003/system-prompts-and-models-of-ai-tools
+
 Get any role roadmap by one click
 
 [Roadmap](https://github.com/Mazid2003/-Study-material)
