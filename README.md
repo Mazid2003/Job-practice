@@ -52,6 +52,8 @@ Learn how to give promts to any ai models
 
 ### 🤝 Contributions Welcome
 
+**Suggestions, corrections,** and **additions** are always welcome. Open a **pull request** or **raise an issue** to contribute.  
+
 For any queries or feedback, feel free to reach out via [GitHub Issues](https://github.com/Mazid2003/Job-practice/issues).
 
 ### 📬 Connect with Me
