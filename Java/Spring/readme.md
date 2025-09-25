@@ -19,6 +19,12 @@ This guide covers **Spring from scratch to advanced topics** including Core, AOP
 
 ---
 
+## ✅ Who Is This For?
+- Students learning **Spring for the first time**  
+- Beginners who want **hands-on practicals**  
+- Working professionals brushing up **interview topics**  
+- Job seekers preparing for **Spring-related roles**  
+
 ## 📺 Recommended Playlists
 - [Spring Framework in Telugu](https://www.youtube.com/watch?v=8DEonl-iqhY)  
 - [Spring Framework in Hindi](https://www.youtube.com/playlist?list=PL0zysOflRCekeiERASkpi-crREVensZGS)  
@@ -34,19 +40,4 @@ This guide covers **Spring from scratch to advanced topics** including Core, AOP
 
 ---
 
-## ✅ Who Is This For?
-- Students learning **Spring for the first time**  
-- Beginners who want **hands-on practicals**  
-- Working professionals brushing up **interview topics**  
-- Job seekers preparing for **Spring-related roles**  
-
----
-
-## 🚀 Next Steps
-- A **separate guide for Spring Boot** will be added soon.  
-- Small **Spring mini-projects** will be created to practice concepts.  
-
----
-
-### ⭐ Don’t forget to star this repo if you find it useful!
 
