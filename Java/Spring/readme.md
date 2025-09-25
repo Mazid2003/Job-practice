@@ -25,6 +25,8 @@ This guide covers **Spring from scratch to advanced topics** including Core, AOP
 - Working professionals brushing up **interview topics**  
 - Job seekers preparing for **Spring-related roles**  
 
+---
+
 ## 📺 Recommended Playlists
 - [Spring Framework in Telugu](https://www.youtube.com/watch?v=8DEonl-iqhY)  
 - [Spring Framework in Hindi](https://www.youtube.com/playlist?list=PL0zysOflRCekeiERASkpi-crREVensZGS)  
