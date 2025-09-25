@@ -20,10 +20,9 @@ This guide covers **Spring from scratch to advanced topics** including Core, AOP
 ---
 
 ## 📺 Recommended Playlists
-- [Spring Framework (Telusko)](https://www.youtube.com/playlist?list=PLsyeobzWxl7r2ukVgTqIQcltGd15PbwL7)  
-- [Spring Framework (Java Brains)](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTanfgsbnFzfWUhhAz3tIezU)  
-- [Spring Framework (Amigoscode)](https://www.youtube.com/playlist?list=PLwvrYc43l1MwIW5_8F7UomD4TjtGdvEhN)  
-- [Spring Framework Full Course (Programming with Mosh)](https://youtu.be/If1Lw4pLLEo)  
+- [Spring Framework in Telugu](https://www.youtube.com/watch?v=8DEonl-iqhY)  
+- [Spring Framework in Hindi](https://www.youtube.com/playlist?list=PL0zysOflRCekeiERASkpi-crREVensZGS)  
+- [Spring Framework in English](https://www.youtube.com/watch?v=DrMmHTHTcCo)  
 
 ---
 
@@ -50,12 +49,4 @@ This guide covers **Spring from scratch to advanced topics** including Core, AOP
 ---
 
 ### ⭐ Don’t forget to star this repo if you find it useful!
-
-spring
-telugu
-https://www.youtube.com/watch?v=8DEonl-iqhY
-hindi
-https://www.youtube.com/playlist?list=PL0zysOflRCekeiERASkpi-crREVensZGS
-english
-https://www.youtube.com/watch?v=DrMmHTHTcCo
 
