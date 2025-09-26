@@ -25,12 +25,20 @@ This repository showcases practical learning paths, projects, and references to 
 
 ---
 
-## References & Playlists
+## Playlists
+
+telugu
+https://www.youtube.com/playlist?list=PLGm6I-GQa8ioAT9H8y4qckElo8Dyq23IS
+hindi
+https://www.youtube.com/playlist?list=PL0zysOflRCelmjxj-g4jLr3WKraSU_e8q
+english
+https://www.youtube.com/watch?v=Kq-DRboTVrc
+
+## References
 
 - [Official Spring Boot Documentation](https://spring.io/projects/spring-boot)  
 - [Baeldung Spring Boot Tutorials](https://www.baeldung.com/spring-boot)  
-- [Spring Boot YouTube Playlist – Java Brains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa4ad5JISViSb2FVG8Vwa4o)  
-- [Spring Boot Microservices Playlist – in28Minutes](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTb7t7l3-0VYrd3gHh5YkFzV)  
+- [Spring Boot Microservices Playlist – in 28 Minutes](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTb7t7l3-0VYrd3gHh5YkFzV)  
 
 ---
 
