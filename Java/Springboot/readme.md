@@ -27,10 +27,9 @@ This repository showcases practical learning paths, projects, and references to 
 
 ## Playlists
 
-telugu
-https://www.youtube.com/playlist?list=PLGm6I-GQa8ioAT9H8y4qckElo8Dyq23IS
-hindi
-https://www.youtube.com/playlist?list=PL0zysOflRCelmjxj-g4jLr3WKraSU_e8q
+[Springboot playlist in telugu](https://www.youtube.com/playlist?list=PLGm6I-GQa8ioAT9H8y4qckElo8Dyq23IS)
+[Springboot playlist in hindi]
+(https://www.youtube.com/playlist?list=PL0zysOflRCelmjxj-g4jLr3WKraSU_e8q)
 english
 https://www.youtube.com/watch?v=Kq-DRboTVrc
 
