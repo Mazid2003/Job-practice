@@ -1,3 +1,11 @@
+## 🤝 Contributions
+Feel free to fork this repo, suggest improvements, or add more real-world examples.
+Together, let’s make this the best open DevOps learning resource 💡
+
+📬 Connect with Me
+💻 [Leetcode](https://leetcode.com/u/mazidmd/)
+🔗 [LinkedIn](http)
+
 ## Python Playlists 
 
 [Python Playlist in Telugu](https://www.youtube.com/playlist?list=PLS8lzSv6JRJ2OC7KVp05jqtY4MgLsitdX)
