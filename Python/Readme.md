@@ -2,9 +2,11 @@
 Feel free to fork this repo, suggest improvements, or add more real-world examples.
 Together, let’s make this the best open DevOps learning resource 💡
 
-📬 Connect with Me
-💻 [Leetcode](https://leetcode.com/u/mazidmd/)
-🔗 [LinkedIn](http)
+## 📬 Connect with Me
+
+- 💻 [Leetcode](https://leetcode.com/u/mazidmd/)
+
+-🔗 [LinkedIn](http)
 
 ## Python Playlists 
 
