@@ -1,6 +1,6 @@
 # Jquery
 
-## Youtube Playlists for the jQuery 
+## Youtube Playlists for jQuery 
 
 **- [jQuery Playlist in Telugu](https://www.youtube.com/playlist?list=PLzdWZT-ZJD08NjTzxCj6-IrKf5R3gWDcB)**
 
