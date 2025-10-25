@@ -5,4 +5,4 @@
 
 - [JavaScript Playlist in Telugu]()
 - [JavaScript Playlist in Hindi]()
-- [Mongodb Playlist in English]()
+- [JavaScript Playlist in English]()
