@@ -1,8 +1,8 @@
 # ReactJs 
 
-## Youtube Playlist for React 
+## Youtube Playlist for ReactJs
 
-- [React Playlist in Telugu]()
-- [React Playlist in Hindi]()
-- [React Playlist in English]()
+- [ReactJs Playlist in Telugu]()
+- [ReactJs Playlist in Hindi]()
+- [ReactJs Playlist in English]()
 
