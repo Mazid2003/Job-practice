@@ -97,7 +97,7 @@ Understanding Big O Notation is key to evaluating algorithm efficiency:
 
 - [DSA using Java in Telugu](https://www.youtube.com/playlist?list=PLjzLBp9HHZWhVXBSPS1VqxXXDoVk07gd9) 
 - [DSA using Java in Hindi](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop) 
-- [Java DSA in English](https://youtu.be/xWLxhF3b5P8?si=74pW-oryi-KwgT33) 
+- [DSA using Java in English](https://youtu.be/xWLxhF3b5P8?si=74pW-oryi-KwgT33) 
 
 ### 3. C 
 
