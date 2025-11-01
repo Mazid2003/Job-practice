@@ -1,4 +1,4 @@
-# 📘 .NET Guide
+# 📘 DotNet (.NET) Guide
 
 A beginner-to-advanced guide covering the essentials of **.NET & C# development**.
 
