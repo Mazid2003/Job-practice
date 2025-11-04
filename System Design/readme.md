@@ -2,7 +2,7 @@
 
 ### YouTube Playlist for System Design 
 
-- [System Design Playlist in Telugu]()
+- [System Design Playlist in Telugu](https://www.youtube.com/watch?v=HIswoUBRPD8)
   
 - [System Design Playlist in Hindi]()
   
