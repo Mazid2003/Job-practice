@@ -50,6 +50,10 @@ Learn how to give promts to any ai models
 
 [promts](https://github.com/Mazid2003/system-prompts-and-models-of-ai-tools)
 
+ML Theory + Projects
+
+
+
 ### 🤝 Contributions Welcome
 
 **Suggestions, corrections,** and **additions** are always welcome. Open a **pull request** or **raise an issue** to contribute.  
