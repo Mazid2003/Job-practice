@@ -4,6 +4,6 @@
 
 - [System Design Playlist in Telugu](https://www.youtube.com/watch?v=HIswoUBRPD8)
   
-- [System Design Playlist in Hindi]()
+- [System Design Playlist in Hindi](https://www.youtube.com/playlist?list=PLA3GkZPtsafZdyC5iucNM_uhqGJ5yFNUM)
   
 - [System Design Playlist in English]()
