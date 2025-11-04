@@ -6,4 +6,4 @@
   
 - [System Design Playlist in Hindi](https://www.youtube.com/playlist?list=PLA3GkZPtsafZdyC5iucNM_uhqGJ5yFNUM)
   
-- [System Design Playlist in English]()
+- [System Design Playlist in English](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
