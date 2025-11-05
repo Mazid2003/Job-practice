@@ -43,24 +43,6 @@ An Algorithm is a step-by-step procedure to solve a specific problem in a finite
 
 ## 📈 Time and Space Complexity
 
-### 🧠 Space Complexity Table in DSA
-
-| Space Complexity | Name | Example in DSA | When It Happens | Real-Life Analogy |
-|------------------|-------|----------------|-----------------|------------------|
-| **O(1)** | Constant Space | Iterative algorithms (e.g., Linear Search, In-place Sort) | Memory usage doesn’t grow with input size | 🧳 A fixed-size locker |
-| **O(log n)** | Logarithmic Space | Recursive Binary Search, Balanced BST operations | Recursive calls reduce problem size by half | 📄 Folding a paper in half repeatedly |
-| **O(n)** | Linear Space | Storing Arrays, Hash Tables, BFS/DFS (with Queue/Stack) | Needs memory proportional to input size | 🏫 Keeping a list of every student in class |
-| **O(n log n)** | Linearithmic Space | Merge Sort (recursive stack + temporary arrays) | Extra memory for divide-and-conquer algorithms | 📚 Breaking a book into chapters & storing separately |
-| **O(n²)** | Quadratic Space | Graph adjacency matrix, DP tables (Floyd Warshall) | Storing relationships between every pair | 🪑 Seating chart of everyone vs everyone |
-| **O(n³)** | Cubic Space | 3D Dynamic Programming problems (matrix chain variations) | Multi-dimensional memory allocations | 🎦 Storing seats for a 3D cinema hall |
-| **O(2ⁿ)** | Exponential Space | Recursive subset generation, backtracking (naïve) | Memory explodes as branches double each step | 👗 Writing every outfit combination |
-| **O(n!)** | Factorial Space | Storing all permutations of n elements | Memory needed for every possible arrangement | 🃏 Listing all possible orders of a deck of cards |
-
----
-
-⭐ **Tip:**  
-Space complexity represents how much **extra memory** an algorithm uses relative to the input size. Efficient algorithms try to minimize both **time** and **space** complexity for scalability.
-
 ### ⏱️ Time Complexity Table in DSA (Extended)
 
 | Time Complexity | Name | Example in DSA | When It Happens | Real-Life Analogy |
@@ -79,6 +61,24 @@ Space complexity represents how much **extra memory** an algorithm uses relative
 ⭐ **Tip:**  
 Time complexity measures **how fast an algorithm runs** as input size grows.  
 Efficient algorithms aim for **O(1)**, **O(log n)**, or **O(n)** whenever possible, avoiding **O(2ⁿ)** and **O(n!)** for large datasets.
+
+### 🧠 Space Complexity Table in DSA
+
+| Space Complexity | Name | Example in DSA | When It Happens | Real-Life Analogy |
+|------------------|-------|----------------|-----------------|------------------|
+| **O(1)** | Constant Space | Iterative algorithms (e.g., Linear Search, In-place Sort) | Memory usage doesn’t grow with input size | 🧳 A fixed-size locker |
+| **O(log n)** | Logarithmic Space | Recursive Binary Search, Balanced BST operations | Recursive calls reduce problem size by half | 📄 Folding a paper in half repeatedly |
+| **O(n)** | Linear Space | Storing Arrays, Hash Tables, BFS/DFS (with Queue/Stack) | Needs memory proportional to input size | 🏫 Keeping a list of every student in class |
+| **O(n log n)** | Linearithmic Space | Merge Sort (recursive stack + temporary arrays) | Extra memory for divide-and-conquer algorithms | 📚 Breaking a book into chapters & storing separately |
+| **O(n²)** | Quadratic Space | Graph adjacency matrix, DP tables (Floyd Warshall) | Storing relationships between every pair | 🪑 Seating chart of everyone vs everyone |
+| **O(n³)** | Cubic Space | 3D Dynamic Programming problems (matrix chain variations) | Multi-dimensional memory allocations | 🎦 Storing seats for a 3D cinema hall |
+| **O(2ⁿ)** | Exponential Space | Recursive subset generation, backtracking (naïve) | Memory explodes as branches double each step | 👗 Writing every outfit combination |
+| **O(n!)** | Factorial Space | Storing all permutations of n elements | Memory needed for every possible arrangement | 🃏 Listing all possible orders of a deck of cards |
+
+---
+
+⭐ **Tip:**  
+Space complexity represents how much **extra memory** an algorithm uses relative to the input size. Efficient algorithms try to minimize both **time** and **space** complexity for scalability.
 
 ## ✅ DSA Practice Platforms
 
