@@ -27,9 +27,9 @@ Developed as an extension of the C language, C++ includes advanced features like
 
 ### Playlists:
 
-- [C++ Playlist in Telugu](https://www.youtube.com/watch?v=4D9x-ZvSVnw&list=PLNgoFk5SYUglsFq6H2WkQODuzsQyyRrPl) 
-- [C++ Playlist in Hindi](https://www.youtube.com/watch?v=AGHoxi3O_xw&list=PL724pdDXl9Q0yZUx9bkqarHO584JOsKfE) 
-- [C++ Playlist in English](https://www.youtube.com/watch?v=oOmbSpOzvYg&list=PLdo5W4Nhv31YU5Wx1dopka58teWP9aCee) 
+- **[C++ Playlist in Telugu](https://www.youtube.com/watch?v=4D9x-ZvSVnw&list=PLNgoFk5SYUglsFq6H2WkQODuzsQyyRrPl)** 
+- **[C++ Playlist in Hindi](https://www.youtube.com/watch?v=AGHoxi3O_xw&list=PL724pdDXl9Q0yZUx9bkqarHO584JOsKfE)** 
+- **[C++ Playlist in English](https://www.youtube.com/watch?v=oOmbSpOzvYg&list=PLdo5W4Nhv31YU5Wx1dopka58teWP9aCee)** 
 
 **🤝 Contributions Welcome**
 
