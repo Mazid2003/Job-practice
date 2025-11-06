@@ -41,10 +41,9 @@ Useful for students, developers, and interview preparation.
 
 ### Playlists
 
-- [DBMS Playlist in Telugu](https://www.youtube.com/playlist?list=PL06g_pc9cPAhDo85xZxHDbMWBZSBc6qya)
-- [DBMS Playlist in Hindi](https://www.youtube.com/playlist?list=PLrL_PSQ6q062cD0vPMGYW_AIpNg6T0_Fq)
-- [DBMS Playlist in English](https://www.youtube.com/playlist?list=PLdo5W4Nhv31b33kF46f9aFjoJPOkdlsRc)
-
+- **[DBMS Playlist in Telugu](https://www.youtube.com/playlist?list=PL06g_pc9cPAhDo85xZxHDbMWBZSBc6qya)**
+- **[DBMS Playlist in Hindi](https://www.youtube.com/playlist?list=PLrL_PSQ6q062cD0vPMGYW_AIpNg6T0_Fq)**
+- **[DBMS Playlist in English](https://www.youtube.com/playlist?list=PLdo5W4Nhv31b33kF46f9aFjoJPOkdlsRc)**
 ---
 
 ### 🙌 Contributions
