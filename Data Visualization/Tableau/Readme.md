@@ -26,11 +26,8 @@ And much more!
 
 **Playlists:** 
 
-[Tableau Playlist in Telugu](https://www.youtube.com/watch?v=_bQeP0poxpk)
-
-[Tableau Playlist in Hindi](https://www.youtube.com/watch?v=9k-BdRDxdPs&list=PL1gztxnUtwNdEMZANGZCS2OrpSGt0KDaH )
-
-[Tableau Playlist in English](https://www.youtube.com/watch?v=oIw8xJ1Fy3w)
-
+- **[Tableau Playlist in Telugu](https://www.youtube.com/watch?v=_bQeP0poxpk)**
+- **[Tableau Playlist in Hindi](https://www.youtube.com/watch?v=9k-BdRDxdPs&list=PL1gztxnUtwNdEMZANGZCS2OrpSGt0KDaH )**
+- **[Tableau Playlist in English](https://www.youtube.com/watch?v=oIw8xJ1Fy3w)**
 
 
