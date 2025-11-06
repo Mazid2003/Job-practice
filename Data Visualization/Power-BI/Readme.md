@@ -1,4 +1,4 @@
-# 📈 Power BI
+# 📈 PowerBI
 Power BI is a business analytics tool developed by Microsoft that lets users visualize data, share insights, and make data-driven decisions through interactive reports and dashboards.
 
 ## ⚙️ Key Features:
@@ -27,11 +27,8 @@ Real-time monitoring of KPIs
 
 ## Playlists: 
 
-[PowerBI Playlist in Telugu](https://www.youtube.com/watch?v=9sEJclxSxFQ)
-
-[PowerBI Playlist in Hindi](https://www.youtube.com/watch?v=C8TgduBEg2E&t=11609s)
-
-[PowerBI Playlist in English](https://www.youtube.com/watch?v=C8TgduBEg2E&t=11609s)
-
+- **[PowerBI Playlist in Telugu](https://www.youtube.com/watch?v=9sEJclxSxFQ)**
+- **[PowerBI Playlist in Hindi](https://www.youtube.com/watch?v=C8TgduBEg2E&t=11609s)**
+- **[PowerBI Playlist in English](https://www.youtube.com/watch?v=C8TgduBEg2E&t=11609s)**
 
   
