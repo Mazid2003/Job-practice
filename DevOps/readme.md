@@ -36,9 +36,9 @@ It focuses on **automation, collaboration, continuous integration, and continuou
 
 ### Playlists
 
-- [DevOps Playlist in Telugu](https://www.youtube.com/playlist?list=PLGv2x6mk3qVGtaShCx19ZFk0DX3rohDAU)
-- [DevOps Playlist in Hindi](https://www.youtube.com/playlist?list=PL5OhSdfH4uDsyUM02ZHl2mOYBpihCYsml)
-- [DevOps Playlist in English](https://www.youtube.com/watch?v=-2X15hPWjsg)
+- **[DevOps Playlist in Telugu](https://www.youtube.com/playlist?list=PLGv2x6mk3qVGtaShCx19ZFk0DX3rohDAU)**
+- **[DevOps Playlist in Hindi](https://www.youtube.com/playlist?list=PL5OhSdfH4uDsyUM02ZHl2mOYBpihCYsml)**
+- **[DevOps Playlist in English](https://www.youtube.com/watch?v=-2X15hPWjsg)**
 
 ---
 
