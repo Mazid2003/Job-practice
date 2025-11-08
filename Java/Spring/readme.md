@@ -36,9 +36,9 @@ This guide covers **Spring from scratch to advanced topics** including Core, AOP
 
 ## 📚 References
 - **[Official Spring Docs](https://docs.spring.io/spring-framework/docs/current/reference/html/)**  
-- **[Baeldung – Spring Tutorials](https://www.baeldung.com/spring-tutorial)  **
-- **[Spring Guides – Getting Started](https://spring.io/guides)  **
-- **[Java Brains – Spring Overview](https://javabrains.io/topics/spring)  **
+- **[Baeldung – Spring Tutorials](https://www.baeldung.com/spring-tutorial)**
+- **[Spring Guides – Getting Started](https://spring.io/guides)**
+- **[Java Brains – Spring Overview](https://javabrains.io/topics/spring)**
 
 ---
 
