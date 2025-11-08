@@ -32,8 +32,8 @@ This repository showcases practical learning paths, projects, and references to 
 - **[Springboot Playlist in English](https://www.youtube.com/watch?v=Kq-DRboTVrc)**
 ## References
 
-- **[Official Spring Boot Documentation](https://spring.io/projects/spring-boot)  **
-- **[Baeldung Spring Boot Tutorials](https://www.baeldung.com/spring-boot)  **
+- **[Official Spring Boot Documentation](https://spring.io/projects/spring-boot)**
+- **[Baeldung Spring Boot Tutorials](https://www.baeldung.com/spring-boot)**
 - **[Spring Boot Microservices Playlist – in 28 Minutes](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTb7t7l3-0VYrd3gHh5YkFzV)**
 ---
 
