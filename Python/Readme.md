@@ -10,6 +10,6 @@ Together, let’s make this the best open DevOps learning resource 💡
 
 ## 📬 Connect with Me
 
-- **🔗[LinkedIn](https://www.linkedin.com/mohammadmazid)**
+- **🔗[LinkedIn](https://www.linkedin.com/in/mohammadmazid)**
 - **💻[Leetcode](https://leetcode.com/u/mazidmd/)**
 
