@@ -37,9 +37,9 @@ Report **generation and dashboards**
 
 ### Playlists:
 
-[SQL Playlist in Telugu](https://www.youtube.com/watch?v=4yEIZ9KZ_aQ)
+**[SQL Playlist in Telugu](https://www.youtube.com/watch?v=4yEIZ9KZ_aQ)**
 
-[SQL Playlist in Hindi](https://www.youtube.com/watch?v=yE6tIle64tU)
+**[SQL Playlist in Hindi](https://www.youtube.com/watch?v=yE6tIle64tU)**
 
-[SQL Playlist in English](https://www.youtube.com/watch?v=BPHAr4QGGVE)
+**[SQL Playlist in English](https://www.youtube.com/watch?v=BPHAr4QGGVE)**
 
