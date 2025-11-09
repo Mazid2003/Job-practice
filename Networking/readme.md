@@ -66,9 +66,9 @@ This repository is built as a **one-stop reference** for:
 
 ## Playlists
 
-- [Networking Playlist in Telugu](https://www.youtube.com/watch?v=F6Eig7moXME&t=45s)
-- [Networking Playlist in Hindi](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV)
-- [Networking Playlist in English](https://www.youtube.com/watch?v=IPvYjXCsTg8)
+- **[Networking Playlist in Telugu](https://www.youtube.com/watch?v=F6Eig7moXME&t=45s)**
+- **[Networking Playlist in Hindi](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV)**
+- **[Networking Playlist in English](https://www.youtube.com/watch?v=IPvYjXCsTg8)**
 
 📌 *Feel free to explore the PDF and playlists to build a solid foundation in Networking Concepts.
 
