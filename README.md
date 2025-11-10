@@ -24,7 +24,7 @@ Want to learn more about Data Engineering and Projects refer this repo
 
 Want to learn how to build a application(X), use this repo for your reference
 
-[Build your own X](https://github.com/codecrafters-io/build-your-own-x)
+- **[Build your own X](https://github.com/codecrafters-io/build-your-own-x)**
 
 Learn any technology through Practical Knowledge and also gain hands-on-experience by using this repo
 
