@@ -28,7 +28,7 @@ Want to learn how to build a application(X), use this repo for your reference
 
 Learn any technology through Practical Knowledge and also gain hands-on-experience by using this repo
 
-[Learn things by doing](https://github.com/practical-tutorials/project-based-learning)
+- **[Learn things by doing](https://github.com/practical-tutorials/project-based-learning)**
 
 Want to learn Java 
 
