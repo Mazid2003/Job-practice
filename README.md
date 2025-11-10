@@ -32,7 +32,7 @@ Learn any technology through Practical Knowledge and also gain hands-on-experien
 
 Want to learn Java 
 
-[Java](https://github.com/Mazid2003/Job-practice/tree/main/Java)
+- **[Java](https://github.com/Mazid2003/Job-practice/tree/main/Java)**
 
 Want to learn Python 
 
