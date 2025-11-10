@@ -20,7 +20,7 @@ Want to learn more about Software Engineering and also practice quizzes. You can
 
 Want to learn more about Data Engineering and Projects refer this repo
 
-[Data Engineering repo](https://github.com/san089/Udacity-Data-Engineering-Projects)
+- **[Data Engineering repo](https://github.com/san089/Udacity-Data-Engineering-Projects)**
 
 Want to learn how to build a application(X), use this repo for your reference
 
