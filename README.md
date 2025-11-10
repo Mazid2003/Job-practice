@@ -12,7 +12,7 @@ Get any role roadmap just by one click
 
 Want to Practice leetcode questions which was asked by the Company/Companies
 
-[Company wise leetcode questions](https://github.com/Mazid2003/leetcode-company-wise-problems-2022)
+- **[Company wise leetcode questions](https://github.com/Mazid2003/leetcode-company-wise-problems-2022)**
 
 Want to learn more about Software Engineering and also practice quizzes. You can refer to this repo.
 
