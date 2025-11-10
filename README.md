@@ -16,7 +16,7 @@ Want to Practice leetcode questions which was asked by the Company/Companies
 
 Want to learn more about Software Engineering and also practice quizzes. You can refer to this repo.
 
-[Software Engineering repo](https://github.com/Amey-Thakur/SOFTWARE-ENGINEERING-AND-SOFTWARE-ENGINEERING-LAB)
+- **[Software Engineering repo](https://github.com/Amey-Thakur/SOFTWARE-ENGINEERING-AND-SOFTWARE-ENGINEERING-LAB)**
 
 Want to learn more about Data Engineering and Projects refer this repo
 
