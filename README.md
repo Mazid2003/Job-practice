@@ -36,7 +36,7 @@ Want to learn Java
 
 Want to learn Python 
 
-[Python](https://github.com/Mazid2003/Job-practice/tree/main/Python/)
+- **[Python](https://github.com/Mazid2003/Job-practice/tree/main/Python/)**
 
 Want to learn c++
 
