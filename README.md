@@ -44,15 +44,15 @@ Want to learn c++
 
 Want to learn Hibernate 
 
-**[Hibernate](https://github.com/Mazid2003/Job-practice/tree/main/Java/Hibernate)**
+- **[Hibernate](https://github.com/Mazid2003/Job-practice/tree/main/Java/Hibernate)**
 
 Learn how to give promts to any ai models
 
-**[promts](https://github.com/Mazid2003/system-prompts-and-models-of-ai-tools)**
+- **[promts](https://github.com/Mazid2003/system-prompts-and-models-of-ai-tools)**
 
 Best of Python(ML, NLP, Image data, Spatial data, Medical data, Data visualization etc)
 
-**[click here](https://github.com/Mazid2003/best-of-ml-python)**
+-     **[click here](https://github.com/Mazid2003/best-of-ml-python)**
 
 ### 🤝 Contributions Welcome
 
