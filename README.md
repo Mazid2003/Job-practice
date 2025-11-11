@@ -40,7 +40,7 @@ Want to learn Python
 
 Want to learn c++
 
-[C++](https://github.com/Mazid2003/Job-practice/tree/main/CPP)
+**[C++](https://github.com/Mazid2003/Job-practice/tree/main/CPP)**
 
 Want to learn Hibernate 
 
