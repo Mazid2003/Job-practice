@@ -44,7 +44,7 @@ Want to learn c++
 
 Want to learn Hibernate 
 
-[Hibernate](https://github.com/Mazid2003/Job-practice/tree/main/Java/Hibernate)
+**[Hibernate](https://github.com/Mazid2003/Job-practice/tree/main/Java/Hibernate)**
 
 Learn how to give promts to any ai models
 
