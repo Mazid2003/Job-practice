@@ -48,7 +48,7 @@ Want to learn Hibernate
 
 Learn how to give promts to any ai models
 
-[promts](https://github.com/Mazid2003/system-prompts-and-models-of-ai-tools)
+**[promts](https://github.com/Mazid2003/system-prompts-and-models-of-ai-tools)**
 
 Best of Python(ML, NLP, Image data, Spatial data, Medical data, Data visualization etc)
 
