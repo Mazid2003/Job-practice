@@ -52,7 +52,7 @@ Learn how to give promts to any ai models
 
 Best of Python(ML, NLP, Image data, Spatial data, Medical data, Data visualization etc)
 
-[click here](https://github.com/Mazid2003/best-of-ml-python)
+**[click here](https://github.com/Mazid2003/best-of-ml-python)**
 
 ### 🤝 Contributions Welcome
 
