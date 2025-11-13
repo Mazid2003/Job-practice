@@ -54,7 +54,7 @@ Best of Python(ML, NLP, Image data, Spatial data, Medical data, Data visualizati
 
 - **[click here](https://github.com/Mazid2003/best-of-ml-python)**
 
-### 🤝 Contributions Welcome
+## 🤝 Contributions Welcome
 
 **Suggestions, corrections,** and **additions** are always welcome. Open a **pull request** or **raise an issue** to contribute.  
 
@@ -62,8 +62,11 @@ For any queries or feedback, feel free to reach out via [GitHub Issues](https://
 
 📌 *Feel free to explore all the PDF's, notes and playlists to build a solid foundation.
 
-### 📬 Connect with Me
+## 📬 Connect with Me
 
 💻 [Leetcode](https://leetcode.com/u/mazidmd)  
 🔗 [LinkedIn](https://linkedin.com/in/mohammadmazid)  
 
+## 📄 License
+
+This project is licensed under the MIT License.
