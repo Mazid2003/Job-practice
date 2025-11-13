@@ -90,7 +90,7 @@ Explainable AI, Edge AI, Federated Learning, General AI, AI for Social Good.
 
 - **[📺 Artificial Intelligence Playlist in Telugu](https://www.youtube.com/playlist?list=PLv_sM9ZH4RUX3cTixZiSBlCVhG_L9rDzV)**
 - **[📺 Artificial Intelligence Playlist in Hindi](https://www.youtube.com/playlist?list=PLV8vIYTIdSnYsdt0Dh9KkD9WFEi7nVgbe)**
-- **[📺 AI Playlist in English](https://www.youtube.com/watch?v=Ux2X2Te20Wo)**
+- **[📺 Artificial Intelligence Playlist in English](https://www.youtube.com/watch?v=Ux2X2Te20Wo)**
 
 ---
 ---
