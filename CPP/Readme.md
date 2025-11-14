@@ -35,3 +35,6 @@ Developed as an extension of the C language, C++ includes advanced features like
 
 Whether you're a beginner learning C++ or a developer brushing up on concepts, feel free to fork this repo, explore, or contribute with your own examples and enhancements.
 
+## 📄 License
+
+This project is licensed under the MIT License.
