@@ -62,11 +62,12 @@ For any queries or feedback, feel free to reach out via [GitHub Issues](https://
 
 📌 *Feel free to explore all the PDF's, notes and playlists to build a solid foundation.
 
+## 📄 License
+
+This project is licensed under the MIT License.
+
 ## 📬 Connect with Me
 
 💻 [Leetcode](https://leetcode.com/u/mazidmd)  
 🔗 [LinkedIn](https://linkedin.com/in/mohammadmazid)  
 
-## 📄 License
-
-This project is licensed under the MIT License.
