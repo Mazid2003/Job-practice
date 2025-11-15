@@ -60,7 +60,7 @@ Best of Python(ML, NLP, Image data, Spatial data, Medical data, Data visualizati
 
 For any queries or feedback, feel free to reach out via [GitHub Issues](https://github.com/Mazid2003/Job-practice/issues).
 
-📌 *Feel free to explore all the PDF's, notes and playlists to build a solid foundation.
+📌 *Feel free to explore the PDF and playlists to build a solid foundation in Machine Learning.*
 
 ## 📄 License
 
