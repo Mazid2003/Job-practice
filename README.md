@@ -60,8 +60,6 @@ Best of Python(ML, NLP, Image data, Spatial data, Medical data, Data visualizati
 
 For any queries or feedback, feel free to reach out via [GitHub Issues](https://github.com/Mazid2003/Job-practice/issues).
 
-📌 *Feel free to explore the PDF and playlists to build a solid foundation.*
-
 ## 📄 License
 
 This project is licensed under the MIT License.
@@ -71,3 +69,4 @@ This project is licensed under the MIT License.
 💻 [Leetcode](https://leetcode.com/u/mazidmd)  
 🔗 [LinkedIn](https://linkedin.com/in/mohammadmazid)  
 
+📌 *Feel free to explore the PDF and playlists to build a solid foundation.*
