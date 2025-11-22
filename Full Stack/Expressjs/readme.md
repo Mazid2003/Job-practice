@@ -2,6 +2,6 @@
 
 ### Youtube Playlist for Expressjs
 
-- [Telugu]()
-- [Hindi]()
-- [English]()
+- **[Telugu]()**
+- **[Hindi]()**
+- **[English]()**
