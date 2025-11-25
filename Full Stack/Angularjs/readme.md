@@ -2,6 +2,6 @@
 
 ### Youtube Playlist for Angularjs
 
-- [Telugu]()
-- [Hindi]()
-- [English]()
+- **[Telugu]()**
+- **[Hindi]()**
+- **[English]()**
