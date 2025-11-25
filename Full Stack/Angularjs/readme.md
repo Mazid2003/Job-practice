@@ -1,6 +1,6 @@
 # Angularjs
 
-### Youtube Playlist for angularjs
+### Youtube Playlist for Angularjs
 
 - [Telugu]()
 - [Hindi]()
