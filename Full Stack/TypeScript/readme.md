@@ -2,3 +2,4 @@
 
 ### Youtube Playlist for TypeScript
 
+[Telugu]
