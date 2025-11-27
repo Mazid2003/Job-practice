@@ -2,6 +2,6 @@
 
 ### Youtube Playlist for TypeScript
 
-- **[Telugu]**
-- **[Hindi]**
-- **[English]**
+- **[Telugu]()**
+- **[Hindi]()**
+- **[English]()**
