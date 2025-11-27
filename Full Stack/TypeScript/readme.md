@@ -5,3 +5,5 @@
 [Telugu]
 
 [Hindi]
+
+[English]
