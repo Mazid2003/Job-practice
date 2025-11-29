@@ -2,6 +2,6 @@
 
 ### Youtube Playlist for Next js
 
-[Telugu]()
-[Hindi]()
-[English]()
+**[Telugu]()**
+**[Hindi]()**
+**[English]()**
