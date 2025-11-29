@@ -1,3 +1,3 @@
 # Next js
 
-### Youtube Playlist for Nextjs
+### Youtube Playlist for Next js
