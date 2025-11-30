@@ -2,4 +2,4 @@
 
 ### Youtube Playlist for Vue js
 
-- [Telugu]()
+- **[Telugu]()**
