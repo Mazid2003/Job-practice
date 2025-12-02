@@ -6,4 +6,4 @@
 - **[TypeScript Playlist in Hindi-1.](https://www.youtube.com/playlist?list=PLwGdqUZWnOp0xfHQFmlL52b_6-QZ0mnk_)**
 - **[TypeScript Playlist in Hindi-2.](https://www.youtube.com/playlist?list=PL8p2I9GklV44fWXJGEsBvR_ylJClgdVAN)**
 - **[TypeScript Playlist in English-1.](https://www.youtube.com/watch?v=d56mG7DezGs)**
-- **[English-2.](https://www.youtube.com/watch?v=30LWjhZzg50)**
+- **[TypeScript Playlist in English-2.](https://www.youtube.com/watch?v=30LWjhZzg50)**
