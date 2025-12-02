@@ -2,6 +2,6 @@
 
 ### Youtube Playlist for Vue js
 
-- **[Telugu]()**
+- **[Vue js Playlist in Telugu]()**
 - **[Hindi]()**
 - **[English]()**
