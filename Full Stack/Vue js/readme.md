@@ -4,4 +4,4 @@
 
 - **[Vue js Playlist in Telugu]()**
 - **[Vue js Playlist in Hindi]()**
-- **[English]()**
+- **[Vue js Playlist in English]()**
