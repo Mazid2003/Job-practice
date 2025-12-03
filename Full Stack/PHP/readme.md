@@ -2,6 +2,6 @@
 
 ### Youtube Playlist for PHP
 
-- **PHP Playlist in Telugu**
-- **PHP Playlist in Hindi**
-- **PHP Playlist in English**
+- **[PHP Playlist in Telugu]**
+- **[PHP Playlist in Hindi]**
+- **[PHP Playlist in English]**
