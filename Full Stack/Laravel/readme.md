@@ -2,6 +2,6 @@
 
 ### Youtube Playlist for Laravel
 
-- **[Telugu]()**
+- **[Laravel Playlist in Telugu]()**
 - **[Hindi]()**
 - **[English]()**
