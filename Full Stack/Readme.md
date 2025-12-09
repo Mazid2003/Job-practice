@@ -35,9 +35,6 @@ Welcome to the **Full Stack Development** repository! This repository is dedicat
 
 I am actively working on adding the following resources:
 
-- Node.js
-- Express.js
-- MongoDB
 - REST APIs
 - Deployment & Hosting
 
