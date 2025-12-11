@@ -4,4 +4,4 @@
 
 - **[Telugu]()**
 - **[Hindi]()**
-- **[Telugu]()**
+- **[English]()**
