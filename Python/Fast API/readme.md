@@ -3,5 +3,5 @@
 ### Youtube Playlist for Fast API
 
 - **[Telugu]()**
-- **[Telugu]()**
+- **[Hindi]()**
 - **[Telugu]()**
