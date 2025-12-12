@@ -2,6 +2,6 @@
 
 ### Youtube Playlist for Fast API
 
-- **[Telugu]()**
-- **[Hindi]()**
-- **[English]()**
+- **[Fast API Playlist in Telugu]()**
+- **[Fast API Playlist in Hindi]()**
+- **[Fast API Playlist in English]()**
