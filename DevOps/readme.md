@@ -1,4 +1,4 @@
-# 🚀 DevOps Overview
+# 🚀 DevOps Overview 
 
 DevOps is a culture and set of practices that bring **development (Dev)** and **operations (Ops)** teams together to deliver applications faster, more reliably, and at scale.  
 It focuses on **automation, collaboration, continuous integration, and continuous delivery (CI/CD)** to achieve high-quality software releases.
