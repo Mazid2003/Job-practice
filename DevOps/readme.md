@@ -50,7 +50,7 @@ Together, let’s make this the **best open DevOps learning resource** 💡
 
 ## 📬 Connect with Me
 **💻 [Leetcode](https://leetcode.com/u/mazidmd)**  
-🔗 [LinkedIn](https://linkedin.com/in/mohammadmazid)  
+**🔗 [LinkedIn](https://linkedin.com/in/mohammadmazid)** 
 
 ---
 
