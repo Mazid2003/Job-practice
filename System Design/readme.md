@@ -6,6 +6,6 @@
 - **[System Design Playlist in Hindi](https://www.youtube.com/playlist?list=PLA3GkZPtsafZdyC5iucNM_uhqGJ5yFNUM)**
 - **[System Design Playlist in English](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)**
 
-- - **[Reference repo for Low Level System Design](https://github.com/ashishps1/awesome-low-level-design)**
+  - **[Reference repo for Low Level System Design](https://github.com/ashishps1/awesome-low-level-design)**
 
-- - **[Awesome System Design resources](https://github.com/ashishps1/awesome-system-design-resources)**
+  - **[Awesome System Design resources](https://github.com/ashishps1/awesome-system-design-resources)**
