@@ -7,3 +7,5 @@
 - **[System Design Playlist in English](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)**
 
 **[Reference repo for Low Level System Design](https://github.com/ashishps1/awesome-low-level-design)**
+
+**[Awesome System Design resources](https://github.com/ashishps1/awesome-system-design-resources)**
