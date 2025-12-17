@@ -7,6 +7,10 @@
 
 ### Rest API in Python
 
+[Rest API Python Playlist in hindi]
+https://www.youtube.com/playlist?list=PLjC8JXsSUrrh3IuitCvToW-ZcqlbLEuMT
+
+
 ## 🤝 Contributions
 Feel free to fork this repo, suggest improvements, or add more real-world examples.
 Together, let’s make this the best open DevOps learning resource 💡
