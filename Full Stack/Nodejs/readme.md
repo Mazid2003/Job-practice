@@ -6,5 +6,4 @@
 - **[Nodejs Playlist in English-1](https://www.youtube.com/playlist?list=PL1BztTYDF-QPdTvgsjf8HOwO4ZVl_LhxS)**
 - **[Nodejs Playlist in English-2](https://www.youtube.com/playlist?list=PLinedj3B30sDby4Al-i13hQJGQoRQDfPo)**
 
-Rest API in Python
-Rest API Python Playlist in hindi
+Rest API in Nodejs
