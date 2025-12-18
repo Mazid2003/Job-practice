@@ -8,5 +8,4 @@
 
 ### Rest API in Nodejs
 
-- **[Rest API Nodejs Playlist in Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp1ve9jXCz9apbouv-eAMi6E
-)**
+   - **[Rest API Nodejs Playlist in Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp1ve9jXCz9apbouv-eAMi6E)**
