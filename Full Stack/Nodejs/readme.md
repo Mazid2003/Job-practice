@@ -8,4 +8,4 @@
 
 ### Rest API in Nodejs
 
-Rest API Playing for Nodejs in Hindi
+Rest API Nodejs Playlist in Hindi
