@@ -29,4 +29,7 @@ A beginner-to-advanced guide covering the essentials of **.NET & C# development*
 - **[DotNet (.NET) Playlist in Hindi](https://www.youtube.com/playlist?list=PLDSXZnDE8NYWFIZWIZ1H_qZLoSfDiNRxE)**
 - **[DotNet (.NET) Playlist in English](https://www.youtube.com/playlist?list=PLVlQHNRLflP-jc5Fbhfdhzv52AWYq836j)**
 
+Rest API in DotNet (.Net)
+dotnet restapi in hindi
+https://www.youtube.com/playlist?list=PL18HZjtdIA4ByvkNiYnkI2pdfsrP7CdLa
 
