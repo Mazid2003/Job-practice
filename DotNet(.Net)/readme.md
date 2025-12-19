@@ -31,5 +31,5 @@ A beginner-to-advanced guide covering the essentials of **.NET & C# development*
 
 ### Rest API in DotNet (.Net)
 
-[dotnet restapi Playlist in hindi](https://www.youtube.com/playlist?list=PL18HZjtdIA4ByvkNiYnkI2pdfsrP7CdLa)
+[DotNet (.Net) RestAPI Playlist in Hindi](https://www.youtube.com/playlist?list=PL18HZjtdIA4ByvkNiYnkI2pdfsrP7CdLa)
 
