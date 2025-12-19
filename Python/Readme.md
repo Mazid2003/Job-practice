@@ -7,7 +7,7 @@
 
 ### Rest API in Python
 
- - **[Rest API Python Playlist in hindi](https://www.youtube.com/playlist?list=PLjC8JXsSUrrh3IuitCvToW-ZcqlbLEuMT)**
+ - **[Python Rest API Playlist in hindi](https://www.youtube.com/playlist?list=PLjC8JXsSUrrh3IuitCvToW-ZcqlbLEuMT)**
 
 
 ## 🤝 Contributions
