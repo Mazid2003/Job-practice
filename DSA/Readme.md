@@ -110,7 +110,7 @@ Space complexity represents how much **extra memory** an algorithm uses relative
 
 ### Best DSA Practice Sheet
 
-[Strivers A2Z DSA Course](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2?fbclid=IwZXh0bgNhZW0CMTEAAR5eB-gxu9DDATmR9mNJ1dx8wZ2B3IZy3f46pcY678wbzXQ2K12_KNegcj5nhA_aem_4nELi6s-9slm_M0ybwdMWA)
+- **[Strivers A2Z DSA Course](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2?fbclid=IwZXh0bgNhZW0CMTEAAR5eB-gxu9DDATmR9mNJ1dx8wZ2B3IZy3f46pcY678wbzXQ2K12_KNegcj5nhA_aem_4nELi6s-9slm_M0ybwdMWA)**
 
 ## Playlists:
 
