@@ -38,3 +38,9 @@ Whether you're a beginner learning C++ or a developer brushing up on concepts, f
 ## 📄 License
 
 This project is licensed under the MIT License.
+## 📬 Connect with Me
+
+- **💻 [Leetcode](https://leetcode.com/u/mazidmd)**
+- **🔗 [LinkedIn](https://linkedin.com/in/mohammadmazid)**
+
+📌 *Feel free to explore the PDF and playlists to build a solid foundation.*
