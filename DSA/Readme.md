@@ -140,4 +140,10 @@ Space complexity represents how much **extra memory** an algorithm uses relative
 
 **🤝 Contributions Welcome**
 
+## 📬 Connect with Me
+
+- **💻 [Leetcode](https://leetcode.com/u/mazidmd)**
+- **🔗 [LinkedIn](https://linkedin.com/in/mohammadmazid)**
+
+📌 *Feel free to explore the PDF and playlists to build a solid foundation.*
 
