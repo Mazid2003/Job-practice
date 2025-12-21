@@ -136,8 +136,8 @@ Space complexity represents how much **extra memory** an algorithm uses relative
 
 ### 5. JavaScript 
 
-- [DSA using JavaScript in English](https://www.youtube.com/playlist?list=PL8p2I9GklV47TMMnPzqnkCtSOS3ebr4O7)
-
+- **[DSA using JavaScript in English](https://www.youtube.com/playlist?list=PL8p2I9GklV47TMMnPzqnkCtSOS3ebr4O7)**
+  
 **🤝 Contributions Welcome**
 
 ## 📬 Connect with Me
