@@ -117,7 +117,7 @@ Space complexity represents how much **extra memory** an algorithm uses relative
 ### 1. Python:
 
 - **[DSA using Python in Telugu](https://www.youtube.com/playlist?list=PLjzLBp9HHZWiJrhfJzTAEbwdpQIfUXtwP)** 
-- [DSA using Python in Hindi](https://www.youtube.com/playlist?list=PLhR2IpV1b2FwWwviBHRrR118YAaSlyhTU) 
+- **[DSA using Python in Hindi](https://www.youtube.com/playlist?list=PLhR2IpV1b2FwWwviBHRrR118YAaSlyhTU)** 
 - [DSA using Python in English](https://www.youtube.com/playlist?list=PLKYEe2WisBTFEr6laH5bR2J19j7sl5O8R) 
 
 ### 2. Java
