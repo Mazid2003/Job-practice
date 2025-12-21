@@ -128,7 +128,7 @@ Space complexity represents how much **extra memory** an algorithm uses relative
 
 ### 3. C 
 
-- [DSA using C in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi) 
+- **[DSA using C in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi)** 
 
 ### 4. C++
 
