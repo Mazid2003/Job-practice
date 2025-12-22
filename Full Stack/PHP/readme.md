@@ -9,4 +9,4 @@
 
 ### Rest API in PHP (Hypertext Preprocessor)
 
-Rest API Playlist for PHP in Hindi
+PHP Rest API Playlist in Hindi
