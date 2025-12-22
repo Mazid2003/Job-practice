@@ -9,4 +9,5 @@
 
 ### Rest API in PHP (Hypertext Preprocessor)
 
-- **[PHP Rest API Playlist in Hindi]()**
+- **[PHP Rest API Playlist in Hindi](https://www.youtube.com/playlist?list=PLFsCUNFvbKLkX15K-QQ-k2PxiPM-vp8Tb
+)**
