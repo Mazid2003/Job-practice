@@ -36,7 +36,7 @@
 | `git revert <commit>`     | Reverts a commit safely             | Undo changes without history loss |
 
 
-**Playlists**
+## Youtube Playlists for GIT and GITHUB**
 
 - **[GIT and GITHUB Playlist in Telugu](https://youtu.be/LGLuHYHbCFA?si=wjz6BwJEJSdVqSSN)**
 - **[GIT and GITHUB Playlist in Hindi](https://youtu.be/Ez8F0nW6S-w?si=51NPQR_s-2MoO1fv)**
