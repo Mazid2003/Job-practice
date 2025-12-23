@@ -1,4 +1,4 @@
-# 🔧 GIT and 🧳 GITHUB
+# 🔧 GIT & 🧳 GITHUB
 
 ##Difference between Git and Github
 
@@ -14,6 +14,7 @@
 | CI/CD          | Not included                   | Built-in via GitHub Actions      |
 
 ## Github Command Cheat Sheet
+
 | **Command**               | **What It Does**                    | **When to Use It**                |
 | ------------------------- | ----------------------------------- | --------------------------------- |
 | `git init`                | Initializes a new Git repository    | Start tracking a new project      |
@@ -34,7 +35,6 @@
 | `git stash`               | Temporarily saves changes           | Switch tasks quickly              |
 | `git reset --hard`        | Resets to last commit               | Discard all local changes         |
 | `git revert <commit>`     | Reverts a commit safely             | Undo changes without history loss |
-
 
 ## Youtube Playlists for GIT and GITHUB
 
