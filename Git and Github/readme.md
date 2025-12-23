@@ -1,6 +1,6 @@
 # 🔧 GIT and 🧳 GITHUB
 
-**Difference between Git and Github**
+##Difference between Git and Github
 
 | Feature        | Git                            | GitHub                           |
 | -------------- | ------------------------------ | -------------------------------- |
@@ -13,7 +13,7 @@
 | Collaboration  | Manual (via Git)               | Easier with pull requests, forks |
 | CI/CD          | Not included                   | Built-in via GitHub Actions      |
 
-### Github Command Cheat Sheet
+## Github Command Cheat Sheet
 | **Command**               | **What It Does**                    | **When to Use It**                |
 | ------------------------- | ----------------------------------- | --------------------------------- |
 | `git init`                | Initializes a new Git repository    | Start tracking a new project      |
@@ -36,7 +36,7 @@
 | `git revert <commit>`     | Reverts a commit safely             | Undo changes without history loss |
 
 
-## Youtube Playlists for GIT and GITHUB**
+## Youtube Playlists for GIT and GITHUB
 
 - **[GIT and GITHUB Playlist in Telugu](https://youtu.be/LGLuHYHbCFA?si=wjz6BwJEJSdVqSSN)**
 - **[GIT and GITHUB Playlist in Hindi](https://youtu.be/Ez8F0nW6S-w?si=51NPQR_s-2MoO1fv)**
