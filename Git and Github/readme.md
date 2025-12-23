@@ -1,6 +1,6 @@
 # 🔧 GIT & 🧳 GITHUB
 
-##Difference between Git and Github
+## Difference between Git and Github
 
 | Feature        | Git                            | GitHub                           |
 | -------------- | ------------------------------ | -------------------------------- |
