@@ -1,5 +1,6 @@
 # JavaScript
 
+## JavaScript Array Methods 
 
 ## Youtube Playlist for JavaScript 
 
