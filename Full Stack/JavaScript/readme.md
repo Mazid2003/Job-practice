@@ -1,9 +1,10 @@
 # JavaScript
 
 ## JavaScript Array Methods 
+
 | **Method**    | **What It Does**                                                      |
 | ------------- | --------------------------------------------------------------------- |
-| `push()`      | Adds an element to the end of the array                               |
+| **`push()` **     | Adds an element to the end of the array                               |
 | `pop()`       | Removes the last element from the array                               |
 | `shift()`     | Removes the first element of the array                                |
 | `unshift()`   | Adds an element to the beginning of the array                         |
