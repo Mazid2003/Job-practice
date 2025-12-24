@@ -5,14 +5,14 @@
 | **Method**    | **What It Does**                                                      |
 | ------------- | --------------------------------------------------------------------- |
 | **`push()`**     | Adds an element to the end of the array                               |
-| `pop()`       | Removes the last element from the array                               |
-| `shift()`     | Removes the first element of the array                                |
-| `unshift()`   | Adds an element to the beginning of the array                         |
-| `map()`       | Creates a new array by applying a function to each element            |
-| `filter()`    | Returns a new array with elements that pass a condition               |
-| `reduce()`    | Reduces the array to a single value (sum, product, etc.)              |
-| `forEach()`   | Executes a function for each array element (no return)                |
-| `find()`      | Returns the first element that matches a condition                    |
+| **`pop()`**       | Removes the last element from the array                               |
+| **`shift()`**     | Removes the first element of the array                                |
+| **`unshift()`**   | Adds an element to the beginning of the array                         |
+| **`map()`**       | Creates a new array by applying a function to each element            |
+| **`filter()`**    | Returns a new array with elements that pass a condition               |
+| **`reduce()`**    | Reduces the array to a single value (sum, product, etc.)              |
+| **`forEach()`**   | Executes a function for each array element (no return)                |
+| **`find()`**      | Returns the first element that matches a condition                    |
 | `findIndex()` | Returns the index of the first matching element                       |
 | `includes()`  | Checks if the array contains a value                                  |
 | `indexOf()`   | Returns the index of a value (or `-1` if not found)                   |
