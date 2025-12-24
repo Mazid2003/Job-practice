@@ -20,10 +20,10 @@
 | **`splice()`**    | Adds/removes elements and modifies the original array                 |
 | **`sort()`**      | Sorts the array (alphabetically or numerically with compare function) |
 | **`reverse()`**   | Reverses the array order                                              |
-| `concat()`    | Combines two or more arrays                                           |
-| `join()`      | Converts array elements into a string with a separator                |
-| `flat()`      | Flattens nested arrays to a specified depth                           |
-| `flatMap()`   | Maps and flattens the array in one step                               |
+| **`concat()`**    | Combines two or more arrays                                           |
+| **`join()`**      | Converts array elements into a string with a separator                |
+| **`flat()`**      | Flattens nested arrays to a specified depth                           |
+| **`flatMap()`**   | Maps and flattens the array in one step                               |
 
 
 ## Youtube Playlist for JavaScript 
