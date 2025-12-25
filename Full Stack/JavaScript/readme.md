@@ -1,6 +1,6 @@
 # JavaScript
 
-## JavaScript Array Methods 
+## 🔥 JavaScript Array Methods 
 
 | **Method**    | **What It Does**                                                      |
 | ------------- | --------------------------------------------------------------------- |
@@ -25,6 +25,7 @@
 | **`flat()`**      | Flattens nested arrays to a specified depth                           |
 | **`flatMap()`**   | Maps and flattens the array in one step                               |
 
+## 🔥 Additional Useful Array Methods
 
 ## Youtube Playlist for JavaScript 
 
