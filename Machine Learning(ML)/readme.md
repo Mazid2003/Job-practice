@@ -13,6 +13,22 @@ Machine Learning is categorized into:
 
 ## 🤖 Machine Learning Libraries Developers Must Know
 
+| **Library**  | **Language**   | **Purpose / Use Case**                 | **Key Features**                                   |
+| ------------ | -------------- | -------------------------------------- | -------------------------------------------------- |
+| TensorFlow   | Python, C++    | Deep Learning, Neural Networks         | Scalable, production-ready, distributed training   |
+| PyTorch      | Python, C++    | Deep Learning, Research                | Dynamic computation graphs, easy debugging         |
+| Scikit-Learn | Python         | Classical ML algorithms                | Simple API, regression, classification, clustering |
+| Keras        | Python         | High-level neural networks             | User-friendly, runs on TensorFlow backend          |
+| XGBoost      | Python, R, C++ | Gradient boosting                      | High performance, widely used in competitions      |
+| LightGBM     | Python         | Gradient boosting (Microsoft)          | Fast training, handles large datasets              |
+| CatBoost     | Python, R      | Gradient boosting for categorical data | No one-hot encoding, high accuracy                 |
+| Pandas       | Python         | Data manipulation                      | DataFrames, data cleaning, transformations         |
+| NumPy        | Python         | Numerical computing                    | Fast arrays, linear algebra foundation             |
+| OpenCV       | Python, C++    | Computer Vision                        | Image/video processing, CV algorithms              |
+| NLTK         | Python         | NLP (academic)                         | Tokenization, tagging, parsing                     |
+| spaCy        | Python         | Industrial NLP                         | Fast, production-ready NLP pipelines               |
+
+
 ## 📺 Recommended YouTube Playlists
 
 Here are some useful video playlists to enhance your understanding of Machine Learning:
