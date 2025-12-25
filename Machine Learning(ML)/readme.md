@@ -30,6 +30,20 @@ Machine Learning is categorized into:
 
 ## 🔥 Additional Libraries (Highly Recommended)
 
+| **Library**               | **Language** | **Purpose / Use Case**    | **Key Features**                          |
+| ------------------------- | ------------ | ------------------------- | ----------------------------------------- |
+| Matplotlib                | Python       | Data visualization        | Basic plotting, customizable graphs       |
+| Seaborn                   | Python       | Statistical visualization | Beautiful plots, built on Matplotlib      |
+| Plotly                    | Python, JS   | Interactive visualization | Dashboards, interactive charts            |
+| Statsmodels               | Python       | Statistical modeling      | Hypothesis testing, time-series analysis  |
+| Prophet                   | Python       | Time-series forecasting   | Business-friendly forecasting             |
+| Hugging Face Transformers | Python       | NLP, LLMs                 | Pretrained models (BERT, GPT, T5)         |
+| FastAI                    | Python       | Deep Learning             | High-level API on PyTorch                 |
+| MLflow                    | Python       | ML lifecycle management   | Experiment tracking, model registry       |
+| DVC                       | Python       | Data & model versioning   | Git-like version control for ML           |
+| ONNX                      | Python       | Model interoperability    | Run models across frameworks              |
+| TensorRT                  | C++          | Model optimization        | High-performance inference on NVIDIA GPUs |
+
 ## 📺 Recommended YouTube Playlists
 
 Here are some useful video playlists to enhance your understanding of Machine Learning:
