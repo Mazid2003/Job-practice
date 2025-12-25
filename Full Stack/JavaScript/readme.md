@@ -29,21 +29,21 @@
 
 | **Method**        | **What It Does**                                                 |
 | ----------------- | ---------------------------------------------------------------- |
-| `some()`          | Returns `true` if **at least one** element satisfies a condition |
-| `every()`         | Returns `true` if **all** elements satisfy a condition           |
-| `findLast()`      | Returns the **last** element that matches a condition            |
-| `findLastIndex()` | Returns the index of the **last** matching element               |
-| `at()`            | Accesses element using positive or negative index                |
-| `toString()`      | Converts array to a comma-separated string                       |
-| `copyWithin()`    | Copies part of the array to another location in the same array   |
-| `fill()`          | Fills array elements with a static value                         |
-| `entries()`       | Returns an iterator of index-value pairs                         |
-| `keys()`          | Returns an iterator of array indices                             |
-| `values()`        | Returns an iterator of array values                              |
-| `toReversed()`    | Returns a **reversed copy** without mutating original            |
-| `toSorted()`      | Returns a **sorted copy** without mutating original              |
-| `toSpliced()`     | Returns a **spliced copy** without mutating original             |
-| `with()`          | Returns a new array with a value replaced at an index            |
+| **`some()`**          | Returns `true` if **at least one** element satisfies a condition |
+| **`every()`**         | Returns `true` if **all** elements satisfy a condition           |
+| **`findLast()`**      | Returns the **last** element that matches a condition            |
+| **`findLastIndex()`** | Returns the index of the **last** matching element               |
+| **`at()`**            | Accesses element using positive or negative index                |
+| **`toString()`**      | Converts array to a comma-separated string                       |
+| **`copyWithin()`**    | Copies part of the array to another location in the same array   |
+| **`fill()`**         | Fills array elements with a static value                         |
+| **`entries()`**       | Returns an iterator of index-value pairs                         |
+| **`keys()`**          | Returns an iterator of array indices                             |
+| **`values()`**        | Returns an iterator of array values                              |
+| **`toReversed()`**    | Returns a **reversed copy** without mutating original            |
+| **`toSorted()`**      | Returns a **sorted copy** without mutating original              |
+| **`toSpliced()`**     | Returns a **spliced copy** without mutating original             |
+| **`with()`**          | Returns a new array with a value replaced at an index            |
 
 
 ## Youtube Playlist for JavaScript 
