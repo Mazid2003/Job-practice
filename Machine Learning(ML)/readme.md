@@ -7,7 +7,7 @@ Machine Learning is categorized into:
 - **Unsupervised Learning** – identifies patterns in unlabeled data.
 - **Reinforcement Learning** – learns by interacting with an environment to maximize reward.
 
-📄 All detailed explanations, algorithms, evaluation metrics, workflows, and examples are included in the attached PDF inside this folder.
+**📄 All detailed explanations, algorithms, evaluation metrics, workflows, and examples are included in the attached PDF inside this folder.**
 
 ---
 
