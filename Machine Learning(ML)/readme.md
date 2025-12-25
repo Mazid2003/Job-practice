@@ -1,4 +1,4 @@
-# 🤖 Machine Learning
+# 🤖 Machine Learning (ML)
 
 This folder contains resources, notes, and materials related to **Machine Learning (ML)** — a subfield of Artificial Intelligence that focuses on building systems that learn from data to make predictions or decisions.
 
