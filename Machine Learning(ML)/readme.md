@@ -28,6 +28,7 @@ Machine Learning is categorized into:
 | NLTK         | Python         | NLP (academic)                         | Tokenization, tagging, parsing                     |
 | spaCy        | Python         | Industrial NLP                         | Fast, production-ready NLP pipelines               |
 
+🔥 Additional Libraries (Highly Recommended)
 
 ## 📺 Recommended YouTube Playlists
 
