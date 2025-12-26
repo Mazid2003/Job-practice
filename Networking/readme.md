@@ -36,7 +36,7 @@ This repository is built as a **one-stop reference** for:
 | Switch                    | Connects devices in a LAN and forwards data based on MAC                   | Improves LAN efficiency                                                        |
 
 ---
-🔥 More Essentials or Keywords everyone should know... 
+## 🔥 More Essentials or Keywords everyone should know... 
  (Highly Recommended)
 
 | Concept                  | What It Is                                                                 | Why It Matters                                                                 |
