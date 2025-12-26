@@ -35,5 +35,4 @@
 ### Github repo's for System Design
 
    - **[Reference repo for Low Level System Design](https://github.com/ashishps1/awesome-low-level-design)**
-
    - **[Awesome System Design resources](https://github.com/ashishps1/awesome-system-design-resources)**
