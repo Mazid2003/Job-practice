@@ -44,7 +44,7 @@ Stay tuned for more updates! 🔔
 
 ### Playlist:
 
-- **[Youtube Playlist for Full Stack Development in Telugu](https://www.youtube.com/playlist?list=PLL2LIzssz5G_BAsTsgv9IUBsPODX_Fit0)**
+- **[Full Stack Development Youtube Playlist in Telugu](https://www.youtube.com/playlist?list=PLL2LIzssz5G_BAsTsgv9IUBsPODX_Fit0)**
   
 ## 🙌 Contributions
 
