@@ -75,6 +75,8 @@ This repository is built as a **one-stop reference** for:
 | Print Server          | Manages printers & print jobs             | CUPS                 |
 | API Server            | Handles API requests/responses            | REST, GraphQL        |
 
+## 🔥 Additional Important Server Types (Advanced)
+
 ## 🚀 What’s Inside
 - Clear, structured notes chapter-wise  
 - Beginner-friendly explanations  
