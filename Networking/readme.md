@@ -77,6 +77,24 @@ This repository is built as a **one-stop reference** for:
 
 ## 🔥 Additional Important Server Types (Advanced)
 
+| **Server Type**        | **Meaning / Use**                  | **Examples / Notes** |
+| ---------------------- | ---------------------------------- | -------------------- |
+| Load Balancer          | Distributes traffic across servers | AWS ELB, Nginx       |
+| Cache Server           | Stores frequently used data        | Redis, Memcached     |
+| Reverse Proxy          | Routes client requests internally  | Nginx                |
+| Message Queue Server   | Enables async communication        | Kafka, RabbitMQ      |
+| Monitoring Server      | Tracks system health & metrics     | Prometheus           |
+| Logging Server         | Centralized log management         | ELK Stack            |
+| Search Server          | Provides fast text search          | Elasticsearch        |
+| CI/CD Server           | Automates build & deployment       | Jenkins              |
+| Container Server       | Runs containers                    | Docker               |
+| Orchestration Server   | Manages containers at scale        | Kubernetes           |
+| Blockchain Node Server | Maintains blockchain ledger        | Ethereum node        |
+| IoT Server             | Manages IoT device data            | AWS IoT              |
+| Streaming Server       | Real-time data streams             | Apache Flink         |
+| Edge Server            | Processes data near users          | CDN edge nodes       |
+| AI / ML Server         | Runs ML models & inference         | NVIDIA GPU servers   |
+
 ## 🚀 What’s Inside
 - Clear, structured notes chapter-wise  
 - Beginner-friendly explanations  
