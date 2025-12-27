@@ -53,6 +53,7 @@ This repository is built as a **one-stop reference** for:
 | Wireless Networking (Wi-Fi) | Network communication without cables                                     | Provides mobility and convenience                                              |
 | 5G / LTE                 | Modern cellular network technologies                                       | Supports faster and more reliable mobile connections                           |
 
+## 🖥️ Types of Servers – Important List
 
 ## 🚀 What’s Inside
 - Clear, structured notes chapter-wise  
