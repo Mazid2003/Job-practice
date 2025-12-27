@@ -12,7 +12,7 @@ This repository is built as a **one-stop reference** for:
 
 | Concept                  | What It Is                                                                 | Why It Matters                                                                 |
 |---------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| Computer Network          | Collection of interconnected devices sharing resources                     | Foundation of communication systems                                            |
+| **Computer Network**          | Collection of interconnected devices sharing resources                     | Foundation of communication systems                                            |
 | Protocol                  | Set of rules for data communication                                        | Ensures reliable and standardized communication                                |
 | IP Address                | Unique identifier for a device on a network                                | Enables device-to-device communication                                         |
 | IPv4 vs IPv6              | Two versions of IP addressing (32-bit vs 128-bit)                          | Expands available addresses for modern networks                                |
