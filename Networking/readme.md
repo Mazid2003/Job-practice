@@ -20,11 +20,11 @@ This repository is built as a **one-stop reference** for:
 | **Port Number**               | Logical endpoint for communication in TCP/UDP                              | Identifies specific processes/services                                         |
 | **TCP/IP Model**              | 4-layer model for data communication                                       | Basis of modern internet communication                                         |
 | **OSI Model**                 | 7-layer conceptual model for networking                                    | Helps understand how data flows in layers                                      |
-| Packet Switching          | Data is broken into packets before transmission                            | Improves efficiency and reliability                                            |
-| Circuit Switching         | Dedicated path for communication                                           | Used in traditional telephone systems                                          |
-| DNS (Domain Name System)  | Translates domain names into IP addresses                                  | Makes internet navigation human-friendly                                       |
-| DHCP                      | Dynamic Host Configuration Protocol assigns IP addresses                   | Automates IP assignment to devices                                             |
-| NAT (Network Address Translation) | Maps private IPs to public IPs                                     | Conserves IP addresses and enhances security                                   |
+| **Packet Switching**          | Data is broken into packets before transmission                            | Improves efficiency and reliability                                            |
+| **Circuit Switching**         | Dedicated path for communication                                           | Used in traditional telephone systems                                          |
+| **DNS (Domain Name System)**  | Translates domain names into IP addresses                                  | Makes internet navigation human-friendly                                       |
+| **DHCP**                      | Dynamic Host Configuration Protocol assigns IP addresses                   | Automates IP assignment to devices                                             |
+| **NAT (Network Address Translation)** | Maps private IPs to public IPs                                     | Conserves IP addresses and enhances security                                   |
 | Subnetting                | Dividing a network into smaller parts                                      | Improves efficiency and security                                               |
 | VPN (Virtual Private Network) | Secure tunnel over the internet                                        | Provides privacy and secure access                                             |
 | Firewall                  | Security system controlling incoming/outgoing traffic                      | Protects against unauthorized access                                           |
