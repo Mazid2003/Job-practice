@@ -55,6 +55,26 @@ This repository is built as a **one-stop reference** for:
 
 ## 🖥️ Types of Servers – Important List
 
+| **Server Type**       | **Meaning / Use**                         | **Examples / Notes** |
+| --------------------- | ----------------------------------------- | -------------------- |
+| Web Server            | Delivers web pages using HTTP/HTTPS       | Apache, Nginx        |
+| Application Server    | Runs application logic & backend code     | Node.js, Tomcat      |
+| Database Server       | Stores and manages databases              | MySQL, PostgreSQL    |
+| File Server           | Stores and shares files on a network      | NAS, Samba           |
+| Mail Server           | Sends, receives & stores emails           | SMTP, IMAP, POP3     |
+| DNS Server            | Translates domain names to IP addresses   | Google DNS           |
+| Proxy Server          | Acts as intermediary for security/caching | Squid                |
+| FTP Server            | Transfers files using FTP protocol        | vsFTPd               |
+| DHCP Server           | Automatically assigns IP addresses        | Router DHCP          |
+| Game Server           | Hosts multiplayer game sessions           | Minecraft servers    |
+| Virtual Server        | Virtualized server via hypervisor         | VMware, VirtualBox   |
+| Cloud Server          | On-demand scalable server                 | AWS, Azure           |
+| Authentication Server | Verifies user identity                    | OAuth, LDAP          |
+| Media Server          | Streams audio/video content               | Plex                 |
+| Backup Server         | Stores backups for recovery               | Veeam                |
+| Print Server          | Manages printers & print jobs             | CUPS                 |
+| API Server            | Handles API requests/responses            | REST, GraphQL        |
+
 ## 🚀 What’s Inside
 - Clear, structured notes chapter-wise  
 - Beginner-friendly explanations  
