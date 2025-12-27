@@ -31,9 +31,9 @@ This repository is built as a **one-stop reference** for:
 | **Proxy Server**              | Intermediary server for requests                                           | Enhances security, caching, and anonymity                                      |
 | **HTTP vs HTTPS**             | Protocols for web communication (secure with SSL/TLS)                      | Secures web data transfer                                                      |
 | **SMTP, POP3, IMAP**          | Email communication protocols                                              | Enable sending and receiving emails                                            |
-| FTP & SFTP                | File Transfer Protocol (secure version with SSH)                           | Transfer files across networks                                                 |
-| Routing                   | Process of selecting paths for data                                        | Ensures data reaches the destination                                           |
-| Switch                    | Connects devices in a LAN and forwards data based on MAC                   | Improves LAN efficiency                                                        |
+| **FTP & SFTP**                | File Transfer Protocol (secure version with SSH)                           | Transfer files across networks                                                 |
+| **Routing**                   | Process of selecting paths for data                                        | Ensures data reaches the destination                                           |
+| **Switch**                    | Connects devices in a LAN and forwards data based on MAC                   | Improves LAN efficiency                                                        |
 
 ---
 ## 🔥 More Essentials or Keywords everyone should know... 
