@@ -1,4 +1,119 @@
-# 🌐 Networking Notes
+
+# 🌐 Computer Network Architecture – OSI vs TCP/IP (Complete Guide)
+
+This document explains the **OSI Model** and its mapping to the **TCP/IP Model**, with examples, troubleshooting tips, and interview-ready notes.
+
+---
+
+## 📊 OSI vs TCP/IP Layer Table
+
+| **OSI Layer** | **TCP/IP Equivalent** | **Main Function** | **Examples / Protocols** |
+|---|---|---|---|
+| **7. Application** | Application Layer | Network services for end users | HTTP, HTTPS, FTP, DNS, SMTP, DHCP |
+| **6. Presentation** | Application Layer | Data formatting, encryption, compression | SSL/TLS, JPEG, GIF, ASCII |
+| **5. Session** | Application Layer | Establishing, maintaining, terminating sessions | APIs, Sockets |
+| **4. Transport** | Transport Layer | End-to-end delivery, reliability, segmentation | TCP, UDP |
+| **3. Network** | Internet Layer | Routing, logical addressing | IP, ICMP, ARP, RIP, OSPF |
+| **2. Data Link** | Network Access Layer | Framing, MAC addressing, error detection | Ethernet, PPP, Switches |
+| **1. Physical** | Network Access Layer | Transmission of raw bits over medium | Cables, Hubs, NICs, Fiber optics |
+
+---
+
+## 🔁 OSI vs TCP/IP Comparison
+
+| Feature | OSI Model | TCP/IP Model |
+|---|---|---|
+| Number of layers | 7 | 4 |
+| Nature | Conceptual / Theoretical | Practical / Real-world |
+| Usage | Teaching, troubleshooting | Internet communication |
+| Developed by | ISO | DARPA |
+
+---
+
+## 🔐 Security Layer Mapping
+
+- **TLS / SSL** → Presentation Layer (Layer 6)
+- **WAF (Web Application Firewall)** → Application Layer (Layer 7)
+- **Network Firewall** → Network & Transport Layers (Layer 3/4)
+- **VPN**
+  - IPsec VPN → Network Layer
+  - SSL VPN → Application Layer
+
+---
+
+## 🚀 Where Common Technologies Fit
+
+- **Browser / Web App** → Layer 7
+- **REST APIs / GraphQL** → Layer 7
+- **Load Balancer**
+  - L4 Load Balancer → TCP/UDP
+  - L7 Load Balancer → HTTP/HTTPS
+- **Router** → Layer 3
+- **Switch** → Layer 2
+- **Modem / Cable** → Layer 1
+
+---
+
+## ⚡ TCP vs UDP (Quick Comparison)
+
+| Feature | TCP | UDP |
+|---|---|---|
+| Reliability | Yes | No |
+| Order guaranteed | Yes | No |
+| Speed | Slower | Faster |
+| Use cases | HTTP, HTTPS, FTP | Video streaming, VoIP, DNS |
+
+---
+
+## 🧠 Troubleshooting by Layer (Very Important)
+
+| Problem | Likely OSI Layer |
+|---|---|
+| Cable unplugged / No signal | Layer 1 – Physical |
+| MAC address issue | Layer 2 – Data Link |
+| Cannot ping IP | Layer 3 – Network |
+| Slow or failed connection | Layer 4 – Transport |
+| Website not loading | Layer 7 – Application |
+| SSL certificate error | Layer 6 – Presentation |
+
+---
+
+## 🧩 Real-World Example (Opening a Website)
+
+1. **Application (L7)** – Browser sends HTTP request  
+2. **Presentation (L6)** – Data encrypted using TLS  
+3. **Session (L5)** – Session established  
+4. **Transport (L4)** – Data segmented using TCP  
+5. **Network (L3)** – IP routing to server  
+6. **Data Link (L2)** – Framing & MAC addressing  
+7. **Physical (L1)** – Bits transmitted over cable/Wi-Fi  
+
+---
+
+## 📝 Memory Trick for OSI Layers
+
+> **A**ll **P**eople **S**eem **T**o **N**eed **D**ata **P**rocessing  
+(Application, Presentation, Session, Transport, Network, Data Link, Physical)
+
+---
+
+## 🎯 Interview One-Liners
+
+- **OSI is a reference model; TCP/IP is the implementation**
+- **TCP guarantees delivery; UDP guarantees speed**
+- **Switch works at Layer 2; Router works at Layer 3**
+- **HTTPS = HTTP + TLS**
+
+---
+
+## 📌 Key Takeaways
+
+- OSI helps **understand & debug**
+- TCP/IP helps **communicate on the Internet**
+- Each layer has a **specific responsibility**
+- Security and performance depend on **correct layer usage**
+
+---
 
 A complete collection of **networking concepts, protocols, and tools** — designed for students, job seekers, and working professionals.  
 
