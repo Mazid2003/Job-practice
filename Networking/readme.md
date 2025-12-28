@@ -9,7 +9,7 @@ This repository is built as a **one-stop reference** for:
 - Hands-on practice with commands & tools  
 - Exploring advanced networking concepts  
 
-This document explains the **OSI Model** and its mapping to the **TCP/IP Model**, with examples, troubleshooting tips, and interview-ready notes.
+Here is the explaination of the **OSI Model** and its mapping to the **TCP/IP Model**, with examples, troubleshooting tips, and interview-ready notes.
 
 ---
 ## 📊 OSI vs TCP/IP Layer Table
