@@ -4,10 +4,10 @@
 A complete collection of **networking concepts, protocols, and tools** — designed for students, job seekers, and working professionals.  
 
 This repository is built as a **one-stop reference** for:  
-- Learning fundamentals from scratch  
-- Quick revision before interviews  
-- Hands-on practice with commands & tools  
-- Exploring advanced networking concepts
+- Learning fundamentals from scratch.  
+- Quick revision before interviews.  
+- Hands-on practice with commands & tools.  
+- Exploring advanced networking concepts.
 
 ---
 
