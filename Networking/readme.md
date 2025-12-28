@@ -7,7 +7,9 @@ This repository is built as a **one-stop reference** for:
 - Learning fundamentals from scratch  
 - Quick revision before interviews  
 - Hands-on practice with commands & tools  
-- Exploring advanced networking concepts  
+- Exploring advanced networking concepts
+
+---
 
 - Here is the explaination of the **OSI Model** and its mapping to the **TCP/IP Model**, with examples, troubleshooting tips, and interview-ready notes.
 
