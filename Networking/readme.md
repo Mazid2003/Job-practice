@@ -1,5 +1,5 @@
 
-# 🌐 Computer Network Architecture – OSI vs TCP/IP (Complete Guide)
+# 🌐 Computer Network Architecture 
 
 This document explains the **OSI Model** and its mapping to the **TCP/IP Model**, with examples, troubleshooting tips, and interview-ready notes.
 
@@ -114,14 +114,6 @@ This document explains the **OSI Model** and its mapping to the **TCP/IP Model**
 - Security and performance depend on **correct layer usage**
 
 ---
-
-A complete collection of **networking concepts, protocols, and tools** — designed for students, job seekers, and working professionals.  
-
-This repository is built as a **one-stop reference** for:  
-- Learning fundamentals from scratch  
-- Quick revision before interviews  
-- Hands-on practice with commands & tools  
-- Exploring advanced networking concepts  
 
 ## 📘 Networking Essentials or Keywords everyone should know... 
 
