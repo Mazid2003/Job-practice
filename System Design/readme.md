@@ -31,6 +31,28 @@ This document provides a **clear, interview-ready, and real-world focused** over
 
 ---
 
+## 🧩 Additional System Design Concepts (Advanced)
+
+| **Concept** | **Description** | **Example / Use Case** |
+|---|---|---|
+| **Microservices** | Independent services per feature | Netflix architecture |
+| **Monolithic Architecture** | Single codebase system | Early-stage startups |
+| **API Gateway** | Central entry for APIs | Authentication, routing |
+| **Event-Driven Architecture** | Reacts to events | Order placed → notify |
+| **Circuit Breaker** | Stops failing requests | Prevent cascading failures |
+| **Service Discovery** | Services find each other | Kubernetes |
+| **Auto Scaling** | Dynamic resource scaling | AWS ASG |
+| **Health Checks** | Monitor service health | Restart failed services |
+| **Read Replica** | DB copy for reads | Reduce DB load |
+| **Write Ahead Logging** | Log before write | Crash recovery |
+| **Stateless Services** | No local session data | Easy scaling |
+| **Stateful Services** | Maintains session | Needs sticky sessions |
+| **Timeouts & Retries** | Handle slow services | Network resilience |
+| **Observability** | Logs, metrics, traces | Debugging & monitoring |
+| **Blue-Green Deployment** | Zero-downtime release | Safe deployments |
+| **Canary Deployment** | Gradual rollout | Risk reduction |
+
+
 ### Youtube Playlist for System Design 
  
 - **[System Design Playlist in Telugu](https://www.youtube.com/watch?v=HIswoUBRPD8)**
