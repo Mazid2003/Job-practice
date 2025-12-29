@@ -54,6 +54,19 @@ This document provides a **clear, interview-ready, and real-world focused** over
 
 ---
 
+## 🔁 CAP Theorem Explained (Simple)
+
+- **CP (Consistency + Partition Tolerance)**  
+  → Banking systems (may go temporarily offline)
+
+- **AP (Availability + Partition Tolerance)**  
+  → Social media feeds (eventual consistency)
+
+⚠️ You **cannot** have all three simultaneously in a distributed system.
+
+---
+
+
 ### Youtube Playlist for System Design 
  
 - **[System Design Playlist in Telugu](https://www.youtube.com/watch?v=HIswoUBRPD8)**
