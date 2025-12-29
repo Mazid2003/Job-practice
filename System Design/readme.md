@@ -52,6 +52,7 @@ This document provides a **clear, interview-ready, and real-world focused** over
 | **Blue-Green Deployment** | Zero-downtime release | Safe deployments |
 | **Canary Deployment** | Gradual rollout | Risk reduction |
 
+---
 
 ### Youtube Playlist for System Design 
  
