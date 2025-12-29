@@ -70,10 +70,10 @@ This document provides a **clear, interview-ready, and real-world focused** over
 
 | Strategy | How It Works |
 |---|---|
-| Cache Aside | App checks cache → DB |
-| Write Through | Write to cache + DB |
-| Write Back | Write cache first |
-| TTL | Cache expiry control |
+| **Cache Aside** | App checks cache → DB |
+| **Write Through** | Write to cache + DB |
+| **Write Back** | Write cache first |
+| **TTL** | Cache expiry control |
 
 ---
 
