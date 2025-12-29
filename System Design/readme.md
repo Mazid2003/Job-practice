@@ -77,6 +77,17 @@ This document provides a **clear, interview-ready, and real-world focused** over
 
 ---
 
+## 📌 Quick Summary
+
+- **Growth** → Scalability  
+- **Speed** → Caching + CDN  
+- **Reliability** → Replication + Fault Tolerance  
+- **Traffic** → Load Balancer  
+- **Failures** → Circuit Breaker  
+- **Big Systems** → Distributed Architecture  
+
+---
+
 ### Youtube Playlist for System Design 
  
 - **[System Design Playlist in Telugu](https://www.youtube.com/watch?v=HIswoUBRPD8)**
