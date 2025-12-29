@@ -20,7 +20,7 @@
 | **CAP Theorem**             | Trade-off rule               | Design decision         | Distributed DBs      | Cassandra              |
 | **Rate Limiting**           | Restrict requests            | Prevent abuse           | Public APIs          | Login limits           |
 | **Fault Tolerance**         | Survive failures             | Reliability             | Mission-critical     | Payment systems        |
-| CDN                     | Content delivery network     | Faster delivery         | Global users         | YouTube videos         |
+| **CDN**                     | Content delivery network     | Faster delivery         | Global users         | YouTube videos         |
 | **Message Queue**           | Async processing             | Decouple services       | Event-driven apps    | Kafka                  |
 | **Idempotency**             | Safe retries                 | Reliability             | Payment APIs         | Retry payments         |
 | **Data Consistency Models** | Sync vs async                | Performance vs accuracy | Distributed DBs      | Eventual consistency   |
