@@ -107,6 +107,19 @@ This repository is built as a **one-stop reference** for:
 
 ---
 
+## 🧠 Security Best Practices
+
+- Use **HTTPS everywhere**
+- Enable **MFA**
+- Apply **least privilege**
+- Regular **patching & updates**
+- Use **strong hashing** (bcrypt, SHA-256)
+- Encrypt data **at rest & in transit**
+- Perform **regular penetration testing**
+- Monitor logs via **SIEM**
+
+---
+
 ## 🚀 Where Common Technologies Fit
 
 - **Browser / Web App** → Layer 7
