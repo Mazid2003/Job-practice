@@ -97,7 +97,7 @@ This repository is built as a **one-stop reference** for:
 
 ---
 
-## 🔑 Authentication vs Authorization (Quick)
+### 🔑 Authentication vs Authorization (Quick)
 
 | Feature | Authentication | Authorization |
 |------|---------------|---------------|
@@ -107,7 +107,7 @@ This repository is built as a **one-stop reference** for:
 
 ---
 
-## 🧠 Security Best Practices
+### 🧠 Security Best Practices
 
 - Use **HTTPS everywhere**
 - Enable **MFA**
@@ -117,6 +117,19 @@ This repository is built as a **one-stop reference** for:
 - Encrypt data **at rest & in transit**
 - Perform **regular penetration testing**
 - Monitor logs via **SIEM**
+
+---
+
+### ⚠️ Common Attacks & Defenses
+
+| **Attack** | **Defense** |
+|----------|------------|
+| Phishing | User awareness, email filters |
+| DDoS | Rate limiting, CDN |
+| Brute Force | Account lockout, CAPTCHA |
+| MITM | HTTPS, VPN |
+| SQL Injection | Input validation, WAF |
+| Ransomware | Backups, endpoint security |
 
 ---
 
