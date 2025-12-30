@@ -50,6 +50,30 @@ This repository is built as a **one-stop reference** for:
 
 ---
 
+### 🛡️ Network Security – Important Terms
+
+| **Term** | **Meaning** |
+|--------|------------|
+| **Firewall** | Security device/software that filters incoming and outgoing network traffic based on rules |
+| **IDS (Intrusion Detection System)** | Monitors network activity and alerts on suspicious behavior |
+| **IPS (Intrusion Prevention System)** | Detects and actively blocks malicious traffic |
+| **Encryption** | Converts data into unreadable format to prevent unauthorized access |
+| **Decryption** | Converts encrypted data back into readable form |
+| **VPN (Virtual Private Network)** | Secure encrypted tunnel for safe remote access |
+| **Malware** | Malicious software (virus, worm, spyware, ransomware) |
+| **Phishing** | Social engineering attack to steal sensitive data |
+| **Zero Trust** | Security model where no user/device is trusted by default |
+| **Public Key Cryptography** | Encryption using public/private key pairs |
+| **SSL / TLS** | Protocols that encrypt communication between browser and server |
+| **DoS / DDoS Attack** | Flooding a system with traffic to make it unavailable |
+| **Authentication** | Verifying identity of a user or system |
+| **Authorization** | Granting permissions after authentication |
+| **Hashing** | One-way transformation of data into fixed-length value |
+| **SOC (Security Operations Center)** | Team that monitors and responds to security incidents |
+| **Penetration Testing** | Ethical hacking to find vulnerabilities |
+| **Threat Intelligence** | Information about potential or active cyber threats |
+| **Access Control** | Rules defining who can access which resources |
+| **Network Segmentation** | Dividing network to limit attack spread |
 
 
 ## 🚀 Where Common Technologies Fit
