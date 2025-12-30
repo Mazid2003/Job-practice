@@ -1,4 +1,3 @@
-
 # 🌐 Computer Network Architecture 
 
 A complete collection of **networking concepts, protocols, and tools** — designed for students, job seekers, and working professionals.  
@@ -75,6 +74,28 @@ This repository is built as a **one-stop reference** for:
 | **Access Control** | Rules defining who can access which resources |
 | **Network Segmentation** | Dividing network to limit attack spread |
 
+---
+
+### 🔒 Advanced Network Security Concepts
+
+| **Concept** | **Description** | **Example / Use Case** |
+|-----------|---------------|------------------------|
+| **Multi-Factor Authentication (MFA)** | Uses multiple verification methods | OTP + password |
+| **Least Privilege** | Users get minimal required access | Role-based access |
+| **SIEM** | Collects & analyzes security logs | Splunk |
+| **Endpoint Security** | Protects user devices | Antivirus, EDR |
+| **DLP (Data Loss Prevention)** | Prevents sensitive data leaks | Email filtering |
+| **WAF (Web Application Firewall)** | Protects web apps | SQL injection prevention |
+| **Tokenization** | Replaces sensitive data with tokens | Payment systems |
+| **Key Management System (KMS)** | Secure key storage | AWS KMS |
+| **Certificate Authority (CA)** | Issues digital certificates | Let's Encrypt |
+| **Man-in-the-Middle (MITM)** | Intercepts communication | Public WiFi attacks |
+| **Ransomware** | Encrypts data for ransom | WannaCry |
+| **Brute Force Attack** | Tries many passwords | Login attack |
+| **Session Hijacking** | Takes over user session | Cookie theft |
+| **Security Patching** | Fixes known vulnerabilities | OS updates |
+
+---
 
 ## 🚀 Where Common Technologies Fit
 
