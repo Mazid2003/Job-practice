@@ -195,6 +195,12 @@ This repository is built as a **one-stop reference** for:
 - **TCP guarantees delivery; UDP guarantees speed**
 - **Switch works at Layer 2; Router works at Layer 3**
 - **HTTPS = HTTP + TLS**
+- Firewall ≠ Antivirus  
+- Encryption protects data confidentiality  
+- Authentication answers **who**, authorization answers **what**  
+- Zero Trust assumes breach  
+- IDS detects, IPS blocks  
+- Security is a **process**, not a product  
 
 ---
 
