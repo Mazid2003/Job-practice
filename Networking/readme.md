@@ -50,6 +50,8 @@ This repository is built as a **one-stop reference** for:
 
 ---
 
+
+
 ## 🚀 Where Common Technologies Fit
 
 - **Browser / Web App** → Layer 7
