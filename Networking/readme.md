@@ -97,6 +97,16 @@ This repository is built as a **one-stop reference** for:
 
 ---
 
+## 🔑 Authentication vs Authorization (Quick)
+
+| Feature | Authentication | Authorization |
+|------|---------------|---------------|
+| Purpose | Identity check | Access rights |
+| Happens when | First | After authentication |
+| Example | Login | Access admin page |
+
+---
+
 ## 🚀 Where Common Technologies Fit
 
 - **Browser / Web App** → Layer 7
