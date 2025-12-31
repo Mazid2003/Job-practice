@@ -58,6 +58,17 @@ This table covers the **most commonly used Data Structures & Algorithms** asked 
 
 ---
 
+## 🔍 Searching Algorithms
+
+| **Algorithm Name** | **Category** | **Use / Purpose** |
+|------------------|-------------|------------------|
+| **Binary Search** | Searching | Fast search in sorted arrays – O(log n) |
+| **Linear Search** | Searching | Simple sequential search |
+| **Ternary Search** | Searching | Optimization problems |
+| **Interpolation Search** | Searching | Improved binary search for uniform data |
+
+---
+
 ## 🧠 Why Learn DSA?
 
 - 💼 Crucial for **technical interviews** at top companies
