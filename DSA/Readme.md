@@ -258,6 +258,8 @@ Space complexity represents how much **extra memory** an algorithm uses relative
 - **💻 [Leetcode](https://leetcode.com/u/mazidmd)**
 - **🔗 [LinkedIn](https://linkedin.com/in/mohammadmazid)**
 
+---
+
 🚀 *Perfect for FAANG, product-based companies, and competitive programming.*
 📌 *Feel free to explore the PDF and playlists to build a solid foundation.*
 
