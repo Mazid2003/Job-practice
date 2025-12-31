@@ -98,6 +98,31 @@ This table covers the **most commonly used Data Structures & Algorithms** asked 
 
 ---
 
+## 🔤 String Algorithms
+
+| **Algorithm Name** | **Category** | **Use / Purpose** |
+|------------------|-------------|------------------|
+| **KMP Algorithm** | String | Efficient pattern matching |
+| **Rabin–Karp Algorithm** | String | Hash-based string search |
+| **Z Algorithm** | String | Pattern matching |
+| **Trie (Prefix Tree)** | String / DS | Fast prefix search |
+| **Suffix Array** | String | Advanced text searching |
+| **Manacher’s Algorithm** | String | Longest palindromic substring |
+
+---
+
+## 🔁 Recursion, Greedy & Backtracking
+
+| **Algorithm Name** | **Category** | **Use / Purpose** |
+|------------------|-------------|------------------|
+| **Backtracking** | Recursion | N-Queens, Sudoku, permutations |
+| **Greedy Algorithms** | Optimization | Local optimal decisions |
+| **Huffman Coding** | Greedy | Data compression |
+| **Activity Selection** | Greedy | Scheduling problems |
+| **Branch and Bound** | Optimization | Optimization with pruning |
+
+---
+
 ## 🧠 Why Learn DSA?
 
 - 💼 Crucial for **technical interviews** at top companies
