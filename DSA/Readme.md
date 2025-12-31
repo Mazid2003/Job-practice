@@ -30,6 +30,12 @@ An Algorithm is a step-by-step procedure to solve a specific problem in a finite
 **Graph Algorithms** – BFS, DFS, Dijkstra’s, Kruskal’s
 
 **Divide and Conquer** – Merge Sort, Binary Search
+---
+## 🧠 Important DSA Algorithms & Their Uses
+
+This table covers the **most commonly used Data Structures & Algorithms** asked in **coding interviews, competitive programming, and system design foundations**.
+
+---
 
 ## 🧠 Why Learn DSA?
 
