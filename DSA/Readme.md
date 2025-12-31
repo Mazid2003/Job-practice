@@ -39,6 +39,25 @@ This table covers the **most commonly used Data Structures & Algorithms** asked 
 
 ---
 
+## 📌 Core DSA Algorithms
+
+| **Algorithm Name** | **Category** | **Use / Purpose** |
+|------------------|-------------|------------------|
+| **Dijkstra’s Algorithm** | Graph | Finds shortest path from source to all nodes (no negative weights) |
+| **Bellman-Ford Algorithm** | Graph | Shortest path with negative weights |
+| **Floyd–Warshall Algorithm** | Graph | Shortest paths between all pairs of vertices |
+| **A\* (A-Star) Algorithm** | Graph / AI | Heuristic-based pathfinding (games, maps) |
+| **Kruskal’s Algorithm** | Graph | Minimum Spanning Tree using edge sorting |
+| **Prim’s Algorithm** | Graph | MST by growing from a starting vertex |
+| **Depth First Search (DFS)** | Graph / Tree | Explores deep paths first |
+| **Breadth First Search (BFS)** | Graph / Tree | Level-by-level traversal, shortest path (unweighted) |
+| **Topological Sort** | Graph | Orders nodes in DAG (task scheduling) |
+| **Union-Find (DSU)** | Graph | Cycle detection, MST |
+| **Tarjan’s Algorithm** | Graph | Finds Strongly Connected Components |
+| **Kosaraju’s Algorithm** | Graph | SCC detection using DFS |
+
+---
+
 ## 🧠 Why Learn DSA?
 
 - 💼 Crucial for **technical interviews** at top companies
