@@ -69,6 +69,35 @@ This table covers the **most commonly used Data Structures & Algorithms** asked 
 
 ---
 
+## 🔀 Sorting Algorithms
+
+| **Algorithm Name** | **Category** | **Use / Purpose** |
+|------------------|-------------|------------------|
+| **Merge Sort** | Sorting | Stable, divide & conquer – O(n log n) |
+| **Quick Sort** | Sorting | Fast average case sorting |
+| **Heap Sort** | Sorting | In-place sorting using heap |
+| **Bubble Sort** | Sorting | Educational, inefficient |
+| **Insertion Sort** | Sorting | Efficient for small datasets |
+| **Selection Sort** | Sorting | Simple comparison-based sort |
+| **Counting Sort** | Sorting | Non-comparison sort (integers) |
+| **Radix Sort** | Sorting | Digit-based sorting |
+
+---
+
+## 🧩 Dynamic Programming (DP)
+
+| **Algorithm Name** | **Category** | **Use / Purpose** |
+|------------------|-------------|------------------|
+| **Dynamic Programming** | Optimization | Breaks problems into subproblems |
+| **Kadane’s Algorithm** | DP | Maximum subarray sum |
+| **Longest Common Subsequence (LCS)** | DP | String similarity |
+| **Longest Increasing Subsequence (LIS)** | DP | Sequence optimization |
+| **0/1 Knapsack** | DP | Resource optimization |
+| **Matrix Chain Multiplication** | DP | Optimal multiplication order |
+| **Coin Change Problem** | DP | Minimum coins needed |
+
+---
+
 ## 🧠 Why Learn DSA?
 
 - 💼 Crucial for **technical interviews** at top companies
