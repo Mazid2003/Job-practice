@@ -123,6 +123,17 @@ This table covers the **most commonly used Data Structures & Algorithms** asked 
 
 ---
 
+## ⭐ One-Line Takeaways
+
+- DFS → Go deep  
+- BFS → Go wide  
+- DP → Store answers  
+- Greedy → Best local choice  
+- Divide & Conquer → Break & solve  
+- Hashing → Fast lookup  
+
+---
+
 ## 🧠 Why Learn DSA?
 
 - 💼 Crucial for **technical interviews** at top companies
