@@ -204,7 +204,17 @@ Space complexity represents how much **extra memory** an algorithm uses relative
 
 - **[Strivers A2Z DSA Course](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2?fbclid=IwZXh0bgNhZW0CMTEAAR5eB-gxu9DDATmR9mNJ1dx8wZ2B3IZy3f46pcY678wbzXQ2K12_KNegcj5nhA_aem_4nELi6s-9slm_M0ybwdMWA)**
 
-## Playlists:
+## 📌 Interview Quick Tips
+
+- **Graphs** → BFS, DFS, Dijkstra, MST  
+- **Optimization** → Dynamic Programming, Greedy  
+- **Strings** → KMP, Trie, Hashing  
+- **Large Data** → Heap, Binary Search  
+- **Backtracking** → Constraints-based problems  
+
+---
+
+## Youtube Playlists:
 
 ### 1. Python:
 
