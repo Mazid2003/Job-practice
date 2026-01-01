@@ -128,7 +128,7 @@ This repository is built as a **one-stop reference** for:
 | **DDoS** | Rate limiting, CDN |
 | **Brute Force** | Account lockout, CAPTCHA |
 | **MITM** | HTTPS, VPN |
-| SQL Injection | Input validation, WAF |
+| **SQL Injection** | Input validation, WAF |
 | Ransomware | Backups, endpoint security |
 
 ---
