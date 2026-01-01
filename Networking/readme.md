@@ -101,9 +101,9 @@ This repository is built as a **one-stop reference** for:
 
 | Feature | Authentication | Authorization |
 |------|---------------|---------------|
-| Purpose | Identity check | Access rights |
+| **Purpose** | Identity check | Access rights |
 | Happens when | First | After authentication |
-| Example | Login | Access admin page |
+| **Example** | Login | Access admin page |
 
 ---
 
