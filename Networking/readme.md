@@ -129,7 +129,7 @@ This repository is built as a **one-stop reference** for:
 | **Brute Force** | Account lockout, CAPTCHA |
 | **MITM** | HTTPS, VPN |
 | **SQL Injection** | Input validation, WAF |
-| Ransomware | Backups, endpoint security |
+| **Ransomware** | Backups, endpoint security |
 
 ---
 
