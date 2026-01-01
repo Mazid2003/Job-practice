@@ -124,7 +124,7 @@ This repository is built as a **one-stop reference** for:
 
 | **Attack** | **Defense** |
 |----------|------------|
-| Phishing | User awareness, email filters |
+| **Phishing** | User awareness, email filters |
 | DDoS | Rate limiting, CDN |
 | Brute Force | Account lockout, CAPTCHA |
 | MITM | HTTPS, VPN |
