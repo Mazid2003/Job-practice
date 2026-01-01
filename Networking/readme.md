@@ -127,7 +127,7 @@ This repository is built as a **one-stop reference** for:
 | **Phishing** | User awareness, email filters |
 | **DDoS** | Rate limiting, CDN |
 | **Brute Force** | Account lockout, CAPTCHA |
-| MITM | HTTPS, VPN |
+| **MITM** | HTTPS, VPN |
 | SQL Injection | Input validation, WAF |
 | Ransomware | Backups, endpoint security |
 
