@@ -10,6 +10,14 @@ A Data Structure is a way of organizing and storing data so that operations like
 
 This section covers the **most important Data Structures** used in **DSA, interviews, competitive programming, and system design foundations**.
 
+### ✅ Common Data Structures:
+
+| Category       | Examples                         | Description                               |
+| -------------- | -------------------------------- | ----------------------------------------- |
+| **Linear**     | Array, Linked List, Stack, Queue | Store elements sequentially               |
+| **Non-Linear** | Tree, Graph, Heap, Trie          | Hierarchical or interconnected data       |
+| **Hash-Based** | HashMap, HashSet                 | Provide fast access using key-value pairs |
+
 ---
 
 ## 📌 Core Data Structures
@@ -34,14 +42,6 @@ This section covers the **most important Data Structures** used in **DSA, interv
 | **Disjoint Set (Union-Find)** | Manages disjoint subsets | Cycle detection |
 
 ---
-
-### ✅ Common Data Structures:
-
-| Category       | Examples                         | Description                               |
-| -------------- | -------------------------------- | ----------------------------------------- |
-| **Linear**     | Array, Linked List, Stack, Queue | Store elements sequentially               |
-| **Non-Linear** | Tree, Graph, Heap, Trie          | Hierarchical or interconnected data       |
-| **Hash-Based** | HashMap, HashSet                 | Provide fast access using key-value pairs |
 
 ## 🔹 What is an Algorithm?
 An Algorithm is a step-by-step procedure to solve a specific problem in a finite amount of time.
