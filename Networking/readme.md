@@ -161,9 +161,9 @@ This repository is built as a **one-stop reference** for:
 
 | Problem | Likely OSI Layer |
 |---|---|
-| Cable unplugged / No signal | Layer 1 – Physical |
-| MAC address issue | Layer 2 – Data Link |
-| Cannot ping IP | Layer 3 – Network |
+| **Cable unplugged** / No signal | Layer 1 – Physical |
+| **MAC address issue** | Layer 2 – Data Link |
+| **Cannot ping IP** | Layer 3 – Network |
 | Slow or failed connection | Layer 4 – Transport |
 | Website not loading | Layer 7 – Application |
 | SSL certificate error | Layer 6 – Presentation |
