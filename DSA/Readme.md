@@ -260,6 +260,6 @@ Space complexity represents how much **extra memory** an algorithm uses relative
 
 ---
 
-- 🚀 *Perfect for FAANG, product-based companies, and competitive programming.*
-- 📌 *Feel free to explore the PDF and playlists to build a solid foundation.*
+> - 🚀 *Perfect for FAANG, product-based companies, and competitive programming.*
+  - 📌 *Feel free to explore the PDF and playlists to build a solid foundation.*
 
