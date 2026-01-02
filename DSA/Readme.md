@@ -6,7 +6,7 @@ A Data Structure is a way of organizing and storing data so that operations like
 
 ---
 
-# 🧱 Data Structures – Important Concepts (Simplified & Interview-Ready)
+## 🧱 Data Structures Important Keywords
 
 This section covers the **most important Data Structures** used in **DSA, interviews, competitive programming, and system design foundations**.
 
