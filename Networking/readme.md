@@ -150,8 +150,8 @@ This repository is built as a **one-stop reference** for:
 
 | Feature | TCP | UDP |
 |---|---|---|
-| Reliability | Yes | No |
-| Order guaranteed | Yes | No |
+| **Reliability** | Yes | No |
+| **Order guaranteed** | Yes | No |
 | Speed | Slower | Faster |
 | Use cases | HTTP, HTTPS, FTP | Video streaming, VoIP, DNS |
 
