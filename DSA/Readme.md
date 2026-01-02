@@ -6,10 +6,6 @@ A Data Structure is a way of organizing and storing data so that operations like
 
 ---
 
-## 🧱 Data Structures Important Keywords
-
-This section covers the **most important Data Structures** used in **DSA, interviews, competitive programming, and system design foundations**.
-
 ### ✅ Common Data Structures:
 
 | Category       | Examples                         | Description                               |
@@ -20,7 +16,11 @@ This section covers the **most important Data Structures** used in **DSA, interv
 
 ---
 
-## 📌 Core Data Structures
+## 🧱 Data Structures Important Keywords
+
+This section covers the **most important Data Structures** used in **DSA, interviews, competitive programming, and system design foundations**.
+
+### 📌 Core Data Structures
 
 | **Term** | **Meaning (Simple)** | **Example / Usage** |
 |--------|---------------------|---------------------|
