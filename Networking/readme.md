@@ -152,8 +152,8 @@ This repository is built as a **one-stop reference** for:
 |---|---|---|
 | **Reliability** | Yes | No |
 | **Order guaranteed** | Yes | No |
-| Speed | Slower | Faster |
-| Use cases | HTTP, HTTPS, FTP | Video streaming, VoIP, DNS |
+| **Speed** | Slower | Faster |
+| **Use cases** | HTTP, HTTPS, FTP | Video streaming, VoIP, DNS |
 
 ---
 
