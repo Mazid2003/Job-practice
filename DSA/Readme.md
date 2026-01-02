@@ -4,6 +4,37 @@ Data Structures and Algorithms (DSA) form the foundation of efficient problem-so
 ## 🔹 What is a Data Structure?
 A Data Structure is a way of organizing and storing data so that operations like access, insertion, deletion, and search can be performed efficiently.
 
+---
+
+# 🧱 Data Structures – Important Concepts (Simplified & Interview-Ready)
+
+This section covers the **most important Data Structures** used in **DSA, interviews, competitive programming, and system design foundations**.
+
+---
+
+## 📌 Core Data Structures
+
+| **Term** | **Meaning (Simple)** | **Example / Usage** |
+|--------|---------------------|---------------------|
+| **Array** | Collection of elements stored in contiguous memory | `int arr[] = {1,2,3}` |
+| **Linked List** | Nodes connected via pointers | Singly, Doubly Linked List |
+| **Stack** | LIFO (Last In, First Out) | Undo feature, function calls |
+| **Queue** | FIFO (First In, First Out) | Job scheduling, printers |
+| **Deque** | Insertion/deletion at both ends | Browser history |
+| **Hash Table** | Stores key-value pairs using hashing | Dictionaries, maps |
+| **Heap** | Complete binary tree with priority | Priority queue, heap sort |
+| **Binary Tree** | Tree where each node has ≤ 2 children | Expression trees |
+| **Binary Search Tree (BST)** | Left < Root < Right ordering | Fast search in sorted data |
+| **Graph** | Nodes (vertices) connected by edges | Social networks, maps |
+| **Trie** | Prefix-based tree structure | Auto-suggest, dictionary |
+| **Adjacency Matrix** | 2D matrix representation of graph | Dense graphs |
+| **Adjacency List** | List-based graph representation | Sparse graphs |
+| **Set** | Stores unique elements only | Removing duplicates |
+| **Map** | Key-value data structure | Config storage |
+| **Disjoint Set (Union-Find)** | Manages disjoint subsets | Cycle detection |
+
+---
+
 ### ✅ Common Data Structures:
 
 | Category       | Examples                         | Description                               |
