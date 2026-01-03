@@ -177,7 +177,17 @@ This table covers the **most commonly used Data Structures & Algorithms** asked 
 
 ---
 
+## 🧠 Common Use-Case Mapping
 
+- **Fast lookup** → Hash Table  
+- **Undo / Redo** → Stack  
+- **Task scheduling** → Queue  
+- **Autocomplete** → Trie  
+- **Shortest path** → Graph + BFS/Dijkstra  
+- **Priority handling** → Heap  
+- **Hierarchical data** → Tree  
+
+---
 
 ## 🧠 Why Learn DSA?
 
