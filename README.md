@@ -69,4 +69,4 @@ This project is licensed under the MIT License.
 - **💻 [Leetcode](https://leetcode.com/u/mazidmd)**
 - **🔗 [LinkedIn](https://linkedin.com/in/mohammadmazid)**
 
-📌 *Feel free to explore the PDF and playlists to build a solid foundation.*
+📌 *Feel free to explore the PDF's and playlists to build a solid foundation.*
