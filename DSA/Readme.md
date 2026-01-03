@@ -154,6 +154,18 @@ This table covers the **most commonly used Data Structures & Algorithms** asked 
 
 ---
 
+## ⚡ Bit Manipulation & Math
+
+| **Algorithm Name** | **Category** | **Use / Purpose** |
+|------------------|-------------|------------------|
+| **Euclidean Algorithm** | Math | GCD calculation |
+| **Sieve of Eratosthenes** | Math | Prime number generation |
+| **Fast Exponentiation** | Math | Power calculation |
+| **Bit Masking** | Bit Manipulation | Subset generation |
+| **XOR Techniques** | Bit Manipulation | Unique element problems |
+
+---
+
 ## ⭐ One-Line Takeaways
 
 - DFS → Go deep  
