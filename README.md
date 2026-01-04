@@ -1,6 +1,6 @@
 # Job-practice 
 
-### This repository is designed to help students, developers, and job seekers quickly revise essential algorithms with clear explanations and practical use cases.
+### This repository is designed to help Students, Freshers, Developers, and Job seekers quickly revise essential algorithms with clear explanations and practical use cases.
 
 **Just by one click you can navigate:**
 
