@@ -166,7 +166,7 @@ This table covers the **most commonly used Data Structures & Algorithms** asked 
 
 ---
 
-# Example  
+## Brief table for the algorithms
 
 | Algorithm            | Best For                       | Time Complexity | Space Complexity |
 | -------------------- | ------------------------------ | --------------- | ---------------- |
