@@ -166,6 +166,23 @@ This table covers the **most commonly used Data Structures & Algorithms** asked 
 
 ---
 
+# Example  
+
+| Algorithm            | Best For                       | Time Complexity | Space Complexity |
+| -------------------- | ------------------------------ | --------------- | ---------------- |
+| Linear Search        | Unsorted search                | O(n)            | O(1)             |
+| Binary Search        | Sorted search                  | O(log n)        | O(1)             |
+| Bubble Sort          | Learning sorting basics        | O(n²)           | O(1)             |
+| Selection Sort       | Simple sorting                 | O(n²)           | O(1)             |
+| Insertion Sort       | Small/almost sorted arrays     | O(n²)           | O(1)             |
+| Merge Sort           | Large/stable sorting           | O(n log n)      | O(n)             |
+| Quick Sort           | Efficient general-purpose sort | O(n log n) avg  | O(log n)         |
+| Two Pointers         | Optimized linear scans         | O(n)            | O(1)             |
+| Sliding Window       | Subarray/window problems       | O(n)            | O(1)             |
+| Kadane’s Algorithm   | Max subarray sum               | O(n)            | O(1)             |
+| Prefix Sum           | Fast range queries             | O(n)            | O(n)             |
+| Flood Fill (DFS/BFS) | Grid/region filling            | O(m × n)        | O(m × n)         |
+
 ## ⭐ One-Line Takeaways
 
 - DFS → Go deep  
