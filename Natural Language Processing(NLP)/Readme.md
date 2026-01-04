@@ -144,6 +144,6 @@ Natural Language Processing bridges **human language** and **computer understand
         
         Goal: Build an app that describes images in natural language or answers questions about them.
 
-⚡ Pro tip: Start with text preprocessing + ML models, then move to deep learning (LSTMs, GRUs), and finally tackle transformer-based NLP (BERT, GPT, T5, etc.).
+> ⚡ Pro tip: Start with text preprocessing + ML models, then move to deep learning (LSTMs, GRUs), and finally tackle transformer-based NLP (BERT, GPT, T5, etc.).
 
 
