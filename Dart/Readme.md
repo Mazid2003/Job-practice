@@ -71,7 +71,7 @@ I have added a Dart playlist in this folder for:
 ## 📌 Next Steps
 
 - Practice Dart programs
-- Creating a detailed PDF for learning.
+- Creating a **detailed PDF** for learning.
 - Move to **Flutter framework**
 - Build small projects using Dart + Flutter
 
