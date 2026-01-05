@@ -1,7 +1,5 @@
 # 🎯 Dart Language 
 
-This folder contains my **Dart programming practice resources** as part of my **Job Practice** preparation.  
-
 ---
 
 ## 📌 What is Dart?
