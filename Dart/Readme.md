@@ -1,4 +1,4 @@
-# 🎯 Dart Language – Job Practice Notes
+# 🎯 Dart Language 
 
 This folder contains my **Dart programming practice resources** as part of my **Job Practice** preparation.  
 I have added a **YouTube playlist** here to learn and revise Dart concepts in a structured way.
