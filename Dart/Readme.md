@@ -52,6 +52,12 @@ I have added a Dart playlist in this folder for:
 
 > This playlist helps in understanding Dart from **basics to intermediate level**, especially useful for **mobile app development**.
 
+### Youtube Playlist for Dart
+- **[Dart Playlist in Telugu](https://www.youtube.com/playlist?list=PLeCpoxUq3Ehm0SJK-IZr-DkTSf4JEKr77)**
+- **[Dart Playlist in Hindi](https://www.youtube.com/playlist?list=PLFyjjoCMAPtwqUyUJF-2bNheo8J7wJuFZ)**
+- **[Dart Playlist in English](https://www.youtube.com/playlist?list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q)**
+
+
 ---
 
 ## 🎯 Purpose of This Folder
@@ -72,11 +78,6 @@ I have added a Dart playlist in this folder for:
 ---
 
 ⭐ *This folder is part of my continuous learning and job preparation journey.*
-**Dart is a programming language which is used to create Mobile Applications etc.**
-### Youtube Playlist for Dart
-- **[Dart Playlist in Telugu](https://www.youtube.com/playlist?list=PLeCpoxUq3Ehm0SJK-IZr-DkTSf4JEKr77)**
-- **[Dart Playlist in Hindi](https://www.youtube.com/playlist?list=PLFyjjoCMAPtwqUyUJF-2bNheo8J7wJuFZ)**
-- **[Dart Playlist in English](https://www.youtube.com/playlist?list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q)**
 
 
 
