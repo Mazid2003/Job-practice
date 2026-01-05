@@ -241,14 +241,13 @@ This repository is built as a **one-stop reference** for:
 | **Switch**                    | Connects devices in a LAN and forwards data based on MAC                   | Improves LAN efficiency                                                        |
 
 ---
-## 🔥 More Essentials or Keywords everyone should know... 
- (Highly Recommended)
+## 🔥 More Essentials or Keywords everyone should know... (Highly Recommended)
 
 | Concept                  | What It Is                                                                 | Why It Matters                                                                 |
 |---------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| Router                   | Connects multiple networks and directs packets                             | Enables internet communication                                                 |
-| Hub                      | Broadcasts data to all devices in a LAN                                    | Simple but inefficient networking device                                       |
-| Bridge                   | Connects two LAN segments                                                  | Helps reduce network traffic                                                   |
+| **Router**                   | Connects multiple networks and directs packets                             | Enables internet communication                                                 |
+| **Hub**                      | Broadcasts data to all devices in a LAN                                    | Simple but inefficient networking device                                       |
+| **Bridge**                   | Connects two LAN segments                                                  | Helps reduce network traffic                                                   |
 | Bandwidth                | Maximum data transfer rate of a network                                    | Determines speed and capacity                                                  |
 | Latency                  | Time delay in data transmission                                            | Affects performance in real-time apps                                          |
 | Throughput               | Actual data transmitted over time                                          | Indicates network efficiency                                                   |
