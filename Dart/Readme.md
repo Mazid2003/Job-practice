@@ -1,7 +1,6 @@
 # 🎯 Dart Language 
 
 This folder contains my **Dart programming practice resources** as part of my **Job Practice** preparation.  
-I have added a **YouTube playlist** here to learn and revise Dart concepts in a structured way.
 
 ---
 
@@ -72,6 +71,7 @@ I have added a Dart playlist in this folder for:
 ## 📌 Next Steps
 
 - Practice Dart programs
+- Creating a detailed PDF for learning.
 - Move to **Flutter framework**
 - Build small projects using Dart + Flutter
 
