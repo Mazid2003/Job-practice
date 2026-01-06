@@ -7,6 +7,37 @@ Each concept is explained in **simple plain English** for quick revision.
 
 ---
 
+## 🧠 JavaScript Core Concepts
+
+| **Concept** | **Plain English Explanation** |
+|------------|--------------------------------|
+| **Closure** | A function that remembers variables from its outer scope |
+| **Hoisting** | JS moves declarations to the top before execution |
+| **Event Loop** | Handles async tasks behind the scenes |
+| **Callback** | A function passed into another function to be called later |
+| **Promise** | Represents a value that will be available later |
+| **async / await** | Cleaner way to write async code instead of chaining `.then()` |
+| **Currying** | Breaking a function into smaller functions |
+| **IIFE** | Function that runs immediately after definition |
+| **Prototype** | JS mechanism for object inheritance |
+| **this** | Refers to the object calling the function |
+| **Debounce** | Delays function execution until user stops an action |
+| **Throttle** | Limits how often a function can run |
+| **Lexical Scope** | Inner functions can access outer variables |
+| **Garbage Collection** | JS automatically frees unused memory |
+| **Shadowing** | Inner variable overrides outer variable |
+| **Callback Hell** | Nested callbacks making code hard to read |
+| **Promise Chaining** | Using `.then()` repeatedly to handle async steps |
+| **Microtask Queue** | Where promises are queued (higher priority) |
+| **Execution Context** | Environment where JS code is executed |
+| **Call Stack** | Stack that manages function calls |
+| **Temporal Dead Zone** | Time between variable declaration & initialization |
+| **Type Coercion** | JS automatically converts data types |
+| **Falsy Values** | `0`, `""`, `null`, `undefined`, `NaN`, `false` |
+| **Truthy Values** | Any value not falsy |
+
+---
+
 ## 🔥 JavaScript Array Methods 
 
 | **Method**    | **What It Does**                                                      |
