@@ -1,5 +1,12 @@
 # JavaScript
 
+## ⚡ JavaScript Core Concepts – Simplified & Interview-Ready
+
+This document covers **important JavaScript concepts** that are frequently asked in **frontend interviews, full-stack roles, and real-world development**.  
+Each concept is explained in **simple plain English** for quick revision.
+
+---
+
 ## 🔥 JavaScript Array Methods 
 
 | **Method**    | **What It Does**                                                      |
