@@ -103,6 +103,23 @@ Each concept is explained in **simple plain English** for quick revision.
 
 ---
 
+## 🚀 Additional Important JavaScript Topics (Added)
+
+| **Concept** | **Why It Matters** |
+|------------|-------------------|
+| **ES6 Modules** | Clean code organization (`import/export`) |
+| **Strict Mode** | Prevents silent errors |
+| **Arrow Functions** | Shorter syntax & lexical `this` |
+| **Deep vs Shallow Copy** | Important for state management |
+| **JSON** | Data exchange format |
+| **Web APIs** | Browser features (DOM, Fetch, Timers) |
+| **Fetch API** | Modern HTTP requests |
+| **CORS** | Browser security mechanism |
+| **LocalStorage / SessionStorage** | Client-side storage |
+| **Cookies** | Authentication & session handling |
+
+---
+
 ## 🎯 Where to Use This Knowledge
 
 - Frontend Development (React, Angular, Vue)
