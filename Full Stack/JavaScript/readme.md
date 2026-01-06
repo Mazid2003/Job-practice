@@ -38,26 +38,6 @@ Each concept is explained in **simple plain English** for quick revision.
 
 ---
 
-## 🔍 Modern JavaScript Features
-
-| **Concept** | **Plain English Explanation** |
-|------------|--------------------------------|
-| **Short-circuiting** | Stops evaluation once result is known |
-| **Optional Chaining (`?.`)** | Safely access nested properties |
-| **Nullish Coalescing (`??`)** | Returns fallback for `null` or `undefined` |
-| **Set & Map** | `Set` stores unique values, `Map` stores key-value pairs |
-| **Memory Leak** | Unused memory not released |
-| **Event Delegation** | One handler manages multiple elements |
-| **Immutability** | Do not change original data; return new copy |
-| **Spread Operator (`...`)** | Copy/expand arrays and objects |
-| **Destructuring** | Extract values easily from arrays/objects |
-| **Rest Parameters (`...args`)** | Collect remaining arguments |
-| **typeof** | Returns the data type |
-| **instanceof** | Checks object type |
-| **Reference vs Value** | Objects copied by reference, primitives by value |
-
----
-
 ## 🔥 JavaScript Array Methods 
 
 | **Method**    | **What It Does**                                                      |
@@ -103,6 +83,25 @@ Each concept is explained in **simple plain English** for quick revision.
 | **`toSpliced()`**     | Returns a **spliced copy** without mutating original             |
 | **`with()`**          | Returns a new array with a value replaced at an index            |
 
+## 🔍 Modern JavaScript Features
+
+| **Concept** | **Plain English Explanation** |
+|------------|--------------------------------|
+| **Short-circuiting** | Stops evaluation once result is known |
+| **Optional Chaining (`?.`)** | Safely access nested properties |
+| **Nullish Coalescing (`??`)** | Returns fallback for `null` or `undefined` |
+| **Set & Map** | `Set` stores unique values, `Map` stores key-value pairs |
+| **Memory Leak** | Unused memory not released |
+| **Event Delegation** | One handler manages multiple elements |
+| **Immutability** | Do not change original data; return new copy |
+| **Spread Operator (`...`)** | Copy/expand arrays and objects |
+| **Destructuring** | Extract values easily from arrays/objects |
+| **Rest Parameters (`...args`)** | Collect remaining arguments |
+| **typeof** | Returns the data type |
+| **instanceof** | Checks object type |
+| **Reference vs Value** | Objects copied by reference, primitives by value |
+
+---
 
 ## Youtube Playlist for JavaScript 
 
