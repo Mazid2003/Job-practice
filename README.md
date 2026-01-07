@@ -54,7 +54,7 @@ Best of Python(ML, NLP, Image data, Spatial data, Medical data, Data visualizati
 
 Want to learn System Design
 
-**https://github.com/Mazid2003/Job-practice/tree/main/System%20Design**
+**[System Design]https://github.com/Mazid2003/Job-practice/tree/main/System%20Design**
 
 ## 🤝 Contributions Welcome
 
