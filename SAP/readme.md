@@ -43,14 +43,7 @@ The SAP folder is organized module-wise for clarity and easy navigation:
 
 ---
 
-## 🧠 Folder Structure Overview
-
-Each SAP module folder may contain:
-- `README.md` – Module overview
-- `notes/` – Concept explanations
-- `processes/` or `flows/` – Business workflows
-- `use-cases/` – Real-world scenarios
-- `interview-questions/` – Common interview questions
+## Youtube Playlist for SAP 
 
 ---
 
@@ -73,4 +66,3 @@ Planned additions:
 
 ---
 
-⭐ If you find this useful, feel free to explore other folders in the **Job Practice** repository.
