@@ -45,6 +45,12 @@ The SAP folder is organized module-wise for clarity and easy navigation:
 
 ## Youtube Playlist for SAP 
 
+english
+https://www.youtube.com/watch?v=1jFQMadZLfs
+
+telugu
+https://www.youtube.com/watch?v=bBXf0geAFVQ
+
 ---
 
 ## 🚀 Who Can Use This?
