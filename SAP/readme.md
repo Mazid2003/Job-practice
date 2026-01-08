@@ -45,8 +45,8 @@ The SAP folder is organized module-wise for clarity and easy navigation:
 
 ## Youtube Playlist for SAP 
 
-- **[Telugu](https://www.youtube.com/watch?v=bBXf0geAFVQ)**
-- **[English](https://www.youtube.com/watch?v=1jFQMadZLfs)**
+- **[Get Brief Idea about SAP in Telugu](https://www.youtube.com/watch?v=bBXf0geAFVQ)**
+- **[Get Brief Idea about SAP in English](https://www.youtube.com/watch?v=1jFQMadZLfs)**
 
 ---
 
