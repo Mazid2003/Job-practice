@@ -35,3 +35,27 @@ Handles internal cost tracking and decision-making:
 - Profitability Analysis (CO-PA)
 
 ---
+
+🔄 Key Business Processes
+
+Procure to Pay (P2P)
+
+Order to Cash (O2C)
+
+Record to Report (R2R)
+
+Asset Lifecycle Management
+
+Cost Allocation & Profit Analysis
+
+🎯 Objectives of This Module
+
+Understand financial accounting principles in SAP
+
+Learn cost control and management accounting
+
+Practice real-world accounting scenarios
+
+Prepare for SAP FICO interviews
+
+Build strong ERP finance domain knowledge
