@@ -36,17 +36,13 @@ Handles internal cost tracking and decision-making:
 
 ---
 
-🔄 Key Business Processes
+### 🔄 Key Business Processes
 
-Procure to Pay (P2P)
-
-Order to Cash (O2C)
-
-Record to Report (R2R)
-
-Asset Lifecycle Management
-
-Cost Allocation & Profit Analysis
+- Procure to Pay (P2P)
+- Order to Cash (O2C)
+- Record to Report (R2R)
+- Asset Lifecycle Management
+- Cost Allocation & Profit Analysis
 
 🎯 Objectives of This Module
 
@@ -59,3 +55,42 @@ Practice real-world accounting scenarios
 Prepare for SAP FICO interviews
 
 Build strong ERP finance domain knowledge
+
+🧠 Who Should Learn SAP FICO?
+
+Commerce / Finance / Accounting students
+
+MBA (Finance) candidates
+
+ERP consultants
+
+Freshers targeting SAP Functional roles
+
+🛠 Tools & Concepts Covered
+
+Chart of Accounts
+
+Company Code
+
+Posting Keys
+
+Fiscal Year Variant
+
+Cost Elements
+
+Profit Centers
+
+🚀 Career Opportunities
+
+SAP FICO Consultant
+
+Financial Analyst
+
+ERP Functional Consultant
+
+Accounting & Finance Executive
+
+📌 Notes
+
+This folder focuses on conceptual understanding and business flow, not configuration screenshots.
+Content will be expanded gradually with examples and interview preparation material.
