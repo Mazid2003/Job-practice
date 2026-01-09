@@ -14,3 +14,14 @@ SAP FICO is responsible for **financial reporting, accounting, and internal cost
 It helps organizations track **financial transactions**, **control costs**, and **generate financial statements**.
 
 ---
+
+## 🧩 Components of SAP FICO
+
+### 🔹 SAP FI (Financial Accounting)
+Handles external accounting and statutory reporting:
+- General Ledger (GL)
+- Accounts Payable (AP)
+- Accounts Receivable (AR)
+- Asset Accounting (AA)
+- Bank Accounting
+- Financial Statements
