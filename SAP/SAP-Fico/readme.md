@@ -25,3 +25,13 @@ Handles external accounting and statutory reporting:
 - Asset Accounting (AA)
 - Bank Accounting
 - Financial Statements
+
+### 🔹 SAP CO (Controlling)
+Handles internal cost tracking and decision-making:
+- Cost Center Accounting
+- Profit Center Accounting
+- Internal Orders
+- Product Costing
+- Profitability Analysis (CO-PA)
+
+---
