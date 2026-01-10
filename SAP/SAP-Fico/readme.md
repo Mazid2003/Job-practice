@@ -19,6 +19,7 @@ It helps organizations track **financial transactions**, **control costs**, and 
 
 ### 🔹 SAP FI (Financial Accounting)
 Handles external accounting and statutory reporting:
+
 - General Ledger (GL)
 - Accounts Payable (AP)
 - Accounts Receivable (AR)
@@ -28,6 +29,7 @@ Handles external accounting and statutory reporting:
 
 ### 🔹 SAP CO (Controlling)
 Handles internal cost tracking and decision-making:
+
 - Cost Center Accounting
 - Profit Center Accounting
 - Internal Orders
@@ -52,7 +54,7 @@ Handles internal cost tracking and decision-making:
 - Prepare for SAP FICO interviews
 - Build strong ERP finance domain knowledge
 
-🧠 Who Should Learn SAP FICO?
+### 🧠 Who Should Learn SAP FICO?
 
 Commerce / Finance / Accounting students
 
