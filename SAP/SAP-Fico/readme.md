@@ -56,13 +56,10 @@ Handles internal cost tracking and decision-making:
 
 ### 🧠 Who Should Learn SAP FICO?
 
-Commerce / Finance / Accounting students
-
-MBA (Finance) candidates
-
-ERP consultants
-
-Freshers targeting SAP Functional roles
+- Commerce / Finance / Accounting students
+- MBA (Finance) candidates
+- ERP consultants
+- Freshers targeting SAP Functional roles
 
 🛠 Tools & Concepts Covered
 
