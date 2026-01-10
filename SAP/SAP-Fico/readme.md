@@ -44,7 +44,7 @@ Handles internal cost tracking and decision-making:
 - Asset Lifecycle Management
 - Cost Allocation & Profit Analysis
 
-🎯 Objectives of This Module
+### 🎯 Objectives of This Module
 
 Understand financial accounting principles in SAP
 
