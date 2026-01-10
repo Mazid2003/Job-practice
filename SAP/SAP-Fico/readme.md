@@ -61,31 +61,23 @@ Handles internal cost tracking and decision-making:
 - ERP consultants
 - Freshers targeting SAP Functional roles
 
-🛠 Tools & Concepts Covered
+### 🛠 Tools & Concepts Covered
 
-Chart of Accounts
+- Chart of Accounts
+- Company Code
+- Posting Keys
+- Fiscal Year Variant
+- Cost Elements
+- Profit Centers
 
-Company Code
+### 🚀 Career Opportunities
 
-Posting Keys
+- SAP FICO Consultant
+- Financial Analyst
+- ERP Functional Consultant
+- Accounting & Finance Executive
 
-Fiscal Year Variant
-
-Cost Elements
-
-Profit Centers
-
-🚀 Career Opportunities
-
-SAP FICO Consultant
-
-Financial Analyst
-
-ERP Functional Consultant
-
-Accounting & Finance Executive
-
-📌 Notes
+### 📌 Notes
 
 This folder focuses on conceptual understanding and business flow, not configuration screenshots.
 Content will be expanded gradually with examples and interview preparation material.
