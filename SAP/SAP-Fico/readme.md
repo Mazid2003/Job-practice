@@ -49,10 +49,8 @@ Handles internal cost tracking and decision-making:
 - Understand financial accounting principles in SAP
 - Learn cost control and management accounting
 - Practice real-world accounting scenarios
-
-Prepare for SAP FICO interviews
-
-Build strong ERP finance domain knowledge
+- Prepare for SAP FICO interviews
+- Build strong ERP finance domain knowledge
 
 🧠 Who Should Learn SAP FICO?
 
