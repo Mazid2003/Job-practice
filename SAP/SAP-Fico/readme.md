@@ -46,11 +46,9 @@ Handles internal cost tracking and decision-making:
 
 ### 🎯 Objectives of This Module
 
-Understand financial accounting principles in SAP
-
-Learn cost control and management accounting
-
-Practice real-world accounting scenarios
+- Understand financial accounting principles in SAP
+- Learn cost control and management accounting
+- Practice real-world accounting scenarios
 
 Prepare for SAP FICO interviews
 
