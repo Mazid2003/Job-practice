@@ -72,6 +72,8 @@ Handles internal cost tracking and decision-making:
 
 ### Youtube Playlists for SAP- FICO
 
+
+
 ### 🚀 Career Opportunities
 
 - SAP FICO Consultant
