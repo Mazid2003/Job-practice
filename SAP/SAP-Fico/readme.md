@@ -70,6 +70,8 @@ Handles internal cost tracking and decision-making:
 - Cost Elements
 - Profit Centers
 
+### Youtube Playlists for SAP- FICO
+
 ### 🚀 Career Opportunities
 
 - SAP FICO Consultant
@@ -77,7 +79,3 @@ Handles internal cost tracking and decision-making:
 - ERP Functional Consultant
 - Accounting & Finance Executive
 
-### 📌 Notes
-
-This folder focuses on conceptual understanding and business flow, not configuration screenshots.
-Content will be expanded gradually with examples and interview preparation material.
