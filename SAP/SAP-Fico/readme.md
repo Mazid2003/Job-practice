@@ -72,7 +72,9 @@ Handles internal cost tracking and decision-making:
 
 ### Youtube Playlists for SAP- FICO
 
-
+[Telugu]()
+[Hindi]()
+[]English()
 
 ### 🚀 Career Opportunities
 
