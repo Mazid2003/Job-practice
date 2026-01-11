@@ -74,7 +74,7 @@ Handles internal cost tracking and decision-making:
 
 [Telugu]()
 [Hindi]()
-[]English()
+[English]()
 
 ### 🚀 Career Opportunities
 
