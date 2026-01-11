@@ -73,8 +73,8 @@ Handles internal cost tracking and decision-making:
 ### Youtube Playlists for SAP- FICO
 
 - **[SAP-FICO Playlist in Telugu](https://www.youtube.com/playlist?list=PLBzcn9WfQMaOAwTFCzjcI4fST-TZ9vbmb)**
-- **[Hindi](https://www.youtube.com/playlist?list=PL0avVLYg8Hmz90UcuI2SlCz8kBtc1Mbg0)**
-- **[English](https://www.youtube.com/playlist?list=PLK-n_q2enVedy0qsevT5tsdLOv5qw1Rzs)**
+- **[SAP-FICO Playlist in Hindi](https://www.youtube.com/playlist?list=PL0avVLYg8Hmz90UcuI2SlCz8kBtc1Mbg0)**
+- **[SAP-FICO Playlist in English](https://www.youtube.com/playlist?list=PLK-n_q2enVedy0qsevT5tsdLOv5qw1Rzs)**
 
 ### 🚀 Career Opportunities
 
