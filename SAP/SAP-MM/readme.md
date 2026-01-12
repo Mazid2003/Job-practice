@@ -39,4 +39,18 @@ It ensures the **right material is available at the right time, in the right qua
 
 ---
 
+🔄 Important Business Process
+Procure-to-Pay (P2P)
+
+Purchase Requisition
+
+Purchase Order
+
+Goods Receipt
+
+Invoice Receipt
+
+Payment to Vendor
+
+---
 
