@@ -39,19 +39,4 @@ It ensures the **right material is available at the right time, in the right qua
 
 ---
 
-## 📂 Folder Structure
 
-```text
-sap-mm/
-│
-├── README.md
-├── notes/
-│   ├── mm-basics.md
-│   ├── procurement-cycle.md
-│
-├── processes/
-│   ├── purchase-to-pay.md
-│   ├── goods-receipt-flow.md
-│
-└── interview-questions/
-    ├── mm-interview-questions.md
