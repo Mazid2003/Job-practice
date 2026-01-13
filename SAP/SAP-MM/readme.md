@@ -73,14 +73,10 @@ It ensures the **right material is available at the right time, in the right qua
 
 - Material Types
 - Purchase Orders
-Stock Types
-
-Movement Types
-
-Valuation Class
-
-Goods Receipt (GR)
-
-Invoice Receipt (IR)
+- Stock Types
+- Movement Types
+- Valuation Class
+- Goods Receipt (GR)
+- Invoice Receipt (IR)
 
 ---
