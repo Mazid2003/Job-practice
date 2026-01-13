@@ -62,12 +62,9 @@ It ensures the **right material is available at the right time, in the right qua
 
 ## 🧠 Who Should Learn SAP MM?
 
-Supply chain students
-
-Operations & logistics professionals
-
-ERP consultants
-
-Freshers entering SAP functional roles
+- Supply chain students
+- Operations & logistics professionals
+- ERP consultants
+- Freshers entering SAP functional roles
 
 ---
