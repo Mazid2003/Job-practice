@@ -84,10 +84,8 @@ It ensures the **right material is available at the right time, in the right qua
 ## 🚀 Career Roles
 
 - SAP MM Consultant
-Procurement Analyst
-
-Supply Chain Executive
-
-Inventory Manager
+- Procurement Analyst
+- Supply Chain Executive
+- Inventory Manager
 
 ---
