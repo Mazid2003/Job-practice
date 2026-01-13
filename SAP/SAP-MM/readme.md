@@ -80,3 +80,14 @@ It ensures the **right material is available at the right time, in the right qua
 - Invoice Receipt (IR)
 
 ---
+
+## 🚀 Career Roles
+
+- SAP MM Consultant
+Procurement Analyst
+
+Supply Chain Executive
+
+Inventory Manager
+
+---
