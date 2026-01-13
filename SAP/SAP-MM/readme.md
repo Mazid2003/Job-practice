@@ -52,14 +52,14 @@ It ensures the **right material is available at the right time, in the right qua
 
 ## 🎯 Objectives of This Module
 
-Understand procurement and inventory flow
+- Understand procurement and inventory flow
 
-Learn vendor and material handling
+- Learn vendor and material handling
 
-Track stock movement
+- Track stock movement
 
-Prepare for SAP MM interviews
+- Prepare for SAP MM interviews
 
-Gain ERP supply-chain knowledge
+- Gain ERP supply-chain knowledge
 
 ---
