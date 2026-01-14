@@ -84,7 +84,7 @@ It ensures the **right material is available at the right time, in the right qua
 ## Youtube Playlists for SAP-MM
 
 - **[SAP-MM Playlist in Telugu](https://www.youtube.com/playlist?list=PLftmKCZZdyuzaQT-eU219OHj1_b9j6mdV)**
-- **[SAP-MM Playlist in Hindi-1]()**
+- **[SAP-MM Playlist in Hindi-1](https://www.youtube.com/playlist?list=PL71i23QiQd9VSrHTuXQyiOlLsi8NnGbSp)**
 - **[SAP-MM Playlist in Hindi-2]()**
 - **[SAP-MM Playlist in English]()**
 
