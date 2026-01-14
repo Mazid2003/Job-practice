@@ -83,6 +83,8 @@ It ensures the **right material is available at the right time, in the right qua
 
 ## Youtube Playlists for SAP-MM
 
+- **[Telugu]()**
+
 ## 🚀 Career Roles
 
 - SAP MM Consultant
