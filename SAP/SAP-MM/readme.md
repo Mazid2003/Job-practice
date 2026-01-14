@@ -83,7 +83,7 @@ It ensures the **right material is available at the right time, in the right qua
 
 ## Youtube Playlists for SAP-MM
 
-- **[Telugu]()**
+- **[Telugu](https://www.youtube.com/playlist?list=PLftmKCZZdyuzaQT-eU219OHj1_b9j6mdV)**
 - **[Hindi-1]()**
 - **[Hindi-2]()**
 - **[English]()**
