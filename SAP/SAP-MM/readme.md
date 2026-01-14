@@ -84,6 +84,9 @@ It ensures the **right material is available at the right time, in the right qua
 ## Youtube Playlists for SAP-MM
 
 - **[Telugu]()**
+- **[Hindi-1]()**
+- **[Hindi-2]()**
+- **[English]()**
 
 ## 🚀 Career Roles
 
