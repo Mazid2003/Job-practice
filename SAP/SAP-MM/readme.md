@@ -86,8 +86,7 @@ It ensures the **right material is available at the right time, in the right qua
 - **[SAP-MM Playlist in Telugu](https://www.youtube.com/playlist?list=PLftmKCZZdyuzaQT-eU219OHj1_b9j6mdV)**
 - **[SAP-MM Playlist in Hindi-1](https://www.youtube.com/playlist?list=PL71i23QiQd9VSrHTuXQyiOlLsi8NnGbSp)**
 - **[SAP-MM Playlist in Hindi-2](https://www.youtube.com/watch?v=iaD-pyE03lc)**
-- **[SAP-MM Playlist in English](https://www.youtube.com/playlist?list=PL71i23QiQd9VGtf7S00hNFeHrdpm665uM
-)**
+- **[SAP-MM Playlist in English](https://www.youtube.com/playlist?list=PL71i23QiQd9VGtf7S00hNFeHrdpm665uM)**
 
 ## 🚀 Career Roles
 
