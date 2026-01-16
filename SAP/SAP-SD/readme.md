@@ -56,12 +56,12 @@ It supports the complete **Order-to-Cash (O2C) business cycle** in an organizati
 
 - Delivery
 
-Picking & Packing
+- Picking & Packing
 
-Goods Issue
+- Goods Issue
 
-Billing
+- Billing
 
-Payment Receipt
+- Payment Receipt
 
 ---
