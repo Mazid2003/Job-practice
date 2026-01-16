@@ -46,22 +46,22 @@ It supports the complete **Order-to-Cash (O2C) business cycle** in an organizati
 
 ## 🔄 Important Business Process
 
-Order-to-Cash (O2C) Cycle
-
-Inquiry
-
-Quotation
-
-Sales Order
-
-Delivery
-
-Picking & Packing
-
-Goods Issue
-
-Billing
-
-Payment Receipt
+  Order-to-Cash (O2C) Cycle
+  
+  Inquiry
+  
+  Quotation
+  
+  Sales Order
+  
+  Delivery
+  
+  Picking & Packing
+  
+  Goods Issue
+  
+  Billing
+  
+  Payment Receipt
 
 ---
