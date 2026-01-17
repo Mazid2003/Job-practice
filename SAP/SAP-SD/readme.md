@@ -60,7 +60,7 @@ It supports the complete **Order-to-Cash (O2C) business cycle** in an organizati
 
 ## 🎯 Objectives of This Module
 
-Understand complete sales business flow
+- Understand complete sales business flow
 
 Learn customer and sales document handling
 
