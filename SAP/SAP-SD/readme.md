@@ -64,7 +64,7 @@ It supports the complete **Order-to-Cash (O2C) business cycle** in an organizati
 
 - Learn customer and sales document handling
 
-Gain knowledge of pricing and billing
+- Gain knowledge of pricing and billing
 
 Prepare for SAP SD interviews
 
