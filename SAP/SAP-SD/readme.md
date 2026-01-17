@@ -62,7 +62,7 @@ It supports the complete **Order-to-Cash (O2C) business cycle** in an organizati
 
 - Understand complete sales business flow
 
-Learn customer and sales document handling
+- Learn customer and sales document handling
 
 Gain knowledge of pricing and billing
 
