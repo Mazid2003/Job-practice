@@ -68,6 +68,6 @@ It supports the complete **Order-to-Cash (O2C) business cycle** in an organizati
 
 - Prepare for SAP SD interviews
 
-Build strong ERP sales domain expertise
+- Build strong ERP sales domain expertise
 
 ---
