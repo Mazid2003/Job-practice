@@ -1,6 +1,6 @@
 # SAP SD – Sales and Distribution 📊
 
-This folder contains structured learning material and practice resources for **SAP SD (Sales and Distribution)**.
+This folder contains  and for **SAP SD (Sales and Distribution)**.
 
 SAP SD is one of the core functional modules in SAP that manages **customer orders, pricing, billing, shipping, and sales processes**.
 
