@@ -16,8 +16,7 @@ Dart supports:
 ---
 
 ## 🚀 Why Dart?
-
-- 🔹 Primary language for **Flutter**
+🔹 Primary language for **Flutter**
 - 🔹 Single codebase for **Android, iOS, Web, Desktop**
 - 🔹 Easy to learn (similar to Java, JavaScript)
 - 🔹 High performance & scalable
