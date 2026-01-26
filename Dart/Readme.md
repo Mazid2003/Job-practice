@@ -19,7 +19,7 @@ Dart supports:
 🔹 Primary language for **Flutter**
 🔹 Single codebase for **Android, iOS, Web, Desktop**
 🔹 Easy to learn (similar to Java, JavaScript)
-- 🔹 High performance & scalable
+🔹 High performance & scalable
 - 🔹 Strong support for UI development
 
 ---
