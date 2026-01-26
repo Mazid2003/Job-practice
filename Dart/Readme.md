@@ -20,7 +20,7 @@ Dart supports:
 🔹 Single codebase for **Android, iOS, Web, Desktop**
 🔹 Easy to learn (similar to Java, JavaScript)
 🔹 High performance & scalable
-- 🔹 Strong support for UI development
+🔹 Strong support for UI development
 
 ---
 
